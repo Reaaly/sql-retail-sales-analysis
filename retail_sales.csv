@@ -1,0 +1,2001 @@
+Order ID,Date,Region,Sales Channel,Customer Type,Product Category,Product,Salesperson,Quantity,Unit Price,Discount,Revenue
+ORD-1001,9/1/2026,West,Online,New,Accessories,Mouse Pad,Sofia Tan,3,14.55,0,43.65
+ORD-1002,3/17/2026,East,Retail Store,Returning,Storage,Memory Card 256GB,Nora Chen,2,90,0.03,174.6
+ORD-1003,10/6/2026,West,Online,New,Networking,Ethernet Cable,Ben Ho,1,19.4,0,19.4
+ORD-1004,8/26/2026,North,Retail Store,New,Networking,Wi-Fi Router,Aisha Lim,5,280,0.05,1330
+ORD-1005,8/23/2026,North,Corporate Sales,Returning,Networking,Mesh Wi-Fi Set,Aisha Lim,6,727.5,0.05,4146.75
+ORD-1006,3/12/2026,North,Online,Returning,Storage,External HDD 2TB,Daniel Wong,1,320,0.05,304
+ORD-1007,9/8/2026,West,Marketplace,Returning,Accessories,Wireless Mouse,Priya Shah,2,45.9,0,91.8
+ORD-1008,11/11/2026,North,Retail Store,Returning,Storage,External HDD 2TB,Daniel Wong,1,320,0.15,272
+ORD-1009,4/19/2026,East,Retail Store,Returning,Networking,Mesh Wi-Fi Set,Nora Chen,1,795,0,795
+ORD-1010,3/6/2026,Central,Retail Store,New,Computers,Gaming Laptop,Chloe Lim,4,4200,0.1,15120
+ORD-1011,9/4/2026,West,Retail Store,New,Storage,External SSD 1TB,Priya Shah,2,450,0.05,855
+ORD-1012,11/9/2026,Central,Corporate Sales,Returning,Computers,Desktop Mini,Kevin Yap,1,1800,0.15,1530
+ORD-1013,12/30/2026,East,Online,New,Accessories,Laptop Stand,Grace Ng,1,38,0.05,36.1
+ORD-1014,12/3/2026,West,Marketplace,Returning,Monitors,27-inch Monitor,Sofia Tan,2,850,0.2,1360
+ORD-1015,4/28/2026,East,Marketplace,Returning,Storage,External HDD 2TB,Amir Hassan,2,320,0.1,576
+ORD-1016,6/17/2026,East,Online,New,Accessories,Webcam,Grace Ng,3,80,0,240
+ORD-1017,9/8/2026,North,Online,New,Monitors,Ultrawide Monitor,Daniel Wong,1,1590,0,1590
+ORD-1018,8/8/2026,Central,Marketplace,New,Accessories,USB-C Hub,Kevin Yap,2,56.1,0.08,103.224
+ORD-1019,1/21/2026,Central,Online,Returning,Computers,Laptop Pro 14,Chloe Lim,1,3200,0.05,3040
+ORD-1020,6/9/2026,East,Marketplace,New,Office Supplies,Sticky Notes,Nora Chen,1,7.76,0.2,6.208
+ORD-1021,12/30/2026,West,Online,Returning,Monitors,Portable Monitor,Ben Ho,1,665,0,665
+ORD-1022,4/26/2026,Central,Online,Returning,Storage,Memory Card 256GB,Chloe Lim,1,90,0.03,87.3
+ORD-1023,8/18/2026,North,Online,New,Monitors,27-inch Monitor,Mei Tan,4,807.5,0,3230
+ORD-1024,1/3/2026,West,Online,New,Office Supplies,Pen Pack,Priya Shah,3,11.4,0.03,33.174
+ORD-1025,8/11/2026,Central,Online,Returning,Accessories,USB-C Hub,Hafiz Rahman,4,55,0.03,213.4
+ORD-1026,12/30/2026,North,Retail Store,Returning,Networking,Wi-Fi Router,Aisha Lim,3,280,0.03,814.8
+ORD-1027,11/29/2026,South,Online,Returning,Monitors,Ultrawide Monitor,Jason Lee,2,1425,0.08,2622
+ORD-1028,2/5/2026,South,Marketplace,Returning,Accessories,Laptop Stand,Jason Lee,4,38,0.03,147.44
+ORD-1029,11/17/2026,East,Marketplace,Returning,Accessories,USB-C Hub,Nora Chen,1,55,0.05,52.25
+ORD-1030,9/9/2026,North,Retail Store,Returning,Monitors,24-inch Monitor,Mei Tan,4,562.6,0.08,2070.368
+ORD-1031,7/27/2026,South,Retail Store,Returning,Accessories,Laptop Stand,Raj Kumar,6,36.1,0.03,210.102
+ORD-1032,9/12/2026,Central,Marketplace,Returning,Storage,External HDD 2TB,Chloe Lim,5,320,0.2,1280
+ORD-1033,11/1/2026,North,Marketplace,Returning,Computers,Laptop Air 13,Aisha Lim,1,2500,0.1,2250
+ORD-1034,11/28/2026,East,Online,Returning,Computers,Laptop Air 13,Amir Hassan,1,2500,0.05,2375
+ORD-1035,4/3/2026,Central,Online,Returning,Computers,All-in-One PC,Hafiz Rahman,3,3060,0,9180
+ORD-1036,3/31/2026,Central,Online,Returning,Computers,Desktop Mini,Hafiz Rahman,1,1872,0.05,1778.4
+ORD-1037,11/7/2026,South,Corporate Sales,New,Networking,Mesh Wi-Fi Set,Farah Ali,6,765,0.2,3672
+ORD-1038,8/22/2026,Central,Corporate Sales,New,Computers,Gaming Laptop,Chloe Lim,1,4284,0.05,4069.8
+ORD-1039,3/22/2026,Central,Corporate Sales,Returning,Monitors,Ultrawide Monitor,Hafiz Rahman,2,1560,0,3120
+ORD-1040,3/26/2026,East,Corporate Sales,Returning,Monitors,27-inch Monitor,Grace Ng,3,901,0.2,2162.4
+ORD-1041,3/3/2026,South,Corporate Sales,Returning,Computers,Laptop Air 13,Raj Kumar,1,2500,0.03,2425
+ORD-1042,1/16/2026,East,Corporate Sales,Returning,Networking,Mesh Wi-Fi Set,Grace Ng,7,780,0.05,5187
+ORD-1043,9/29/2026,West,Corporate Sales,New,Monitors,27-inch Monitor,Sofia Tan,1,901,0.05,855.95
+ORD-1044,6/26/2026,East,Retail Store,Returning,Computers,Gaming Laptop,Nora Chen,2,4368,0.08,8037.12
+ORD-1045,10/16/2026,East,Corporate Sales,Returning,Computers,All-in-One PC,Nora Chen,1,3180,0.05,3021
+ORD-1046,9/8/2026,South,Online,Returning,Accessories,Keyboard,Raj Kumar,4,67.6,0.08,248.768
+ORD-1047,6/11/2026,East,Retail Store,New,Monitors,24-inch Monitor,Amir Hassan,1,603.2,0.2,482.56
+ORD-1048,10/28/2026,Central,Marketplace,Returning,Storage,External HDD 2TB,Chloe Lim,1,339.2,0.05,322.24
+ORD-1049,6/22/2026,West,Retail Store,New,Monitors,27-inch Monitor,Priya Shah,4,807.5,0.1,2907
+ORD-1050,1/21/2026,East,Marketplace,New,Accessories,Laptop Stand,Amir Hassan,2,38,0.05,72.2
+ORD-1051,4/27/2026,East,Marketplace,Returning,Storage,External SSD 1TB,Grace Ng,1,459,0,459
+ORD-1052,1/1/2026,Central,Online,New,Accessories,Keyboard,Chloe Lim,3,68.9,0.05,196.365
+ORD-1053,6/9/2026,West,Online,Returning,Storage,External SSD 1TB,Sofia Tan,7,450,0.03,3055.5
+ORD-1054,12/19/2026,West,Marketplace,Returning,Storage,External SSD 1TB,Priya Shah,1,450,0.15,382.5
+ORD-1055,8/4/2026,Central,Retail Store,New,Monitors,Ultrawide Monitor,Hafiz Rahman,2,1455,0.03,2822.7
+ORD-1056,11/4/2026,East,Online,Returning,Monitors,27-inch Monitor,Grace Ng,1,884,0.08,813.28
+ORD-1057,4/26/2026,Central,Corporate Sales,Returning,Office Supplies,Sticky Notes,Chloe Lim,5,8,0.05,38
+ORD-1058,4/15/2026,South,Retail Store,Returning,Computers,Laptop Pro 14,Raj Kumar,2,3392,0.03,6580.48
+ORD-1059,5/9/2026,South,Marketplace,Returning,Accessories,Wireless Mouse,Farah Ali,1,45,0.1,40.5
+ORD-1060,7/8/2026,West,Corporate Sales,Returning,Office Supplies,Notebook Set,Ben Ho,4,25,0.1,90
+ORD-1061,9/12/2026,East,Retail Store,Returning,Office Supplies,Desk Organizer,Amir Hassan,4,35.7,0.03,138.516
+ORD-1062,3/24/2026,North,Online,Returning,Storage,External HDD 2TB,Daniel Wong,1,320,0.05,304
+ORD-1063,8/25/2026,East,Online,New,Accessories,Keyboard,Grace Ng,1,66.3,0,66.3
+ORD-1064,2/2/2026,Central,Retail Store,Returning,Accessories,USB-C Hub,Hafiz Rahman,5,53.35,0.08,245.41
+ORD-1065,6/11/2026,North,Online,Returning,Monitors,24-inch Monitor,Daniel Wong,1,603.2,0.1,542.88
+ORD-1066,1/5/2026,Central,Marketplace,New,Accessories,Webcam,Chloe Lim,3,83.2,0.1,224.64
+ORD-1067,10/13/2026,East,Retail Store,Returning,Networking,Ethernet Cable,Nora Chen,3,19,0.1,51.3
+ORD-1068,8/9/2026,West,Online,New,Accessories,Wireless Mouse,Ben Ho,2,46.8,0.05,88.92
+ORD-1069,1/10/2026,West,Corporate Sales,Returning,Storage,USB Drive 128GB,Priya Shah,6,60,0.08,331.2
+ORD-1070,3/9/2026,Central,Online,New,Computers,All-in-One PC,Hafiz Rahman,1,3000,0.05,2850
+ORD-1071,9/9/2026,East,Retail Store,New,Accessories,USB-C Hub,Nora Chen,3,56.1,0,168.3
+ORD-1072,12/27/2026,Central,Retail Store,New,Office Supplies,Desk Organizer,Kevin Yap,4,33.25,0.03,129.01
+ORD-1073,9/30/2026,South,Marketplace,Returning,Office Supplies,Notebook Set,Jason Lee,2,26.5,0.05,50.35
+ORD-1074,2/6/2026,South,Corporate Sales,New,Networking,Wi-Fi Router,Raj Kumar,3,296.8,0.05,845.88
+ORD-1075,12/13/2026,Central,Marketplace,New,Office Supplies,Printer Paper,Kevin Yap,1,18.72,0.08,17.2224
+ORD-1076,10/21/2026,East,Online,New,Accessories,Laptop Stand,Nora Chen,6,40.28,0.05,229.596
+ORD-1077,12/20/2026,Central,Corporate Sales,New,Accessories,USB-C Hub,Chloe Lim,4,53.35,0.15,181.39
+ORD-1078,6/4/2026,West,Online,Returning,Accessories,Mouse Pad,Ben Ho,2,15,0.08,27.6
+ORD-1079,4/18/2026,North,Online,Returning,Storage,External HDD 2TB,Aisha Lim,2,310.4,0.1,558.72
+ORD-1080,5/26/2026,East,Marketplace,New,Accessories,Webcam,Amir Hassan,5,84.8,0.05,402.8
+ORD-1081,5/18/2026,West,Online,Returning,Office Supplies,Pen Pack,Sofia Tan,1,12.48,0.1,11.232
+ORD-1082,5/16/2026,West,Marketplace,Returning,Storage,External HDD 2TB,Priya Shah,7,339.2,0.03,2303.168
+ORD-1083,5/4/2026,Central,Retail Store,Returning,Monitors,27-inch Monitor,Chloe Lim,3,884,0.2,2121.6
+ORD-1084,6/9/2026,South,Corporate Sales,Returning,Networking,Network Switch,Farah Ali,8,183.6,0.15,1248.48
+ORD-1085,11/2/2026,East,Online,Returning,Accessories,Keyboard,Grace Ng,2,63.05,0.03,122.317
+ORD-1086,9/4/2026,East,Corporate Sales,Returning,Accessories,Wireless Mouse,Nora Chen,5,45,0.05,213.75
+ORD-1087,7/19/2026,West,Online,New,Storage,Memory Card 256GB,Sofia Tan,3,90,0.05,256.5
+ORD-1088,6/9/2026,East,Corporate Sales,Returning,Monitors,Ultrawide Monitor,Grace Ng,1,1500,0.2,1200
+ORD-1089,4/14/2026,West,Retail Store,New,Networking,Network Switch,Priya Shah,1,174.6,0.05,165.87
+ORD-1090,4/23/2026,South,Marketplace,Returning,Accessories,Webcam,Farah Ali,6,76,0.1,410.4
+ORD-1091,10/8/2026,East,Online,Returning,Storage,External HDD 2TB,Amir Hassan,6,310.4,0.08,1713.408
+ORD-1092,10/2/2026,East,Corporate Sales,New,Computers,Gaming Laptop,Amir Hassan,1,4200,0.1,3780
+ORD-1093,7/30/2026,South,Online,Returning,Networking,Ethernet Cable,Raj Kumar,5,20.4,0.05,96.9
+ORD-1094,3/31/2026,North,Corporate Sales,Returning,Monitors,Ultrawide Monitor,Daniel Wong,3,1455,0,4365
+ORD-1095,2/12/2026,West,Corporate Sales,Returning,Office Supplies,Desk Organizer,Priya Shah,8,33.95,0.08,249.872
+ORD-1096,11/18/2026,South,Retail Store,Returning,Storage,Memory Card 256GB,Raj Kumar,3,90,0.03,261.9
+ORD-1097,12/10/2026,Central,Online,New,Monitors,Portable Monitor,Kevin Yap,1,742,0.2,593.6
+ORD-1098,12/14/2026,East,Corporate Sales,Returning,Storage,Memory Card 256GB,Grace Ng,13,93.6,0.05,1155.96
+ORD-1099,5/15/2026,East,Online,Returning,Networking,Ethernet Cable,Nora Chen,1,20.4,0.03,19.788
+ORD-1100,12/27/2026,East,Corporate Sales,Returning,Monitors,24-inch Monitor,Nora Chen,3,551,0.05,1570.35
+ORD-1101,10/7/2026,North,Corporate Sales,New,Computers,Laptop Air 13,Daniel Wong,2,2550,0.1,4590
+ORD-1102,1/28/2026,Central,Marketplace,Returning,Office Supplies,Notebook Set,Chloe Lim,1,23.75,0.05,22.5625
+ORD-1103,8/1/2026,North,Online,Returning,Monitors,24-inch Monitor,Daniel Wong,1,614.8,0.05,584.06
+ORD-1104,2/17/2026,North,Retail Store,Returning,Office Supplies,Sticky Notes,Mei Tan,2,8,0.2,12.8
+ORD-1105,12/28/2026,South,Corporate Sales,Returning,Networking,Wi-Fi Router,Raj Kumar,5,271.6,0.03,1317.26
+ORD-1106,4/21/2026,East,Corporate Sales,Returning,Monitors,Ultrawide Monitor,Grace Ng,2,1590,0.05,3021
+ORD-1107,2/21/2026,West,Corporate Sales,Returning,Computers,Gaming Laptop,Ben Ho,1,4200,0.15,3570
+ORD-1108,6/4/2026,South,Online,New,Networking,Network Switch,Farah Ali,1,174.6,0.03,169.362
+ORD-1109,2/24/2026,South,Online,New,Networking,Ethernet Cable,Farah Ali,2,19.4,0.1,34.92
+ORD-1110,11/24/2026,North,Online,New,Accessories,Webcam,Mei Tan,1,80,0.08,73.6
+ORD-1111,5/18/2026,South,Corporate Sales,Returning,Office Supplies,Sticky Notes,Jason Lee,8,7.6,0.1,54.72
+ORD-1112,4/6/2026,South,Corporate Sales,Returning,Computers,Laptop Air 13,Raj Kumar,1,2500,0.05,2375
+ORD-1113,10/1/2026,North,Retail Store,Returning,Monitors,27-inch Monitor,Daniel Wong,1,867,0.03,840.99
+ORD-1114,8/29/2026,North,Online,Returning,Storage,USB Drive 128GB,Aisha Lim,3,63.6,0.05,181.26
+ORD-1115,6/7/2026,West,Online,Returning,Accessories,Mouse Pad,Sofia Tan,3,15.9,0.05,45.315
+ORD-1116,6/20/2026,North,Online,Returning,Storage,USB Drive 128GB,Daniel Wong,2,60,0,120
+ORD-1117,6/5/2026,South,Corporate Sales,Returning,Office Supplies,Desk Organizer,Farah Ali,6,33.95,0.15,173.145
+ORD-1118,1/30/2026,North,Online,Returning,Computers,Gaming Laptop,Aisha Lim,1,4200,0,4200
+ORD-1119,3/31/2026,East,Marketplace,Returning,Accessories,Wireless Mouse,Nora Chen,2,45,0.05,85.5
+ORD-1120,6/10/2026,West,Online,Returning,Accessories,Mouse Pad,Ben Ho,3,14.55,0.05,41.4675
+ORD-1121,5/31/2026,Central,Marketplace,New,Accessories,Keyboard,Kevin Yap,3,65,0.1,175.5
+ORD-1122,2/25/2026,West,Retail Store,Returning,Monitors,Ultrawide Monitor,Ben Ho,1,1530,0,1530
+ORD-1123,9/26/2026,South,Online,Returning,Computers,Gaming Laptop,Raj Kumar,1,3990,0.1,3591
+ORD-1124,9/28/2026,North,Retail Store,Returning,Monitors,24-inch Monitor,Mei Tan,4,614.8,0.08,2262.464
+ORD-1125,5/16/2026,East,Marketplace,Returning,Office Supplies,Desk Organizer,Nora Chen,3,33.95,0.03,98.7945
+ORD-1126,9/15/2026,East,Retail Store,Returning,Office Supplies,Printer Paper,Nora Chen,4,18.72,0.08,68.8896
+ORD-1127,10/21/2026,South,Online,Returning,Computers,Desktop Mini,Raj Kumar,1,1800,0.08,1656
+ORD-1128,12/10/2026,Central,Corporate Sales,Returning,Monitors,24-inch Monitor,Hafiz Rahman,2,580,0.1,1044
+ORD-1129,11/22/2026,West,Marketplace,Returning,Office Supplies,Notebook Set,Ben Ho,3,26,0,78
+ORD-1130,3/7/2026,South,Corporate Sales,New,Networking,Mesh Wi-Fi Set,Jason Lee,5,727.5,0.1,3273.75
+ORD-1131,10/27/2026,West,Retail Store,Returning,Office Supplies,Sticky Notes,Sofia Tan,3,8,0,24
+ORD-1132,11/25/2026,West,Marketplace,Returning,Accessories,Laptop Stand,Priya Shah,7,38,0.1,239.4
+ORD-1133,10/8/2026,East,Online,Returning,Monitors,27-inch Monitor,Amir Hassan,2,867,0.08,1595.28
+ORD-1134,6/10/2026,West,Retail Store,Returning,Accessories,Keyboard,Ben Ho,5,65,0,325
+ORD-1135,11/18/2026,Central,Corporate Sales,Returning,Computers,Laptop Pro 14,Chloe Lim,1,3200,0.2,2560
+ORD-1136,11/3/2026,Central,Online,Returning,Computers,Laptop Pro 14,Chloe Lim,1,3328,0.08,3061.76
+ORD-1137,6/3/2026,South,Online,Returning,Office Supplies,Desk Organizer,Farah Ali,1,35,0.05,33.25
+ORD-1138,9/5/2026,West,Retail Store,Returning,Office Supplies,Notebook Set,Priya Shah,1,25,0,25
+ORD-1139,8/14/2026,North,Online,New,Accessories,USB-C Hub,Aisha Lim,1,58.3,0.1,52.47
+ORD-1140,8/1/2026,West,Retail Store,Returning,Computers,Laptop Pro 14,Priya Shah,1,3264,0.05,3100.8
+ORD-1141,9/17/2026,Central,Online,Returning,Monitors,24-inch Monitor,Hafiz Rahman,3,603.2,0,1809.6
+ORD-1142,12/9/2026,West,Online,New,Accessories,Mouse Pad,Ben Ho,4,14.55,0.1,52.38
+ORD-1143,2/12/2026,East,Marketplace,New,Office Supplies,Printer Paper,Nora Chen,3,19.08,0.15,48.654
+ORD-1144,9/15/2026,North,Online,Returning,Office Supplies,Desk Organizer,Daniel Wong,3,35,0.2,84
+ORD-1145,6/2/2026,West,Online,New,Storage,USB Drive 128GB,Ben Ho,1,60,0.08,55.2
+ORD-1146,10/29/2026,Central,Online,New,Storage,USB Drive 128GB,Chloe Lim,5,60,0.08,276
+ORD-1147,6/27/2026,North,Online,New,Computers,Desktop Mini,Mei Tan,1,1800,0.1,1620
+ORD-1148,9/12/2026,East,Corporate Sales,Returning,Monitors,Portable Monitor,Nora Chen,2,700,0.1,1260
+ORD-1149,2/21/2026,South,Retail Store,Returning,Accessories,Wireless Mouse,Farah Ali,5,45,0.08,207
+ORD-1150,1/3/2026,North,Corporate Sales,Returning,Networking,Wi-Fi Router,Aisha Lim,8,280,0.2,1792
+ORD-1151,6/3/2026,East,Retail Store,Returning,Storage,External HDD 2TB,Grace Ng,1,310.4,0.05,294.88
+ORD-1152,6/18/2026,North,Corporate Sales,Returning,Computers,All-in-One PC,Mei Tan,1,3000,0.2,2400
+ORD-1153,2/28/2026,North,Online,Returning,Networking,Ethernet Cable,Aisha Lim,4,20.4,0.05,77.52
+ORD-1154,11/28/2026,North,Corporate Sales,Returning,Computers,Desktop Mini,Mei Tan,1,1800,0.05,1710
+ORD-1155,4/16/2026,North,Retail Store,Returning,Office Supplies,Sticky Notes,Aisha Lim,3,8,0,24
+ORD-1156,6/23/2026,West,Retail Store,Returning,Office Supplies,Notebook Set,Ben Ho,7,25,0.1,157.5
+ORD-1157,6/17/2026,South,Marketplace,Returning,Storage,External HDD 2TB,Raj Kumar,2,320,0.2,512
+ORD-1158,11/17/2026,North,Online,New,Storage,USB Drive 128GB,Daniel Wong,5,60,0.05,285
+ORD-1159,12/9/2026,North,Online,Returning,Monitors,27-inch Monitor,Daniel Wong,1,850,0.1,765
+ORD-1160,5/30/2026,East,Marketplace,New,Accessories,Mouse Pad,Amir Hassan,3,15,0.1,40.5
+ORD-1161,8/1/2026,East,Retail Store,New,Networking,Network Switch,Amir Hassan,5,180,0.08,828
+ORD-1162,6/23/2026,North,Retail Store,Returning,Accessories,Webcam,Daniel Wong,2,80,0.1,144
+ORD-1163,12/12/2026,Central,Online,Returning,Monitors,Ultrawide Monitor,Chloe Lim,1,1500,0.05,1425
+ORD-1164,3/2/2026,South,Retail Store,Returning,Computers,Laptop Air 13,Raj Kumar,3,2550,0.08,7038
+ORD-1165,10/16/2026,Central,Retail Store,Returning,Monitors,24-inch Monitor,Chloe Lim,2,603.2,0.2,965.12
+ORD-1166,8/2/2026,North,Retail Store,Returning,Storage,Memory Card 256GB,Aisha Lim,3,90,0.1,243
+ORD-1167,2/9/2026,West,Corporate Sales,Returning,Monitors,27-inch Monitor,Priya Shah,2,867,0,1734
+ORD-1168,6/18/2026,South,Marketplace,Returning,Accessories,Wireless Mouse,Jason Lee,2,46.8,0.2,74.88
+ORD-1169,12/25/2026,North,Retail Store,Returning,Accessories,Wireless Mouse,Daniel Wong,4,45,0.15,153
+ORD-1170,6/20/2026,Central,Online,Returning,Computers,Gaming Laptop,Kevin Yap,1,4200,0.08,3864
+ORD-1171,7/23/2026,East,Retail Store,New,Computers,Laptop Pro 14,Grace Ng,1,3328,0.08,3061.76
+ORD-1172,11/21/2026,North,Retail Store,Returning,Office Supplies,Sticky Notes,Mei Tan,4,8,0.1,28.8
+ORD-1173,7/24/2026,East,Marketplace,New,Storage,External SSD 1TB,Amir Hassan,1,436.5,0.05,414.675
+ORD-1174,3/23/2026,North,Retail Store,Returning,Monitors,24-inch Monitor,Daniel Wong,2,580,0.05,1102
+ORD-1175,6/13/2026,South,Online,Returning,Computers,Desktop Mini,Raj Kumar,1,1800,0.05,1710
+ORD-1176,4/10/2026,North,Marketplace,New,Accessories,Keyboard,Daniel Wong,2,68.9,0.05,130.91
+ORD-1177,4/4/2026,East,Retail Store,Returning,Computers,Desktop Mini,Grace Ng,1,1800,0.03,1746
+ORD-1178,2/15/2026,West,Corporate Sales,New,Office Supplies,Desk Organizer,Priya Shah,3,35,0.08,96.6
+ORD-1179,4/2/2026,West,Retail Store,Returning,Accessories,USB-C Hub,Sofia Tan,4,56.1,0,224.4
+ORD-1180,1/18/2026,Central,Online,Returning,Office Supplies,Printer Paper,Hafiz Rahman,3,19.08,0.1,51.516
+ORD-1181,5/21/2026,North,Corporate Sales,Returning,Computers,Laptop Pro 14,Mei Tan,1,3200,0.15,2720
+ORD-1182,12/13/2026,Central,Online,Returning,Office Supplies,Desk Organizer,Chloe Lim,1,33.25,0.1,29.925
+ORD-1183,12/11/2026,South,Marketplace,Returning,Monitors,27-inch Monitor,Farah Ali,1,901,0.15,765.85
+ORD-1184,3/15/2026,West,Corporate Sales,New,Computers,Desktop Mini,Ben Ho,1,1800,0.15,1530
+ORD-1185,11/17/2026,South,Retail Store,New,Networking,Network Switch,Farah Ali,6,183.6,0,1101.6
+ORD-1186,4/25/2026,South,Online,Returning,Monitors,Ultrawide Monitor,Raj Kumar,2,1530,0,3060
+ORD-1187,6/6/2026,South,Retail Store,Returning,Storage,USB Drive 128GB,Farah Ali,3,58.2,0.2,139.68
+ORD-1188,8/8/2026,Central,Retail Store,Returning,Networking,Ethernet Cable,Kevin Yap,4,20.8,0.15,70.72
+ORD-1189,11/27/2026,North,Online,Returning,Office Supplies,Notebook Set,Daniel Wong,3,26.5,0.08,73.14
+ORD-1190,2/27/2026,East,Retail Store,Returning,Accessories,Laptop Stand,Grace Ng,1,40.28,0.03,39.0716
+ORD-1191,7/29/2026,East,Marketplace,Returning,Monitors,Portable Monitor,Amir Hassan,2,665,0.1,1197
+ORD-1192,10/13/2026,South,Online,New,Accessories,USB-C Hub,Raj Kumar,4,56.1,0.05,213.18
+ORD-1193,12/3/2026,Central,Retail Store,New,Accessories,Keyboard,Hafiz Rahman,2,67.6,0.15,114.92
+ORD-1194,11/30/2026,South,Online,Returning,Office Supplies,Pen Pack,Farah Ali,1,12.24,0.2,9.792
+ORD-1195,7/24/2026,Central,Marketplace,Returning,Networking,Network Switch,Chloe Lim,3,187.2,0.15,477.36
+ORD-1196,6/5/2026,South,Marketplace,Returning,Accessories,Mouse Pad,Raj Kumar,3,15.6,0.2,37.44
+ORD-1197,4/3/2026,North,Online,Returning,Storage,External SSD 1TB,Mei Tan,4,450,0.05,1710
+ORD-1198,7/25/2026,Central,Online,Returning,Accessories,Mouse Pad,Hafiz Rahman,3,15.3,0.1,41.31
+ORD-1199,4/29/2026,North,Corporate Sales,New,Computers,Laptop Pro 14,Aisha Lim,1,3200,0.05,3040
+ORD-1200,1/12/2026,Central,Corporate Sales,Returning,Computers,Gaming Laptop,Kevin Yap,1,4368,0.05,4149.6
+ORD-1201,6/28/2026,North,Marketplace,New,Monitors,24-inch Monitor,Mei Tan,4,603.2,0.08,2219.776
+ORD-1202,6/9/2026,North,Corporate Sales,Returning,Networking,Wi-Fi Router,Daniel Wong,2,280,0.08,515.2
+ORD-1203,8/28/2026,North,Marketplace,Returning,Storage,External HDD 2TB,Aisha Lim,1,339.2,0.15,288.32
+ORD-1204,12/1/2026,North,Online,Returning,Storage,Memory Card 256GB,Aisha Lim,4,90,0.1,324
+ORD-1205,12/18/2026,South,Online,Returning,Storage,USB Drive 128GB,Farah Ali,2,60,0.15,102
+ORD-1206,2/24/2026,East,Marketplace,Returning,Computers,Gaming Laptop,Nora Chen,1,3990,0.03,3870.3
+ORD-1207,1/18/2026,Central,Retail Store,Returning,Accessories,Laptop Stand,Hafiz Rahman,2,38,0.1,68.4
+ORD-1208,7/31/2026,West,Online,Returning,Networking,Network Switch,Sofia Tan,1,190.8,0.1,171.72
+ORD-1209,3/18/2026,East,Marketplace,Returning,Storage,External SSD 1TB,Grace Ng,5,427.5,0,2137.5
+ORD-1210,1/1/2026,South,Marketplace,New,Storage,External SSD 1TB,Jason Lee,3,450,0.05,1282.5
+ORD-1211,9/30/2026,East,Retail Store,Returning,Accessories,Webcam,Amir Hassan,1,83.2,0.05,79.04
+ORD-1212,7/10/2026,North,Marketplace,Returning,Office Supplies,Pen Pack,Mei Tan,6,11.64,0.08,64.2528
+ORD-1213,3/17/2026,South,Online,Returning,Accessories,USB-C Hub,Raj Kumar,3,58.3,0.2,139.92
+ORD-1214,4/27/2026,Central,Corporate Sales,Returning,Office Supplies,Notebook Set,Chloe Lim,6,26,0.08,143.52
+ORD-1215,9/23/2026,North,Retail Store,Returning,Office Supplies,Sticky Notes,Mei Tan,6,7.76,0.15,39.576
+ORD-1216,3/28/2026,West,Retail Store,New,Networking,Ethernet Cable,Sofia Tan,1,19,0.1,17.1
+ORD-1217,12/19/2026,North,Marketplace,Returning,Networking,Ethernet Cable,Aisha Lim,3,20,0.1,54
+ORD-1218,9/18/2026,South,Corporate Sales,New,Networking,Wi-Fi Router,Raj Kumar,2,285.6,0.05,542.64
+ORD-1219,5/25/2026,East,Retail Store,Returning,Computers,Desktop Mini,Amir Hassan,1,1908,0.05,1812.6
+ORD-1220,6/22/2026,East,Retail Store,Returning,Computers,Laptop Air 13,Grace Ng,1,2425,0.03,2352.25
+ORD-1221,10/5/2026,West,Online,New,Accessories,Laptop Stand,Sofia Tan,2,40.28,0,80.56
+ORD-1222,2/14/2026,East,Retail Store,Returning,Accessories,Laptop Stand,Amir Hassan,3,36.86,0.1,99.522
+ORD-1223,1/14/2026,South,Online,Returning,Networking,Mesh Wi-Fi Set,Farah Ali,4,750,0,3000
+ORD-1224,4/16/2026,North,Online,New,Accessories,Wireless Mouse,Daniel Wong,2,45.9,0,91.8
+ORD-1225,7/20/2026,North,Online,New,Networking,Ethernet Cable,Aisha Lim,5,20.8,0.03,100.88
+ORD-1226,6/27/2026,Central,Marketplace,New,Accessories,Mouse Pad,Hafiz Rahman,2,15,0.03,29.1
+ORD-1227,12/10/2026,West,Retail Store,Returning,Office Supplies,Desk Organizer,Ben Ho,2,36.4,0.15,61.88
+ORD-1228,2/19/2026,North,Marketplace,New,Storage,External SSD 1TB,Aisha Lim,7,477,0.03,3238.83
+ORD-1229,11/3/2026,Central,Corporate Sales,Returning,Monitors,Ultrawide Monitor,Hafiz Rahman,1,1500,0.03,1455
+ORD-1230,10/3/2026,East,Retail Store,Returning,Monitors,Portable Monitor,Grace Ng,3,665,0.05,1895.25
+ORD-1231,8/30/2026,North,Corporate Sales,Returning,Computers,All-in-One PC,Daniel Wong,1,2850,0.1,2565
+ORD-1232,6/25/2026,South,Corporate Sales,New,Computers,Laptop Air 13,Jason Lee,1,2500,0.08,2300
+ORD-1233,8/17/2026,North,Marketplace,Returning,Accessories,Wireless Mouse,Aisha Lim,5,43.65,0.1,196.425
+ORD-1234,5/15/2026,Central,Retail Store,New,Accessories,Mouse Pad,Kevin Yap,2,15.9,0.03,30.846
+ORD-1235,2/28/2026,South,Online,Returning,Networking,Mesh Wi-Fi Set,Farah Ali,3,750,0.05,2137.5
+ORD-1236,12/8/2026,Central,Retail Store,New,Storage,Memory Card 256GB,Hafiz Rahman,4,85.5,0.15,290.7
+ORD-1237,8/13/2026,North,Online,New,Storage,External SSD 1TB,Aisha Lim,5,436.5,0.05,2073.375
+ORD-1238,5/15/2026,North,Corporate Sales,Returning,Networking,Ethernet Cable,Aisha Lim,8,20.8,0.08,153.088
+ORD-1239,5/15/2026,East,Marketplace,Returning,Accessories,Webcam,Nora Chen,4,77.6,0.05,294.88
+ORD-1240,4/6/2026,South,Online,Returning,Monitors,Portable Monitor,Jason Lee,1,728,0.08,669.76
+ORD-1241,12/30/2026,Central,Retail Store,Returning,Accessories,Laptop Stand,Chloe Lim,3,40.28,0.15,102.714
+ORD-1242,7/7/2026,Central,Marketplace,Returning,Monitors,Portable Monitor,Chloe Lim,2,728,0.05,1383.2
+ORD-1243,2/1/2026,Central,Online,New,Accessories,Laptop Stand,Hafiz Rahman,4,38,0.05,144.4
+ORD-1244,7/4/2026,East,Online,Returning,Networking,Wi-Fi Router,Nora Chen,3,296.8,0.2,712.32
+ORD-1245,10/21/2026,West,Online,Returning,Monitors,Ultrawide Monitor,Sofia Tan,1,1455,0.2,1164
+ORD-1246,3/24/2026,East,Online,Returning,Storage,External HDD 2TB,Nora Chen,4,320,0.1,1152
+ORD-1247,8/18/2026,South,Retail Store,New,Storage,USB Drive 128GB,Jason Lee,7,60,0.05,399
+ORD-1248,11/5/2026,Central,Corporate Sales,Returning,Networking,Mesh Wi-Fi Set,Chloe Lim,5,750,0.1,3375
+ORD-1249,10/22/2026,South,Online,Returning,Storage,Memory Card 256GB,Raj Kumar,1,95.4,0.1,85.86
+ORD-1250,6/24/2026,South,Marketplace,Returning,Networking,Ethernet Cable,Raj Kumar,5,19,0.15,80.75
+ORD-1251,10/15/2026,West,Corporate Sales,Returning,Office Supplies,Printer Paper,Ben Ho,14,18,0.15,214.2
+ORD-1252,4/27/2026,South,Retail Store,New,Office Supplies,Desk Organizer,Farah Ali,1,33.25,0.05,31.5875
+ORD-1253,1/30/2026,Central,Retail Store,New,Networking,Mesh Wi-Fi Set,Hafiz Rahman,6,750,0.03,4365
+ORD-1254,2/12/2026,South,Online,Returning,Accessories,USB-C Hub,Farah Ali,4,55,0.1,198
+ORD-1255,9/23/2026,North,Online,New,Monitors,Portable Monitor,Mei Tan,1,665,0.03,645.05
+ORD-1256,12/14/2026,West,Retail Store,New,Accessories,Wireless Mouse,Sofia Tan,2,43.65,0.15,74.205
+ORD-1257,6/27/2026,West,Online,Returning,Accessories,Webcam,Ben Ho,3,76,0.03,221.16
+ORD-1258,10/21/2026,West,Marketplace,Returning,Computers,Laptop Air 13,Sofia Tan,2,2425,0.03,4704.5
+ORD-1259,8/13/2026,South,Retail Store,Returning,Computers,Laptop Pro 14,Jason Lee,1,3200,0.08,2944
+ORD-1260,4/23/2026,North,Marketplace,Returning,Accessories,Webcam,Mei Tan,4,80,0.05,304
+ORD-1261,10/26/2026,Central,Retail Store,New,Monitors,24-inch Monitor,Chloe Lim,5,551,0.15,2341.75
+ORD-1262,6/27/2026,East,Online,Returning,Storage,External SSD 1TB,Nora Chen,3,427.5,0,1282.5
+ORD-1263,1/2/2026,Central,Retail Store,New,Storage,Memory Card 256GB,Kevin Yap,4,93.6,0,374.4
+ORD-1264,7/5/2026,South,Online,Returning,Accessories,Keyboard,Jason Lee,2,66.3,0.08,121.992
+ORD-1265,9/3/2026,South,Retail Store,Returning,Computers,Laptop Air 13,Jason Lee,3,2425,0,7275
+ORD-1266,8/10/2026,West,Corporate Sales,New,Accessories,Keyboard,Priya Shah,4,61.75,0.2,197.6
+ORD-1267,7/27/2026,West,Online,New,Storage,USB Drive 128GB,Ben Ho,4,58.2,0,232.8
+ORD-1268,4/3/2026,South,Marketplace,Returning,Monitors,Ultrawide Monitor,Farah Ali,1,1425,0.08,1311
+ORD-1269,3/25/2026,North,Retail Store,Returning,Computers,All-in-One PC,Mei Tan,1,2850,0.15,2422.5
+ORD-1270,1/12/2026,South,Online,Returning,Office Supplies,Sticky Notes,Jason Lee,1,8.32,0.03,8.0704
+ORD-1271,5/27/2026,North,Online,Returning,Networking,Mesh Wi-Fi Set,Aisha Lim,5,750,0.2,3000
+ORD-1272,1/15/2026,Central,Corporate Sales,New,Computers,Gaming Laptop,Hafiz Rahman,1,3990,0.05,3790.5
+ORD-1273,10/8/2026,East,Retail Store,Returning,Office Supplies,Pen Pack,Nora Chen,1,12,0.15,10.2
+ORD-1274,4/12/2026,West,Corporate Sales,New,Computers,Gaming Laptop,Sofia Tan,1,4200,0.08,3864
+ORD-1275,6/2/2026,Central,Online,New,Accessories,Keyboard,Kevin Yap,4,67.6,0.08,248.768
+ORD-1276,2/4/2026,East,Retail Store,Returning,Monitors,24-inch Monitor,Amir Hassan,2,603.2,0,1206.4
+ORD-1277,4/11/2026,Central,Retail Store,Returning,Computers,Gaming Laptop,Chloe Lim,1,4200,0.15,3570
+ORD-1278,10/19/2026,North,Online,Returning,Computers,Laptop Pro 14,Aisha Lim,3,3264,0.03,9498.24
+ORD-1279,6/28/2026,North,Online,Returning,Office Supplies,Sticky Notes,Mei Tan,1,7.6,0.15,6.46
+ORD-1280,2/8/2026,Central,Retail Store,New,Computers,Laptop Air 13,Kevin Yap,3,2375,0.1,6412.5
+ORD-1281,10/8/2026,North,Online,Returning,Accessories,Wireless Mouse,Aisha Lim,1,45,0.1,40.5
+ORD-1282,9/21/2026,North,Retail Store,Returning,Accessories,Wireless Mouse,Mei Tan,6,45,0.05,256.5
+ORD-1283,2/28/2026,Central,Online,New,Monitors,27-inch Monitor,Chloe Lim,3,884,0.03,2572.44
+ORD-1284,6/14/2026,North,Online,New,Accessories,Keyboard,Daniel Wong,3,61.75,0.1,166.725
+ORD-1285,4/14/2026,Central,Retail Store,New,Computers,Gaming Laptop,Chloe Lim,1,4200,0.08,3864
+ORD-1286,9/26/2026,East,Online,Returning,Storage,Memory Card 256GB,Amir Hassan,2,95.4,0.05,181.26
+ORD-1287,6/6/2026,North,Retail Store,New,Office Supplies,Desk Organizer,Aisha Lim,5,33.25,0.08,152.95
+ORD-1288,10/8/2026,Central,Online,Returning,Accessories,Mouse Pad,Kevin Yap,4,14.25,0.15,48.45
+ORD-1289,11/26/2026,South,Marketplace,Returning,Accessories,Keyboard,Jason Lee,5,66.3,0.1,298.35
+ORD-1290,1/23/2026,South,Retail Store,New,Networking,Network Switch,Raj Kumar,1,180,0,180
+ORD-1291,4/8/2026,North,Retail Store,New,Storage,External HDD 2TB,Aisha Lim,4,326.4,0.15,1109.76
+ORD-1292,1/5/2026,East,Marketplace,Returning,Office Supplies,Desk Organizer,Amir Hassan,2,33.95,0.2,54.32
+ORD-1293,8/11/2026,South,Online,New,Networking,Network Switch,Jason Lee,1,183.6,0.15,156.06
+ORD-1294,11/20/2026,Central,Online,Returning,Accessories,Laptop Stand,Kevin Yap,1,38,0.1,34.2
+ORD-1295,12/13/2026,Central,Corporate Sales,Returning,Computers,Desktop Mini,Hafiz Rahman,1,1800,0.03,1746
+ORD-1296,3/24/2026,North,Online,New,Storage,External SSD 1TB,Mei Tan,2,459,0,918
+ORD-1297,9/12/2026,South,Online,New,Computers,Gaming Laptop,Farah Ali,2,4200,0.05,7980
+ORD-1298,5/13/2026,North,Retail Store,Returning,Storage,External HDD 2TB,Mei Tan,2,320,0.1,576
+ORD-1299,4/11/2026,South,Online,New,Office Supplies,Pen Pack,Raj Kumar,3,11.64,0.1,31.428
+ORD-1300,5/20/2026,Central,Corporate Sales,Returning,Storage,Memory Card 256GB,Chloe Lim,2,90,0.05,171
+ORD-1301,6/18/2026,West,Corporate Sales,New,Computers,Laptop Air 13,Ben Ho,1,2425,0.1,2182.5
+ORD-1302,3/12/2026,North,Online,Returning,Storage,Memory Card 256GB,Daniel Wong,1,90,0.03,87.3
+ORD-1303,4/3/2026,East,Online,Returning,Monitors,Ultrawide Monitor,Amir Hassan,2,1455,0.05,2764.5
+ORD-1304,11/12/2026,North,Online,Returning,Accessories,Laptop Stand,Mei Tan,1,36.1,0.1,32.49
+ORD-1305,2/12/2026,Central,Retail Store,Returning,Computers,Laptop Pro 14,Kevin Yap,2,3328,0.05,6323.2
+ORD-1306,9/30/2026,East,Marketplace,Returning,Accessories,Mouse Pad,Grace Ng,3,14.25,0.15,36.3375
+ORD-1307,9/20/2026,North,Marketplace,Returning,Networking,Mesh Wi-Fi Set,Aisha Lim,5,750,0.03,3637.5
+ORD-1308,2/22/2026,East,Marketplace,Returning,Office Supplies,Desk Organizer,Nora Chen,6,35.7,0.15,182.07
+ORD-1309,2/18/2026,South,Online,New,Monitors,24-inch Monitor,Jason Lee,1,603.2,0,603.2
+ORD-1310,8/25/2026,Central,Online,New,Storage,USB Drive 128GB,Kevin Yap,5,61.2,0,306
+ORD-1311,7/20/2026,East,Online,Returning,Storage,Memory Card 256GB,Grace Ng,2,85.5,0.15,145.35
+ORD-1312,4/24/2026,East,Online,Returning,Computers,Desktop Mini,Grace Ng,1,1800,0.05,1710
+ORD-1313,9/28/2026,North,Online,Returning,Storage,USB Drive 128GB,Mei Tan,4,60,0.08,220.8
+ORD-1314,3/7/2026,Central,Retail Store,Returning,Monitors,Ultrawide Monitor,Hafiz Rahman,2,1425,0,2850
+ORD-1315,9/13/2026,North,Marketplace,Returning,Accessories,Keyboard,Aisha Lim,5,65,0.05,308.75
+ORD-1316,1/12/2026,West,Online,Returning,Monitors,24-inch Monitor,Ben Ho,1,551,0.05,523.45
+ORD-1317,3/28/2026,East,Retail Store,New,Office Supplies,Desk Organizer,Nora Chen,2,33.95,0.03,65.863
+ORD-1318,11/25/2026,Central,Marketplace,Returning,Storage,USB Drive 128GB,Kevin Yap,3,62.4,0.15,159.12
+ORD-1319,1/30/2026,North,Online,Returning,Accessories,Webcam,Aisha Lim,4,80,0.08,294.4
+ORD-1320,6/13/2026,Central,Retail Store,New,Computers,All-in-One PC,Kevin Yap,1,3120,0,3120
+ORD-1321,12/27/2026,South,Corporate Sales,Returning,Computers,Laptop Pro 14,Jason Lee,1,3392,0.2,2713.6
+ORD-1322,5/9/2026,South,Corporate Sales,Returning,Computers,Laptop Air 13,Jason Lee,2,2500,0.15,4250
+ORD-1323,6/11/2026,West,Corporate Sales,Returning,Networking,Ethernet Cable,Priya Shah,6,20.8,0.1,112.32
+ORD-1324,9/19/2026,Central,Online,Returning,Storage,Memory Card 256GB,Kevin Yap,3,91.8,0.1,247.86
+ORD-1325,11/6/2026,South,Retail Store,Returning,Office Supplies,Sticky Notes,Jason Lee,7,8,0.15,47.6
+ORD-1326,2/12/2026,North,Marketplace,Returning,Office Supplies,Desk Organizer,Mei Tan,3,35,0.08,96.6
+ORD-1327,6/28/2026,West,Retail Store,Returning,Monitors,27-inch Monitor,Ben Ho,3,824.5,0.08,2275.62
+ORD-1328,6/28/2026,Central,Online,New,Computers,All-in-One PC,Chloe Lim,1,3180,0.15,2703
+ORD-1329,10/16/2026,South,Marketplace,New,Accessories,USB-C Hub,Jason Lee,1,55,0.1,49.5
+ORD-1330,10/16/2026,Central,Corporate Sales,New,Monitors,Portable Monitor,Chloe Lim,1,728,0.08,669.76
+ORD-1331,1/7/2026,West,Marketplace,Returning,Storage,External HDD 2TB,Sofia Tan,4,304,0.08,1118.72
+ORD-1332,3/29/2026,South,Online,Returning,Monitors,27-inch Monitor,Farah Ali,3,824.5,0.03,2399.295
+ORD-1333,6/17/2026,East,Online,Returning,Networking,Ethernet Cable,Amir Hassan,2,21.2,0.05,40.28
+ORD-1334,1/8/2026,West,Online,Returning,Monitors,27-inch Monitor,Sofia Tan,1,824.5,0.08,758.54
+ORD-1335,5/21/2026,South,Retail Store,New,Networking,Wi-Fi Router,Farah Ali,1,266,0,266
+ORD-1336,6/18/2026,South,Corporate Sales,New,Storage,External SSD 1TB,Jason Lee,6,450,0.03,2619
+ORD-1337,4/20/2026,West,Retail Store,Returning,Monitors,24-inch Monitor,Sofia Tan,1,580,0,580
+ORD-1338,8/25/2026,South,Retail Store,New,Storage,USB Drive 128GB,Raj Kumar,1,60,0.05,57
+ORD-1339,9/16/2026,South,Online,Returning,Networking,Network Switch,Raj Kumar,7,180,0.1,1134
+ORD-1340,10/4/2026,Central,Corporate Sales,Returning,Networking,Ethernet Cable,Chloe Lim,2,21.2,0.15,36.04
+ORD-1341,11/12/2026,Central,Online,Returning,Accessories,Wireless Mouse,Chloe Lim,5,42.75,0.1,192.375
+ORD-1342,5/29/2026,East,Retail Store,Returning,Accessories,Laptop Stand,Amir Hassan,1,38,0.05,36.1
+ORD-1343,4/13/2026,West,Retail Store,Returning,Office Supplies,Pen Pack,Sofia Tan,1,11.64,0.08,10.7088
+ORD-1344,2/19/2026,East,Retail Store,Returning,Storage,USB Drive 128GB,Grace Ng,5,57,0.15,242.25
+ORD-1345,12/5/2026,East,Retail Store,Returning,Monitors,24-inch Monitor,Grace Ng,2,580,0,1160
+ORD-1346,7/24/2026,East,Retail Store,Returning,Storage,USB Drive 128GB,Amir Hassan,2,58.2,0.08,107.088
+ORD-1347,5/22/2026,West,Online,Returning,Office Supplies,Sticky Notes,Priya Shah,1,7.6,0.15,6.46
+ORD-1348,11/28/2026,East,Online,Returning,Computers,Desktop Mini,Grace Ng,1,1800,0.05,1710
+ORD-1349,5/27/2026,North,Retail Store,Returning,Monitors,Portable Monitor,Daniel Wong,1,742,0.2,593.6
+ORD-1350,9/4/2026,South,Online,Returning,Office Supplies,Sticky Notes,Jason Lee,6,8,0.05,45.6
+ORD-1351,9/11/2026,South,Online,New,Monitors,Portable Monitor,Jason Lee,2,714,0,1428
+ORD-1352,3/11/2026,South,Retail Store,Returning,Monitors,Ultrawide Monitor,Raj Kumar,1,1455,0,1455
+ORD-1353,11/24/2026,West,Online,Returning,Accessories,USB-C Hub,Priya Shah,2,55,0.15,93.5
+ORD-1354,5/25/2026,South,Marketplace,Returning,Storage,Memory Card 256GB,Raj Kumar,3,95.4,0.2,228.96
+ORD-1355,12/1/2026,East,Online,Returning,Office Supplies,Printer Paper,Nora Chen,4,18,0.03,69.84
+ORD-1356,2/22/2026,East,Marketplace,Returning,Computers,All-in-One PC,Amir Hassan,1,3000,0.2,2400
+ORD-1357,6/5/2026,North,Retail Store,Returning,Monitors,Ultrawide Monitor,Aisha Lim,1,1500,0.1,1350
+ORD-1358,9/30/2026,West,Marketplace,Returning,Networking,Ethernet Cable,Priya Shah,4,19.4,0.08,71.392
+ORD-1359,8/22/2026,West,Corporate Sales,Returning,Monitors,Portable Monitor,Sofia Tan,2,665,0,1330
+ORD-1360,1/2/2026,North,Corporate Sales,New,Computers,Desktop Mini,Aisha Lim,2,1800,0.1,3240
+ORD-1361,3/18/2026,North,Marketplace,New,Office Supplies,Sticky Notes,Mei Tan,4,8,0.08,29.44
+ORD-1362,7/26/2026,Central,Online,Returning,Networking,Network Switch,Hafiz Rahman,7,187.2,0.2,1048.32
+ORD-1363,12/2/2026,North,Online,Returning,Storage,Memory Card 256GB,Daniel Wong,6,90,0.1,486
+ORD-1364,5/19/2026,East,Retail Store,Returning,Networking,Ethernet Cable,Nora Chen,1,21.2,0.08,19.504
+ORD-1365,12/24/2026,East,Online,Returning,Monitors,27-inch Monitor,Amir Hassan,2,850,0.05,1615
+ORD-1366,6/30/2026,North,Online,New,Accessories,Mouse Pad,Aisha Lim,3,15,0.1,40.5
+ORD-1367,1/23/2026,South,Online,New,Accessories,Webcam,Raj Kumar,2,80,0.05,152
+ORD-1368,5/29/2026,North,Online,Returning,Accessories,Webcam,Daniel Wong,8,84.8,0.1,610.56
+ORD-1369,1/22/2026,South,Online,Returning,Networking,Mesh Wi-Fi Set,Raj Kumar,4,712.5,0.03,2764.5
+ORD-1370,6/18/2026,West,Online,Returning,Storage,Memory Card 256GB,Sofia Tan,1,95.4,0.15,81.09
+ORD-1371,5/3/2026,Central,Online,Returning,Monitors,24-inch Monitor,Chloe Lim,1,562.6,0.08,517.592
+ORD-1372,11/14/2026,Central,Online,Returning,Office Supplies,Printer Paper,Hafiz Rahman,4,17.46,0.03,67.7448
+ORD-1373,9/2/2026,North,Online,Returning,Monitors,27-inch Monitor,Aisha Lim,1,850,0.05,807.5
+ORD-1374,6/1/2026,South,Online,New,Storage,External SSD 1TB,Jason Lee,4,427.5,0,1710
+ORD-1375,2/26/2026,West,Retail Store,New,Networking,Network Switch,Sofia Tan,5,187.2,0,936
+ORD-1376,7/5/2026,West,Corporate Sales,Returning,Computers,Laptop Air 13,Priya Shah,1,2500,0.15,2125
+ORD-1377,9/1/2026,East,Retail Store,New,Accessories,Webcam,Amir Hassan,3,83.2,0.15,212.16
+ORD-1378,3/24/2026,Central,Online,Returning,Storage,External HDD 2TB,Hafiz Rahman,1,320,0.08,294.4
+ORD-1379,3/6/2026,West,Retail Store,New,Office Supplies,Sticky Notes,Priya Shah,3,8.48,0,25.44
+ORD-1380,1/4/2026,North,Retail Store,Returning,Computers,Laptop Air 13,Mei Tan,1,2425,0,2425
+ORD-1381,5/15/2026,South,Corporate Sales,Returning,Computers,All-in-One PC,Raj Kumar,2,3060,0.2,4896
+ORD-1382,1/8/2026,Central,Corporate Sales,Returning,Computers,Desktop Mini,Hafiz Rahman,1,1800,0.05,1710
+ORD-1383,6/12/2026,West,Retail Store,New,Storage,External SSD 1TB,Priya Shah,5,450,0.03,2182.5
+ORD-1384,3/24/2026,Central,Online,New,Accessories,Webcam,Kevin Yap,5,76,0.05,361
+ORD-1385,3/2/2026,East,Retail Store,Returning,Monitors,27-inch Monitor,Grace Ng,1,867,0.15,736.95
+ORD-1386,10/10/2026,North,Retail Store,New,Computers,Laptop Pro 14,Daniel Wong,2,3200,0.1,5760
+ORD-1387,9/25/2026,East,Retail Store,New,Networking,Mesh Wi-Fi Set,Amir Hassan,6,795,0,4770
+ORD-1388,4/9/2026,South,Online,New,Networking,Ethernet Cable,Raj Kumar,2,20.8,0.05,39.52
+ORD-1389,1/21/2026,South,Corporate Sales,Returning,Office Supplies,Desk Organizer,Jason Lee,6,35,0.05,199.5
+ORD-1390,9/27/2026,North,Online,Returning,Accessories,USB-C Hub,Aisha Lim,5,56.1,0.05,266.475
+ORD-1391,11/1/2026,East,Online,New,Accessories,Mouse Pad,Amir Hassan,1,15,0.05,14.25
+ORD-1392,8/27/2026,North,Online,Returning,Storage,Memory Card 256GB,Daniel Wong,2,95.4,0.08,175.536
+ORD-1393,11/1/2026,South,Online,Returning,Accessories,Webcam,Raj Kumar,6,76,0.03,442.32
+ORD-1394,4/6/2026,East,Retail Store,Returning,Storage,USB Drive 128GB,Amir Hassan,1,58.2,0.08,53.544
+ORD-1395,11/6/2026,North,Retail Store,New,Monitors,27-inch Monitor,Aisha Lim,1,850,0.1,765
+ORD-1396,8/3/2026,North,Retail Store,New,Accessories,Webcam,Mei Tan,5,83.2,0.05,395.2
+ORD-1397,6/20/2026,East,Marketplace,Returning,Storage,External SSD 1TB,Grace Ng,3,477,0.2,1144.8
+ORD-1398,11/29/2026,Central,Corporate Sales,Returning,Monitors,24-inch Monitor,Hafiz Rahman,1,603.2,0.15,512.72
+ORD-1399,5/26/2026,West,Corporate Sales,Returning,Computers,Laptop Air 13,Sofia Tan,1,2500,0.03,2425
+ORD-1400,4/29/2026,East,Online,New,Storage,External SSD 1TB,Nora Chen,3,436.5,0.03,1270.215
+ORD-1401,9/11/2026,South,Online,Returning,Monitors,Ultrawide Monitor,Jason Lee,2,1560,0.08,2870.4
+ORD-1402,6/7/2026,South,Corporate Sales,Returning,Computers,All-in-One PC,Farah Ali,1,3180,0.05,3021
+ORD-1403,10/13/2026,West,Marketplace,Returning,Storage,Memory Card 256GB,Ben Ho,1,90,0.08,82.8
+ORD-1404,11/20/2026,West,Corporate Sales,New,Networking,Wi-Fi Router,Priya Shah,10,271.6,0.08,2498.72
+ORD-1405,6/3/2026,South,Online,Returning,Storage,Memory Card 256GB,Raj Kumar,4,90,0.1,324
+ORD-1406,9/15/2026,North,Marketplace,Returning,Monitors,27-inch Monitor,Daniel Wong,3,807.5,0.08,2228.7
+ORD-1407,4/6/2026,West,Online,Returning,Networking,Wi-Fi Router,Ben Ho,4,280,0.05,1064
+ORD-1408,6/7/2026,East,Corporate Sales,New,Computers,Desktop Mini,Nora Chen,1,1836,0.15,1560.6
+ORD-1409,8/7/2026,East,Retail Store,New,Accessories,Webcam,Amir Hassan,3,77.6,0.05,221.16
+ORD-1410,12/26/2026,East,Online,Returning,Storage,USB Drive 128GB,Nora Chen,7,63.6,0.1,400.68
+ORD-1411,10/31/2026,West,Corporate Sales,Returning,Networking,Network Switch,Sofia Tan,5,174.6,0.05,829.35
+ORD-1412,9/8/2026,Central,Retail Store,New,Monitors,Ultrawide Monitor,Kevin Yap,1,1500,0.03,1455
+ORD-1413,11/3/2026,East,Online,New,Accessories,Webcam,Nora Chen,1,80,0.15,68
+ORD-1414,7/7/2026,North,Online,New,Accessories,Keyboard,Mei Tan,1,66.3,0,66.3
+ORD-1415,9/22/2026,East,Online,Returning,Networking,Network Switch,Grace Ng,3,183.6,0.05,523.26
+ORD-1416,11/16/2026,North,Corporate Sales,Returning,Monitors,27-inch Monitor,Daniel Wong,2,807.5,0.08,1485.8
+ORD-1417,1/12/2026,South,Corporate Sales,New,Networking,Network Switch,Raj Kumar,9,183.6,0,1652.4
+ORD-1418,5/4/2026,South,Retail Store,New,Monitors,27-inch Monitor,Farah Ali,1,850,0.05,807.5
+ORD-1419,3/14/2026,North,Corporate Sales,Returning,Networking,Ethernet Cable,Daniel Wong,4,21.2,0.03,82.256
+ORD-1420,9/27/2026,North,Online,New,Computers,Gaming Laptop,Mei Tan,1,4200,0.15,3570
+ORD-1421,6/1/2026,North,Retail Store,Returning,Office Supplies,Sticky Notes,Daniel Wong,4,8.16,0.05,31.008
+ORD-1422,11/2/2026,South,Corporate Sales,New,Office Supplies,Printer Paper,Farah Ali,6,17.46,0.05,99.522
+ORD-1423,5/18/2026,Central,Online,New,Accessories,Mouse Pad,Kevin Yap,3,15,0.05,42.75
+ORD-1424,3/25/2026,South,Online,Returning,Storage,Memory Card 256GB,Jason Lee,2,87.3,0.03,169.362
+ORD-1425,12/28/2026,North,Marketplace,New,Storage,Memory Card 256GB,Aisha Lim,1,87.3,0.05,82.935
+ORD-1426,5/10/2026,West,Retail Store,Returning,Office Supplies,Desk Organizer,Sofia Tan,2,37.1,0.03,71.974
+ORD-1427,2/8/2026,West,Marketplace,Returning,Accessories,Keyboard,Ben Ho,1,67.6,0,67.6
+ORD-1428,7/1/2026,West,Retail Store,Returning,Accessories,Webcam,Ben Ho,1,80,0.15,68
+ORD-1429,5/8/2026,West,Retail Store,New,Monitors,27-inch Monitor,Ben Ho,1,807.5,0.03,783.275
+ORD-1430,11/15/2026,Central,Retail Store,New,Monitors,27-inch Monitor,Kevin Yap,2,901,0.1,1621.8
+ORD-1431,6/21/2026,West,Online,New,Monitors,24-inch Monitor,Sofia Tan,1,614.8,0.08,565.616
+ORD-1432,4/1/2026,East,Corporate Sales,New,Computers,All-in-One PC,Amir Hassan,1,2850,0.08,2622
+ORD-1433,4/25/2026,East,Online,New,Accessories,Laptop Stand,Amir Hassan,2,38,0.05,72.2
+ORD-1434,4/23/2026,West,Retail Store,Returning,Computers,Gaming Laptop,Priya Shah,1,4200,0.1,3780
+ORD-1435,11/22/2026,South,Corporate Sales,Returning,Computers,Laptop Air 13,Jason Lee,1,2425,0.05,2303.75
+ORD-1436,6/15/2026,South,Retail Store,New,Accessories,Wireless Mouse,Farah Ali,1,42.75,0.03,41.4675
+ORD-1437,2/15/2026,West,Online,New,Monitors,Ultrawide Monitor,Ben Ho,1,1560,0.08,1435.2
+ORD-1438,6/26/2026,North,Online,Returning,Accessories,Laptop Stand,Mei Tan,1,39.52,0.08,36.3584
+ORD-1439,11/9/2026,Central,Marketplace,New,Storage,External HDD 2TB,Kevin Yap,4,332.8,0.08,1224.704
+ORD-1440,12/7/2026,East,Corporate Sales,Returning,Networking,Network Switch,Amir Hassan,9,187.2,0.05,1600.56
+ORD-1441,3/24/2026,North,Marketplace,Returning,Accessories,Mouse Pad,Daniel Wong,1,15,0.15,12.75
+ORD-1442,3/4/2026,North,Retail Store,New,Office Supplies,Sticky Notes,Mei Tan,2,7.76,0,15.52
+ORD-1443,8/23/2026,East,Retail Store,Returning,Accessories,Keyboard,Grace Ng,1,68.9,0.08,63.388
+ORD-1444,1/12/2026,West,Corporate Sales,Returning,Computers,Laptop Air 13,Ben Ho,4,2550,0.1,9180
+ORD-1445,11/15/2026,West,Online,Returning,Storage,USB Drive 128GB,Ben Ho,2,57,0.08,104.88
+ORD-1446,7/16/2026,North,Online,New,Storage,USB Drive 128GB,Aisha Lim,1,60,0,60
+ORD-1447,11/18/2026,South,Online,Returning,Computers,Laptop Air 13,Jason Lee,1,2375,0.08,2185
+ORD-1448,4/24/2026,North,Marketplace,Returning,Accessories,Mouse Pad,Aisha Lim,4,15.9,0.03,61.692
+ORD-1449,5/21/2026,South,Online,Returning,Accessories,Keyboard,Farah Ali,5,65,0.03,315.25
+ORD-1450,3/2/2026,East,Marketplace,Returning,Monitors,Ultrawide Monitor,Nora Chen,1,1425,0.08,1311
+ORD-1451,1/30/2026,North,Retail Store,Returning,Accessories,Mouse Pad,Aisha Lim,2,14.25,0.1,25.65
+ORD-1452,11/26/2026,West,Marketplace,New,Accessories,Wireless Mouse,Priya Shah,1,45,0.05,42.75
+ORD-1453,2/24/2026,North,Retail Store,New,Storage,External HDD 2TB,Daniel Wong,4,332.8,0.08,1224.704
+ORD-1454,5/15/2026,West,Retail Store,New,Office Supplies,Sticky Notes,Priya Shah,3,8.32,0.05,23.712
+ORD-1455,12/15/2026,Central,Marketplace,Returning,Networking,Ethernet Cable,Kevin Yap,4,20.8,0.08,76.544
+ORD-1456,5/8/2026,East,Online,Returning,Networking,Ethernet Cable,Amir Hassan,7,20.4,0.05,135.66
+ORD-1457,1/2/2026,Central,Retail Store,Returning,Networking,Ethernet Cable,Hafiz Rahman,2,19,0.03,36.86
+ORD-1458,1/27/2026,Central,Marketplace,Returning,Monitors,27-inch Monitor,Chloe Lim,1,824.5,0.05,783.275
+ORD-1459,4/29/2026,East,Online,Returning,Accessories,USB-C Hub,Amir Hassan,4,55,0.08,202.4
+ORD-1460,3/27/2026,Central,Corporate Sales,Returning,Computers,Desktop Mini,Chloe Lim,2,1710,0.08,3146.4
+ORD-1461,10/30/2026,West,Online,Returning,Computers,Laptop Pro 14,Sofia Tan,2,3200,0.1,5760
+ORD-1462,9/21/2026,South,Online,New,Monitors,27-inch Monitor,Raj Kumar,2,867,0,1734
+ORD-1463,9/13/2026,Central,Corporate Sales,Returning,Computers,Gaming Laptop,Hafiz Rahman,2,4200,0.03,8148
+ORD-1464,2/19/2026,West,Retail Store,New,Computers,Gaming Laptop,Sofia Tan,2,4200,0.05,7980
+ORD-1465,7/21/2026,East,Retail Store,Returning,Monitors,27-inch Monitor,Grace Ng,1,824.5,0.05,783.275
+ORD-1466,12/3/2026,North,Retail Store,Returning,Accessories,Laptop Stand,Aisha Lim,4,36.1,0.03,140.068
+ORD-1467,8/26/2026,East,Online,New,Office Supplies,Pen Pack,Nora Chen,1,12.24,0.08,11.2608
+ORD-1468,2/2/2026,South,Retail Store,New,Office Supplies,Desk Organizer,Farah Ali,2,33.25,0.1,59.85
+ORD-1469,6/1/2026,South,Corporate Sales,New,Monitors,Ultrawide Monitor,Jason Lee,2,1590,0.2,2544
+ORD-1470,9/1/2026,South,Marketplace,Returning,Accessories,Wireless Mouse,Farah Ali,1,45,0.1,40.5
+ORD-1471,1/21/2026,Central,Online,Returning,Storage,USB Drive 128GB,Kevin Yap,1,58.2,0.15,49.47
+ORD-1472,6/13/2026,East,Corporate Sales,Returning,Monitors,24-inch Monitor,Grace Ng,1,580,0.2,464
+ORD-1473,12/1/2026,North,Marketplace,New,Monitors,27-inch Monitor,Daniel Wong,1,807.5,0.05,767.125
+ORD-1474,4/17/2026,South,Online,New,Computers,Laptop Pro 14,Farah Ali,1,3200,0.03,3104
+ORD-1475,9/3/2026,West,Retail Store,Returning,Office Supplies,Pen Pack,Ben Ho,1,12.48,0,12.48
+ORD-1476,12/11/2026,East,Online,Returning,Monitors,27-inch Monitor,Grace Ng,1,850,0.1,765
+ORD-1477,12/14/2026,Central,Marketplace,New,Networking,Mesh Wi-Fi Set,Kevin Yap,1,765,0.08,703.8
+ORD-1478,2/11/2026,Central,Online,New,Computers,Gaming Laptop,Kevin Yap,1,4368,0.08,4018.56
+ORD-1479,12/9/2026,North,Online,New,Accessories,Webcam,Daniel Wong,3,80,0.1,216
+ORD-1480,4/22/2026,North,Online,Returning,Accessories,Webcam,Aisha Lim,4,84.8,0.05,322.24
+ORD-1481,7/5/2026,North,Online,Returning,Networking,Ethernet Cable,Mei Tan,1,20.8,0.08,19.136
+ORD-1482,10/3/2026,North,Marketplace,Returning,Storage,USB Drive 128GB,Mei Tan,6,63.6,0.05,362.52
+ORD-1483,8/27/2026,South,Online,Returning,Storage,External SSD 1TB,Raj Kumar,2,436.5,0.1,785.7
+ORD-1484,11/8/2026,East,Retail Store,Returning,Monitors,24-inch Monitor,Amir Hassan,1,580,0.08,533.6
+ORD-1485,10/10/2026,East,Retail Store,Returning,Accessories,Webcam,Nora Chen,2,80,0.08,147.2
+ORD-1486,10/4/2026,North,Retail Store,Returning,Monitors,Portable Monitor,Aisha Lim,1,728,0,728
+ORD-1487,8/23/2026,Central,Marketplace,New,Accessories,Mouse Pad,Chloe Lim,4,15,0.03,58.2
+ORD-1488,9/21/2026,South,Retail Store,Returning,Office Supplies,Sticky Notes,Raj Kumar,2,8,0.05,15.2
+ORD-1489,12/19/2026,Central,Marketplace,New,Accessories,Mouse Pad,Hafiz Rahman,2,14.25,0.05,27.075
+ORD-1490,4/6/2026,North,Online,New,Storage,USB Drive 128GB,Daniel Wong,2,57,0.1,102.6
+ORD-1491,11/20/2026,Central,Online,Returning,Monitors,Portable Monitor,Chloe Lim,1,742,0.1,667.8
+ORD-1492,11/9/2026,East,Retail Store,Returning,Accessories,Keyboard,Nora Chen,3,61.75,0,185.25
+ORD-1493,9/27/2026,East,Online,New,Accessories,Keyboard,Grace Ng,4,65,0.05,247
+ORD-1494,9/19/2026,Central,Online,Returning,Monitors,24-inch Monitor,Hafiz Rahman,2,562.6,0.03,1091.444
+ORD-1495,11/25/2026,East,Retail Store,New,Accessories,Mouse Pad,Nora Chen,2,15,0.08,27.6
+ORD-1496,9/20/2026,North,Retail Store,Returning,Monitors,24-inch Monitor,Daniel Wong,2,614.8,0.08,1131.232
+ORD-1497,4/20/2026,Central,Online,Returning,Storage,External HDD 2TB,Hafiz Rahman,3,339.2,0.08,936.192
+ORD-1498,11/29/2026,East,Corporate Sales,Returning,Accessories,Wireless Mouse,Nora Chen,8,47.7,0.03,370.152
+ORD-1499,11/14/2026,South,Online,Returning,Storage,External SSD 1TB,Raj Kumar,4,450,0.05,1710
+ORD-1500,5/17/2026,East,Corporate Sales,New,Computers,Gaming Laptop,Amir Hassan,2,3990,0.03,7740.6
+ORD-1501,12/16/2026,Central,Corporate Sales,Returning,Monitors,Portable Monitor,Kevin Yap,1,714,0.15,606.9
+ORD-1502,1/17/2026,South,Corporate Sales,New,Monitors,27-inch Monitor,Farah Ali,3,867,0.15,2210.85
+ORD-1503,1/5/2026,South,Online,Returning,Storage,External HDD 2TB,Farah Ali,1,332.8,0,332.8
+ORD-1504,9/11/2026,West,Online,New,Office Supplies,Desk Organizer,Priya Shah,5,37.1,0.03,179.935
+ORD-1505,4/4/2026,South,Online,New,Accessories,Webcam,Raj Kumar,5,76,0.15,323
+ORD-1506,3/30/2026,East,Marketplace,New,Accessories,Wireless Mouse,Amir Hassan,1,45,0,45
+ORD-1507,9/17/2026,North,Online,New,Office Supplies,Notebook Set,Daniel Wong,2,25.5,0,51
+ORD-1508,10/24/2026,South,Retail Store,New,Office Supplies,Desk Organizer,Farah Ali,1,35,0,35
+ORD-1509,10/22/2026,North,Online,New,Accessories,Webcam,Aisha Lim,1,77.6,0.03,75.272
+ORD-1510,4/23/2026,Central,Retail Store,New,Computers,Desktop Mini,Kevin Yap,1,1908,0,1908
+ORD-1511,1/13/2026,North,Retail Store,New,Monitors,Portable Monitor,Daniel Wong,1,714,0.1,642.6
+ORD-1512,10/26/2026,East,Marketplace,Returning,Monitors,27-inch Monitor,Amir Hassan,3,824.5,0.15,2102.475
+ORD-1513,2/10/2026,West,Corporate Sales,Returning,Computers,Laptop Air 13,Ben Ho,2,2500,0.08,4600
+ORD-1514,6/23/2026,Central,Online,Returning,Computers,Gaming Laptop,Hafiz Rahman,1,3990,0.03,3870.3
+ORD-1515,6/6/2026,South,Online,Returning,Monitors,Portable Monitor,Farah Ali,1,679,0.1,611.1
+ORD-1516,7/13/2026,East,Online,New,Accessories,USB-C Hub,Grace Ng,1,57.2,0,57.2
+ORD-1517,8/26/2026,Central,Retail Store,New,Storage,External HDD 2TB,Hafiz Rahman,4,310.4,0.08,1142.272
+ORD-1518,2/20/2026,East,Retail Store,Returning,Accessories,USB-C Hub,Grace Ng,3,53.35,0.08,147.246
+ORD-1519,10/13/2026,South,Corporate Sales,New,Computers,Laptop Air 13,Farah Ali,2,2375,0.1,4275
+ORD-1520,7/13/2026,East,Retail Store,New,Office Supplies,Desk Organizer,Grace Ng,6,35,0.15,178.5
+ORD-1521,12/12/2026,Central,Retail Store,Returning,Monitors,27-inch Monitor,Chloe Lim,1,850,0.2,680
+ORD-1522,1/18/2026,Central,Online,Returning,Office Supplies,Pen Pack,Hafiz Rahman,4,12.48,0.05,47.424
+ORD-1523,9/13/2026,South,Retail Store,Returning,Monitors,27-inch Monitor,Farah Ali,3,884,0.05,2519.4
+ORD-1524,3/28/2026,West,Online,New,Accessories,Mouse Pad,Sofia Tan,3,15.9,0.2,38.16
+ORD-1525,2/21/2026,Central,Marketplace,Returning,Storage,Memory Card 256GB,Hafiz Rahman,2,90,0.05,171
+ORD-1526,6/8/2026,North,Retail Store,Returning,Office Supplies,Pen Pack,Aisha Lim,2,12,0.08,22.08
+ORD-1527,1/2/2026,East,Corporate Sales,New,Monitors,24-inch Monitor,Amir Hassan,2,580,0.08,1067.2
+ORD-1528,6/3/2026,East,Retail Store,New,Storage,External SSD 1TB,Grace Ng,3,450,0.2,1080
+ORD-1529,10/16/2026,East,Marketplace,Returning,Accessories,Laptop Stand,Grace Ng,2,38,0,76
+ORD-1530,10/24/2026,Central,Online,Returning,Monitors,24-inch Monitor,Hafiz Rahman,3,580,0.08,1600.8
+ORD-1531,7/5/2026,East,Marketplace,New,Accessories,Laptop Stand,Nora Chen,5,38,0,190
+ORD-1532,8/30/2026,East,Online,Returning,Office Supplies,Desk Organizer,Nora Chen,2,35,0.1,63
+ORD-1533,5/3/2026,Central,Retail Store,Returning,Office Supplies,Printer Paper,Kevin Yap,1,18.72,0.05,17.784
+ORD-1534,3/19/2026,West,Online,Returning,Storage,External SSD 1TB,Ben Ho,1,427.5,0.05,406.125
+ORD-1535,6/25/2026,Central,Online,Returning,Computers,Desktop Mini,Hafiz Rahman,1,1800,0.08,1656
+ORD-1536,12/15/2026,South,Online,Returning,Networking,Wi-Fi Router,Jason Lee,7,285.6,0.08,1839.264
+ORD-1537,11/11/2026,South,Marketplace,New,Storage,Memory Card 256GB,Raj Kumar,4,90,0.1,324
+ORD-1538,7/22/2026,West,Online,Returning,Storage,External SSD 1TB,Priya Shah,2,427.5,0.05,812.25
+ORD-1539,6/8/2026,West,Online,New,Storage,External SSD 1TB,Priya Shah,7,450,0.1,2835
+ORD-1540,12/3/2026,Central,Online,Returning,Office Supplies,Sticky Notes,Hafiz Rahman,6,8,0.1,43.2
+ORD-1541,4/22/2026,Central,Retail Store,Returning,Computers,Gaming Laptop,Hafiz Rahman,1,4284,0.1,3855.6
+ORD-1542,10/13/2026,South,Marketplace,New,Office Supplies,Pen Pack,Raj Kumar,1,12.72,0.2,10.176
+ORD-1543,8/6/2026,West,Online,Returning,Computers,All-in-One PC,Sofia Tan,3,2910,0.08,8031.6
+ORD-1544,1/3/2026,East,Online,Returning,Office Supplies,Pen Pack,Amir Hassan,6,11.4,0.08,62.928
+ORD-1545,3/11/2026,Central,Retail Store,Returning,Networking,Network Switch,Chloe Lim,2,190.8,0.1,343.44
+ORD-1546,7/1/2026,South,Corporate Sales,Returning,Computers,All-in-One PC,Raj Kumar,1,3060,0.05,2907
+ORD-1547,9/21/2026,North,Retail Store,Returning,Accessories,USB-C Hub,Mei Tan,3,55,0,165
+ORD-1548,12/22/2026,North,Corporate Sales,Returning,Storage,USB Drive 128GB,Daniel Wong,3,63.6,0.1,171.72
+ORD-1549,3/2/2026,North,Corporate Sales,Returning,Monitors,24-inch Monitor,Aisha Lim,1,580,0.2,464
+ORD-1550,12/1/2026,North,Online,Returning,Accessories,Wireless Mouse,Aisha Lim,5,45,0.1,202.5
+ORD-1551,12/28/2026,Central,Online,Returning,Networking,Wi-Fi Router,Kevin Yap,2,280,0,560
+ORD-1552,1/23/2026,West,Online,Returning,Networking,Wi-Fi Router,Sofia Tan,3,296.8,0.1,801.36
+ORD-1553,11/4/2026,North,Retail Store,Returning,Accessories,Keyboard,Daniel Wong,2,67.6,0.15,114.92
+ORD-1554,9/11/2026,North,Corporate Sales,Returning,Computers,Laptop Air 13,Mei Tan,1,2375,0.05,2256.25
+ORD-1555,4/25/2026,South,Corporate Sales,Returning,Monitors,24-inch Monitor,Jason Lee,1,580,0.15,493
+ORD-1556,5/6/2026,North,Retail Store,New,Accessories,Wireless Mouse,Aisha Lim,2,45,0.1,81
+ORD-1557,9/7/2026,North,Online,Returning,Accessories,Keyboard,Daniel Wong,3,61.75,0.08,170.43
+ORD-1558,12/21/2026,Central,Online,Returning,Monitors,27-inch Monitor,Kevin Yap,5,824.5,0.2,3298
+ORD-1559,5/25/2026,Central,Retail Store,Returning,Storage,External HDD 2TB,Chloe Lim,1,320,0,320
+ORD-1560,9/30/2026,East,Online,Returning,Accessories,Mouse Pad,Amir Hassan,2,15.3,0.05,29.07
+ORD-1561,8/29/2026,West,Online,Returning,Networking,Mesh Wi-Fi Set,Sofia Tan,4,750,0.05,2850
+ORD-1562,1/8/2026,West,Retail Store,New,Accessories,Mouse Pad,Sofia Tan,1,15.3,0,15.3
+ORD-1563,2/24/2026,South,Online,Returning,Accessories,Webcam,Raj Kumar,1,84.8,0.05,80.56
+ORD-1564,12/15/2026,North,Online,Returning,Accessories,Laptop Stand,Daniel Wong,1,38,0.03,36.86
+ORD-1565,8/9/2026,North,Marketplace,Returning,Accessories,Laptop Stand,Daniel Wong,6,38,0.08,209.76
+ORD-1566,12/29/2026,North,Marketplace,Returning,Accessories,Webcam,Aisha Lim,5,84.8,0.05,402.8
+ORD-1567,11/9/2026,North,Retail Store,Returning,Computers,Gaming Laptop,Mei Tan,2,4200,0.1,7560
+ORD-1568,12/29/2026,North,Marketplace,New,Monitors,24-inch Monitor,Daniel Wong,2,603.2,0.08,1109.888
+ORD-1569,11/15/2026,East,Online,Returning,Storage,Memory Card 256GB,Grace Ng,1,90,0.05,85.5
+ORD-1570,12/1/2026,East,Online,Returning,Office Supplies,Sticky Notes,Nora Chen,7,7.6,0.08,48.944
+ORD-1571,11/13/2026,North,Marketplace,Returning,Storage,External SSD 1TB,Daniel Wong,2,436.5,0.1,785.7
+ORD-1572,1/14/2026,West,Corporate Sales,Returning,Monitors,27-inch Monitor,Sofia Tan,2,824.5,0.05,1566.55
+ORD-1573,7/30/2026,West,Marketplace,New,Computers,All-in-One PC,Priya Shah,1,2850,0.03,2764.5
+ORD-1574,9/18/2026,West,Online,Returning,Accessories,Wireless Mouse,Priya Shah,4,47.7,0.1,171.72
+ORD-1575,3/24/2026,West,Online,Returning,Monitors,Portable Monitor,Ben Ho,1,700,0.05,665
+ORD-1576,7/17/2026,Central,Retail Store,Returning,Office Supplies,Desk Organizer,Kevin Yap,3,37.1,0.1,100.17
+ORD-1577,11/29/2026,North,Marketplace,Returning,Accessories,Keyboard,Mei Tan,7,65,0,455
+ORD-1578,4/23/2026,North,Online,New,Networking,Wi-Fi Router,Mei Tan,2,280,0.08,515.2
+ORD-1579,6/14/2026,East,Corporate Sales,New,Accessories,Keyboard,Grace Ng,6,66.3,0.05,377.91
+ORD-1580,10/16/2026,East,Corporate Sales,Returning,Monitors,Ultrawide Monitor,Amir Hassan,3,1500,0.05,4275
+ORD-1581,3/12/2026,Central,Corporate Sales,New,Computers,Gaming Laptop,Kevin Yap,1,4200,0.03,4074
+ORD-1582,4/6/2026,Central,Corporate Sales,Returning,Computers,Laptop Air 13,Chloe Lim,1,2425,0.05,2303.75
+ORD-1583,6/12/2026,North,Retail Store,New,Computers,Desktop Mini,Mei Tan,1,1800,0.08,1656
+ORD-1584,7/4/2026,Central,Retail Store,Returning,Accessories,USB-C Hub,Kevin Yap,1,56.1,0.2,44.88
+ORD-1585,12/11/2026,West,Online,Returning,Networking,Mesh Wi-Fi Set,Ben Ho,2,795,0.03,1542.3
+ORD-1586,11/5/2026,West,Online,New,Storage,External HDD 2TB,Priya Shah,2,339.2,0.05,644.48
+ORD-1587,9/19/2026,East,Corporate Sales,Returning,Computers,Laptop Pro 14,Grace Ng,1,3392,0.2,2713.6
+ORD-1588,6/16/2026,South,Retail Store,Returning,Office Supplies,Desk Organizer,Farah Ali,1,36.4,0.15,30.94
+ORD-1589,6/1/2026,South,Online,Returning,Office Supplies,Notebook Set,Farah Ali,4,25,0.08,92
+ORD-1590,11/10/2026,North,Corporate Sales,Returning,Storage,Memory Card 256GB,Mei Tan,11,90,0.1,891
+ORD-1591,3/16/2026,Central,Retail Store,New,Networking,Network Switch,Hafiz Rahman,1,174.6,0.05,165.87
+ORD-1592,6/18/2026,East,Retail Store,Returning,Accessories,USB-C Hub,Amir Hassan,3,55,0,165
+ORD-1593,11/10/2026,East,Corporate Sales,New,Office Supplies,Pen Pack,Grace Ng,5,12,0.1,54
+ORD-1594,6/21/2026,West,Online,New,Networking,Mesh Wi-Fi Set,Sofia Tan,1,712.5,0.05,676.875
+ORD-1595,8/12/2026,East,Retail Store,Returning,Storage,Memory Card 256GB,Nora Chen,2,87.3,0.1,157.14
+ORD-1596,11/6/2026,East,Online,Returning,Storage,USB Drive 128GB,Grace Ng,1,60,0.08,55.2
+ORD-1597,12/12/2026,North,Online,Returning,Accessories,Keyboard,Mei Tan,4,65,0.1,234
+ORD-1598,7/28/2026,South,Marketplace,Returning,Accessories,Mouse Pad,Raj Kumar,1,15.3,0.08,14.076
+ORD-1599,1/17/2026,South,Corporate Sales,Returning,Networking,Mesh Wi-Fi Set,Raj Kumar,4,727.5,0.08,2677.2
+ORD-1600,10/18/2026,East,Marketplace,Returning,Monitors,24-inch Monitor,Nora Chen,1,603.2,0,603.2
+ORD-1601,12/16/2026,South,Corporate Sales,New,Monitors,Ultrawide Monitor,Raj Kumar,2,1500,0,3000
+ORD-1602,3/28/2026,West,Corporate Sales,New,Computers,Laptop Pro 14,Sofia Tan,1,3328,0.1,2995.2
+ORD-1603,1/16/2026,West,Online,New,Storage,External SSD 1TB,Sofia Tan,1,477,0,477
+ORD-1604,4/1/2026,West,Corporate Sales,Returning,Computers,Laptop Air 13,Sofia Tan,1,2500,0,2500
+ORD-1605,11/9/2026,Central,Online,New,Monitors,27-inch Monitor,Chloe Lim,1,824.5,0.1,742.05
+ORD-1606,7/23/2026,North,Online,Returning,Monitors,24-inch Monitor,Aisha Lim,4,580,0.1,2088
+ORD-1607,5/19/2026,North,Corporate Sales,New,Office Supplies,Printer Paper,Mei Tan,4,18.72,0.03,72.6336
+ORD-1608,10/11/2026,North,Online,New,Storage,USB Drive 128GB,Aisha Lim,1,57,0.05,54.15
+ORD-1609,4/20/2026,West,Corporate Sales,Returning,Computers,Gaming Laptop,Sofia Tan,4,4200,0.05,15960
+ORD-1610,11/26/2026,East,Corporate Sales,New,Networking,Network Switch,Grace Ng,6,174.6,0.08,963.792
+ORD-1611,2/5/2026,South,Corporate Sales,Returning,Office Supplies,Pen Pack,Raj Kumar,6,11.64,0.03,67.7448
+ORD-1612,8/13/2026,North,Marketplace,Returning,Accessories,Mouse Pad,Aisha Lim,4,15,0.15,51
+ORD-1613,5/22/2026,East,Retail Store,Returning,Computers,Gaming Laptop,Nora Chen,1,4074,0.05,3870.3
+ORD-1614,8/5/2026,North,Corporate Sales,Returning,Monitors,24-inch Monitor,Mei Tan,1,580,0.1,522
+ORD-1615,4/20/2026,North,Online,Returning,Storage,Memory Card 256GB,Daniel Wong,2,90,0.05,171
+ORD-1616,4/11/2026,Central,Retail Store,New,Office Supplies,Printer Paper,Hafiz Rahman,2,17.46,0.03,33.8724
+ORD-1617,6/2/2026,North,Retail Store,Returning,Computers,Laptop Air 13,Aisha Lim,1,2650,0.05,2517.5
+ORD-1618,7/4/2026,East,Retail Store,Returning,Monitors,Portable Monitor,Nora Chen,2,742,0,1484
+ORD-1619,6/16/2026,East,Online,Returning,Storage,USB Drive 128GB,Nora Chen,1,61.2,0.1,55.08
+ORD-1620,11/12/2026,Central,Retail Store,Returning,Storage,Memory Card 256GB,Hafiz Rahman,2,87.3,0.2,139.68
+ORD-1621,5/22/2026,South,Online,New,Accessories,Mouse Pad,Raj Kumar,5,14.55,0,72.75
+ORD-1622,1/11/2026,North,Corporate Sales,Returning,Monitors,Portable Monitor,Mei Tan,1,700,0.08,644
+ORD-1623,12/13/2026,East,Online,New,Monitors,27-inch Monitor,Grace Ng,1,867,0.15,736.95
+ORD-1624,5/20/2026,South,Marketplace,New,Storage,External SSD 1TB,Jason Lee,2,450,0,900
+ORD-1625,6/8/2026,West,Marketplace,Returning,Storage,USB Drive 128GB,Ben Ho,1,60,0.15,51
+ORD-1626,6/12/2026,Central,Corporate Sales,New,Office Supplies,Printer Paper,Kevin Yap,4,18.36,0.08,67.5648
+ORD-1627,7/22/2026,West,Online,New,Storage,External HDD 2TB,Priya Shah,1,339.2,0.15,288.32
+ORD-1628,12/9/2026,Central,Retail Store,Returning,Office Supplies,Printer Paper,Chloe Lim,3,17.1,0.08,47.196
+ORD-1629,4/24/2026,West,Online,Returning,Computers,Laptop Pro 14,Ben Ho,2,3200,0.03,6208
+ORD-1630,9/9/2026,West,Online,New,Accessories,Wireless Mouse,Ben Ho,5,45,0.03,218.25
+ORD-1631,8/14/2026,East,Marketplace,New,Accessories,Wireless Mouse,Grace Ng,4,45,0.05,171
+ORD-1632,3/28/2026,North,Corporate Sales,Returning,Accessories,Wireless Mouse,Aisha Lim,8,45.9,0.15,312.12
+ORD-1633,11/22/2026,West,Online,Returning,Storage,External HDD 2TB,Sofia Tan,1,320,0.1,288
+ORD-1634,7/27/2026,East,Corporate Sales,Returning,Monitors,24-inch Monitor,Amir Hassan,2,580,0.1,1044
+ORD-1635,5/19/2026,West,Marketplace,Returning,Networking,Mesh Wi-Fi Set,Ben Ho,1,750,0.03,727.5
+ORD-1636,6/9/2026,Central,Online,Returning,Storage,External SSD 1TB,Chloe Lim,3,459,0.08,1266.84
+ORD-1637,12/29/2026,Central,Online,Returning,Computers,Desktop Mini,Chloe Lim,1,1710,0.2,1368
+ORD-1638,11/22/2026,Central,Online,Returning,Storage,USB Drive 128GB,Hafiz Rahman,2,62.4,0.2,99.84
+ORD-1639,11/22/2026,North,Marketplace,Returning,Computers,Gaming Laptop,Mei Tan,1,4200,0.2,3360
+ORD-1640,4/28/2026,Central,Marketplace,Returning,Office Supplies,Printer Paper,Hafiz Rahman,2,17.1,0,34.2
+ORD-1641,6/14/2026,Central,Online,Returning,Networking,Wi-Fi Router,Hafiz Rahman,4,280,0.08,1030.4
+ORD-1642,6/24/2026,Central,Corporate Sales,Returning,Accessories,Wireless Mouse,Chloe Lim,8,45,0.15,306
+ORD-1643,1/7/2026,West,Online,New,Accessories,Webcam,Ben Ho,5,80,0.08,368
+ORD-1644,6/28/2026,West,Online,Returning,Office Supplies,Desk Organizer,Ben Ho,1,35,0.08,32.2
+ORD-1645,11/27/2026,Central,Online,Returning,Networking,Mesh Wi-Fi Set,Kevin Yap,7,727.5,0.05,4837.875
+ORD-1646,11/2/2026,South,Retail Store,New,Accessories,Laptop Stand,Jason Lee,7,38,0.03,258.02
+ORD-1647,7/25/2026,Central,Retail Store,Returning,Accessories,Mouse Pad,Hafiz Rahman,1,15,0.15,12.75
+ORD-1648,4/16/2026,South,Retail Store,New,Accessories,Laptop Stand,Raj Kumar,2,38,0.03,73.72
+ORD-1649,1/9/2026,North,Retail Store,New,Monitors,Portable Monitor,Aisha Lim,1,679,0,679
+ORD-1650,12/13/2026,West,Corporate Sales,Returning,Storage,USB Drive 128GB,Ben Ho,3,58.2,0,174.6
+ORD-1651,12/16/2026,Central,Marketplace,Returning,Networking,Wi-Fi Router,Hafiz Rahman,2,266,0.1,478.8
+ORD-1652,12/22/2026,South,Marketplace,Returning,Storage,USB Drive 128GB,Farah Ali,3,60,0.2,144
+ORD-1653,2/11/2026,West,Retail Store,New,Computers,Laptop Air 13,Priya Shah,2,2650,0.1,4770
+ORD-1654,5/14/2026,South,Marketplace,Returning,Storage,USB Drive 128GB,Jason Lee,2,61.2,0.03,118.728
+ORD-1655,12/25/2026,Central,Retail Store,Returning,Storage,Memory Card 256GB,Chloe Lim,1,85.5,0,85.5
+ORD-1656,1/9/2026,North,Retail Store,New,Office Supplies,Printer Paper,Daniel Wong,2,17.1,0.2,27.36
+ORD-1657,7/16/2026,North,Corporate Sales,New,Computers,Laptop Air 13,Daniel Wong,1,2500,0.03,2425
+ORD-1658,11/19/2026,Central,Retail Store,Returning,Networking,Mesh Wi-Fi Set,Hafiz Rahman,6,780,0.05,4446
+ORD-1659,9/29/2026,South,Online,Returning,Accessories,Laptop Stand,Raj Kumar,5,36.86,0,184.3
+ORD-1660,6/23/2026,West,Retail Store,Returning,Monitors,24-inch Monitor,Ben Ho,4,591.6,0.1,2129.76
+ORD-1661,5/24/2026,Central,Marketplace,Returning,Accessories,Wireless Mouse,Chloe Lim,2,45,0,90
+ORD-1662,7/20/2026,South,Retail Store,New,Networking,Network Switch,Farah Ali,1,174.6,0,174.6
+ORD-1663,10/10/2026,West,Marketplace,New,Accessories,USB-C Hub,Ben Ho,6,55,0.08,303.6
+ORD-1664,9/27/2026,South,Online,Returning,Computers,Desktop Mini,Farah Ali,1,1872,0.05,1778.4
+ORD-1665,8/14/2026,West,Online,Returning,Networking,Mesh Wi-Fi Set,Priya Shah,6,750,0.05,4275
+ORD-1666,7/10/2026,East,Online,Returning,Computers,Laptop Air 13,Amir Hassan,2,2500,0.05,4750
+ORD-1667,8/18/2026,North,Online,New,Computers,Laptop Pro 14,Aisha Lim,1,3392,0.05,3222.4
+ORD-1668,5/19/2026,North,Retail Store,New,Storage,External HDD 2TB,Aisha Lim,5,320,0,1600
+ORD-1669,11/10/2026,South,Corporate Sales,Returning,Monitors,Ultrawide Monitor,Raj Kumar,4,1530,0.15,5202
+ORD-1670,3/3/2026,West,Retail Store,Returning,Accessories,Webcam,Sofia Tan,1,76,0,76
+ORD-1671,9/15/2026,West,Marketplace,Returning,Storage,Memory Card 256GB,Ben Ho,3,90,0.2,216
+ORD-1672,9/23/2026,West,Marketplace,New,Accessories,Keyboard,Sofia Tan,5,63.05,0.1,283.725
+ORD-1673,11/7/2026,East,Online,New,Office Supplies,Sticky Notes,Nora Chen,1,8,0.15,6.8
+ORD-1674,6/1/2026,North,Marketplace,Returning,Computers,Gaming Laptop,Mei Tan,1,4452,0.08,4095.84
+ORD-1675,3/19/2026,Central,Retail Store,New,Accessories,Mouse Pad,Kevin Yap,7,15.6,0.1,98.28
+ORD-1676,8/24/2026,East,Online,Returning,Monitors,Portable Monitor,Amir Hassan,2,700,0.05,1330
+ORD-1677,8/18/2026,North,Marketplace,Returning,Monitors,Portable Monitor,Mei Tan,1,714,0.05,678.3
+ORD-1678,4/7/2026,East,Retail Store,Returning,Monitors,Ultrawide Monitor,Grace Ng,1,1590,0.03,1542.3
+ORD-1679,6/14/2026,Central,Corporate Sales,Returning,Office Supplies,Pen Pack,Kevin Yap,5,12,0.15,51
+ORD-1680,7/6/2026,North,Retail Store,New,Computers,Gaming Laptop,Mei Tan,1,4200,0.05,3990
+ORD-1681,5/9/2026,South,Online,Returning,Office Supplies,Notebook Set,Raj Kumar,2,24.25,0,48.5
+ORD-1682,2/8/2026,East,Marketplace,Returning,Storage,USB Drive 128GB,Grace Ng,5,60,0.15,255
+ORD-1683,9/23/2026,North,Marketplace,Returning,Networking,Wi-Fi Router,Mei Tan,4,271.6,0.08,999.488
+ORD-1684,11/2/2026,East,Online,New,Accessories,Laptop Stand,Grace Ng,4,38,0.1,136.8
+ORD-1685,7/28/2026,North,Corporate Sales,New,Computers,Laptop Air 13,Mei Tan,3,2650,0.1,7155
+ORD-1686,4/26/2026,East,Online,New,Accessories,Mouse Pad,Nora Chen,2,15.6,0.08,28.704
+ORD-1687,10/17/2026,East,Online,Returning,Computers,Gaming Laptop,Grace Ng,3,4452,0.05,12688.2
+ORD-1688,5/1/2026,East,Corporate Sales,Returning,Monitors,24-inch Monitor,Nora Chen,1,562.6,0.05,534.47
+ORD-1689,6/13/2026,West,Corporate Sales,Returning,Networking,Wi-Fi Router,Priya Shah,6,280,0.15,1428
+ORD-1690,7/10/2026,West,Online,New,Office Supplies,Sticky Notes,Sofia Tan,4,8,0.05,30.4
+ORD-1691,11/20/2026,Central,Corporate Sales,Returning,Networking,Network Switch,Kevin Yap,11,180,0.03,1920.6
+ORD-1692,5/24/2026,West,Marketplace,Returning,Monitors,27-inch Monitor,Ben Ho,2,824.5,0.05,1566.55
+ORD-1693,10/6/2026,North,Marketplace,Returning,Accessories,Laptop Stand,Mei Tan,8,39.52,0,316.16
+ORD-1694,11/9/2026,West,Online,New,Storage,External SSD 1TB,Ben Ho,2,477,0.1,858.6
+ORD-1695,5/8/2026,Central,Marketplace,Returning,Office Supplies,Sticky Notes,Kevin Yap,2,8,0.05,15.2
+ORD-1696,8/5/2026,West,Retail Store,New,Computers,All-in-One PC,Sofia Tan,2,3000,0.03,5820
+ORD-1697,3/14/2026,Central,Online,New,Office Supplies,Printer Paper,Kevin Yap,2,18,0.03,34.92
+ORD-1698,6/18/2026,East,Retail Store,New,Monitors,Portable Monitor,Grace Ng,2,742,0.2,1187.2
+ORD-1699,12/27/2026,North,Retail Store,Returning,Monitors,24-inch Monitor,Mei Tan,1,580,0,580
+ORD-1700,12/12/2026,Central,Online,Returning,Accessories,Laptop Stand,Hafiz Rahman,1,38,0.03,36.86
+ORD-1701,4/12/2026,South,Retail Store,Returning,Accessories,Webcam,Farah Ali,1,83.2,0.15,70.72
+ORD-1702,3/27/2026,West,Online,Returning,Accessories,Wireless Mouse,Ben Ho,2,46.8,0.03,90.792
+ORD-1703,11/26/2026,South,Marketplace,Returning,Accessories,Keyboard,Raj Kumar,4,68.9,0.1,248.04
+ORD-1704,11/11/2026,North,Retail Store,Returning,Computers,Gaming Laptop,Aisha Lim,1,4284,0.2,3427.2
+ORD-1705,10/21/2026,North,Online,New,Storage,USB Drive 128GB,Daniel Wong,3,58.2,0,174.6
+ORD-1706,7/25/2026,North,Retail Store,New,Monitors,24-inch Monitor,Mei Tan,2,562.6,0.05,1068.94
+ORD-1707,4/7/2026,South,Corporate Sales,Returning,Monitors,Ultrawide Monitor,Raj Kumar,2,1560,0.08,2870.4
+ORD-1708,5/6/2026,South,Marketplace,New,Accessories,Wireless Mouse,Raj Kumar,3,43.65,0.05,124.4025
+ORD-1709,4/3/2026,North,Marketplace,Returning,Accessories,Laptop Stand,Aisha Lim,1,38,0,38
+ORD-1710,2/5/2026,South,Online,Returning,Office Supplies,Notebook Set,Jason Lee,1,23.75,0.1,21.375
+ORD-1711,4/17/2026,West,Retail Store,New,Accessories,USB-C Hub,Priya Shah,1,57.2,0,57.2
+ORD-1712,4/29/2026,North,Retail Store,Returning,Accessories,Webcam,Mei Tan,2,80,0.05,152
+ORD-1713,11/17/2026,North,Marketplace,Returning,Networking,Mesh Wi-Fi Set,Mei Tan,7,780,0.08,5023.2
+ORD-1714,1/15/2026,Central,Retail Store,Returning,Accessories,Wireless Mouse,Kevin Yap,2,47.7,0.03,92.538
+ORD-1715,6/12/2026,Central,Online,Returning,Accessories,Keyboard,Chloe Lim,2,63.05,0.08,116.012
+ORD-1716,11/24/2026,East,Online,Returning,Storage,USB Drive 128GB,Grace Ng,3,61.2,0.2,146.88
+ORD-1717,6/8/2026,West,Online,New,Networking,Ethernet Cable,Sofia Tan,6,19,0.03,110.58
+ORD-1718,8/1/2026,Central,Corporate Sales,Returning,Networking,Network Switch,Kevin Yap,7,187.2,0.1,1179.36
+ORD-1719,9/18/2026,North,Marketplace,Returning,Storage,USB Drive 128GB,Mei Tan,5,62.4,0.05,296.4
+ORD-1720,11/26/2026,West,Online,Returning,Networking,Network Switch,Ben Ho,1,171,0,171
+ORD-1721,9/23/2026,South,Online,Returning,Computers,Laptop Air 13,Raj Kumar,4,2500,0.2,8000
+ORD-1722,4/29/2026,West,Retail Store,New,Networking,Network Switch,Ben Ho,5,174.6,0.05,829.35
+ORD-1723,3/7/2026,West,Retail Store,Returning,Monitors,24-inch Monitor,Priya Shah,2,580,0,1160
+ORD-1724,11/29/2026,East,Corporate Sales,New,Storage,USB Drive 128GB,Grace Ng,2,63.6,0.08,117.024
+ORD-1725,12/2/2026,Central,Online,Returning,Computers,Laptop Pro 14,Chloe Lim,1,3392,0.08,3120.64
+ORD-1726,11/8/2026,North,Marketplace,Returning,Accessories,USB-C Hub,Mei Tan,2,55,0.15,93.5
+ORD-1727,12/8/2026,Central,Retail Store,New,Computers,Laptop Air 13,Chloe Lim,1,2550,0.1,2295
+ORD-1728,1/14/2026,Central,Retail Store,Returning,Computers,Desktop Mini,Hafiz Rahman,1,1800,0.03,1746
+ORD-1729,11/27/2026,South,Corporate Sales,Returning,Office Supplies,Sticky Notes,Jason Lee,10,8.48,0.1,76.32
+ORD-1730,2/2/2026,Central,Online,Returning,Storage,External HDD 2TB,Hafiz Rahman,6,304,0.05,1732.8
+ORD-1731,8/14/2026,North,Corporate Sales,Returning,Computers,Gaming Laptop,Mei Tan,1,4368,0.1,3931.2
+ORD-1732,11/26/2026,West,Online,Returning,Storage,External SSD 1TB,Sofia Tan,3,459,0.1,1239.3
+ORD-1733,6/11/2026,East,Online,New,Storage,External HDD 2TB,Amir Hassan,3,320,0.05,912
+ORD-1734,6/20/2026,East,Online,Returning,Accessories,Laptop Stand,Amir Hassan,3,39.52,0.1,106.704
+ORD-1735,5/29/2026,East,Online,Returning,Storage,USB Drive 128GB,Grace Ng,7,61.2,0.05,406.98
+ORD-1736,9/2/2026,North,Marketplace,Returning,Accessories,Laptop Stand,Mei Tan,7,38,0.1,239.4
+ORD-1737,10/11/2026,North,Retail Store,Returning,Monitors,Ultrawide Monitor,Mei Tan,2,1530,0.05,2907
+ORD-1738,2/26/2026,Central,Retail Store,Returning,Storage,External HDD 2TB,Kevin Yap,3,339.2,0.03,987.072
+ORD-1739,10/27/2026,South,Corporate Sales,New,Computers,Laptop Pro 14,Jason Lee,1,3264,0.05,3100.8
+ORD-1740,2/10/2026,East,Retail Store,Returning,Computers,Laptop Pro 14,Amir Hassan,1,3200,0,3200
+ORD-1741,9/11/2026,Central,Online,New,Accessories,Laptop Stand,Hafiz Rahman,1,36.86,0.08,33.9112
+ORD-1742,9/29/2026,North,Marketplace,New,Accessories,Laptop Stand,Daniel Wong,7,38,0.2,212.8
+ORD-1743,11/29/2026,West,Online,Returning,Accessories,Keyboard,Ben Ho,3,65,0.1,175.5
+ORD-1744,8/21/2026,South,Online,Returning,Accessories,Webcam,Raj Kumar,4,80,0.03,310.4
+ORD-1745,8/9/2026,Central,Marketplace,Returning,Office Supplies,Pen Pack,Kevin Yap,4,11.64,0.1,41.904
+ORD-1746,1/17/2026,South,Marketplace,Returning,Computers,All-in-One PC,Jason Lee,1,3180,0.1,2862
+ORD-1747,9/23/2026,Central,Retail Store,Returning,Storage,External SSD 1TB,Chloe Lim,1,450,0.03,436.5
+ORD-1748,6/10/2026,East,Online,New,Office Supplies,Desk Organizer,Amir Hassan,1,33.95,0.03,32.9315
+ORD-1749,7/8/2026,East,Retail Store,Returning,Monitors,Portable Monitor,Amir Hassan,1,728,0.1,655.2
+ORD-1750,4/1/2026,North,Online,Returning,Computers,Laptop Pro 14,Daniel Wong,2,3200,0.05,6080
+ORD-1751,2/9/2026,Central,Online,New,Accessories,Keyboard,Hafiz Rahman,1,66.3,0.03,64.311
+ORD-1752,10/25/2026,West,Online,Returning,Networking,Ethernet Cable,Ben Ho,4,19,0.03,73.72
+ORD-1753,10/13/2026,Central,Marketplace,Returning,Accessories,Mouse Pad,Kevin Yap,5,15,0.03,72.75
+ORD-1754,10/16/2026,North,Retail Store,Returning,Monitors,Portable Monitor,Mei Tan,3,714,0.03,2077.74
+ORD-1755,6/23/2026,South,Retail Store,Returning,Accessories,Keyboard,Farah Ali,2,65,0.1,117
+ORD-1756,11/27/2026,South,Online,Returning,Storage,USB Drive 128GB,Raj Kumar,3,61.2,0.1,165.24
+ORD-1757,12/5/2026,Central,Marketplace,Returning,Office Supplies,Sticky Notes,Hafiz Rahman,8,8.32,0.05,63.232
+ORD-1758,1/13/2026,North,Online,Returning,Monitors,Ultrawide Monitor,Mei Tan,1,1455,0.08,1338.6
+ORD-1759,1/23/2026,East,Online,New,Networking,Network Switch,Grace Ng,1,180,0.03,174.6
+ORD-1760,1/2/2026,South,Online,New,Networking,Network Switch,Farah Ali,8,180,0,1440
+ORD-1761,6/3/2026,South,Marketplace,New,Office Supplies,Desk Organizer,Raj Kumar,5,36.4,0.1,163.8
+ORD-1762,8/31/2026,South,Online,Returning,Monitors,27-inch Monitor,Farah Ali,5,807.5,0.05,3835.625
+ORD-1763,8/8/2026,East,Marketplace,Returning,Monitors,24-inch Monitor,Amir Hassan,1,562.6,0.15,478.21
+ORD-1764,5/27/2026,West,Online,Returning,Office Supplies,Pen Pack,Priya Shah,1,12.48,0.15,10.608
+ORD-1765,6/13/2026,Central,Online,Returning,Computers,Laptop Pro 14,Kevin Yap,2,3200,0.03,6208
+ORD-1766,7/22/2026,Central,Corporate Sales,Returning,Computers,Gaming Laptop,Hafiz Rahman,4,4368,0.08,16074.24
+ORD-1767,2/4/2026,East,Corporate Sales,Returning,Computers,Laptop Air 13,Grace Ng,1,2375,0,2375
+ORD-1768,9/15/2026,South,Corporate Sales,Returning,Monitors,24-inch Monitor,Farah Ali,1,580,0.15,493
+ORD-1769,9/15/2026,East,Online,Returning,Accessories,USB-C Hub,Nora Chen,2,55,0.03,106.7
+ORD-1770,3/1/2026,East,Online,New,Storage,External HDD 2TB,Amir Hassan,4,310.4,0,1241.6
+ORD-1771,3/12/2026,North,Corporate Sales,Returning,Monitors,Portable Monitor,Daniel Wong,3,665,0.15,1695.75
+ORD-1772,9/22/2026,Central,Retail Store,New,Accessories,Wireless Mouse,Chloe Lim,4,42.75,0.08,157.32
+ORD-1773,5/8/2026,North,Online,New,Accessories,Keyboard,Daniel Wong,1,63.05,0.1,56.745
+ORD-1774,3/6/2026,North,Retail Store,Returning,Computers,Laptop Air 13,Aisha Lim,3,2500,0.05,7125
+ORD-1775,2/7/2026,North,Online,New,Storage,External SSD 1TB,Daniel Wong,1,468,0,468
+ORD-1776,11/21/2026,West,Online,Returning,Computers,All-in-One PC,Priya Shah,4,3180,0.03,12338.4
+ORD-1777,10/30/2026,Central,Online,Returning,Monitors,Portable Monitor,Kevin Yap,1,700,0.08,644
+ORD-1778,5/28/2026,West,Online,New,Networking,Network Switch,Priya Shah,3,187.2,0.08,516.672
+ORD-1779,8/1/2026,North,Retail Store,Returning,Computers,Gaming Laptop,Aisha Lim,1,4200,0,4200
+ORD-1780,7/7/2026,North,Online,New,Networking,Network Switch,Mei Tan,1,183.6,0.03,178.092
+ORD-1781,7/14/2026,West,Online,New,Office Supplies,Desk Organizer,Priya Shah,1,35.7,0.05,33.915
+ORD-1782,12/26/2026,West,Corporate Sales,Returning,Monitors,Ultrawide Monitor,Ben Ho,1,1500,0,1500
+ORD-1783,1/7/2026,North,Marketplace,Returning,Accessories,Keyboard,Daniel Wong,1,65,0,65
+ORD-1784,6/6/2026,West,Online,New,Accessories,Laptop Stand,Ben Ho,7,40.28,0.05,267.862
+ORD-1785,2/12/2026,South,Online,Returning,Monitors,Portable Monitor,Raj Kumar,3,700,0.1,1890
+ORD-1786,10/14/2026,Central,Corporate Sales,Returning,Monitors,27-inch Monitor,Hafiz Rahman,1,850,0.08,782
+ORD-1787,4/18/2026,East,Online,New,Monitors,27-inch Monitor,Grace Ng,1,850,0.1,765
+ORD-1788,10/16/2026,South,Retail Store,Returning,Office Supplies,Printer Paper,Raj Kumar,2,19.08,0.2,30.528
+ORD-1789,6/2/2026,Central,Online,Returning,Accessories,USB-C Hub,Hafiz Rahman,4,55,0.15,187
+ORD-1790,7/16/2026,West,Online,New,Computers,Gaming Laptop,Ben Ho,1,4200,0,4200
+ORD-1791,9/22/2026,North,Corporate Sales,New,Monitors,27-inch Monitor,Daniel Wong,1,850,0.08,782
+ORD-1792,11/1/2026,North,Online,Returning,Computers,All-in-One PC,Aisha Lim,1,2910,0.05,2764.5
+ORD-1793,3/14/2026,South,Online,Returning,Storage,Memory Card 256GB,Jason Lee,4,90,0.1,324
+ORD-1794,11/4/2026,West,Corporate Sales,New,Computers,Laptop Air 13,Sofia Tan,1,2600,0,2600
+ORD-1795,11/1/2026,North,Corporate Sales,Returning,Monitors,Ultrawide Monitor,Daniel Wong,1,1560,0.08,1435.2
+ORD-1796,2/16/2026,North,Marketplace,Returning,Office Supplies,Pen Pack,Mei Tan,1,12,0.03,11.64
+ORD-1797,4/29/2026,Central,Retail Store,Returning,Accessories,Mouse Pad,Chloe Lim,1,15,0,15
+ORD-1798,4/11/2026,North,Online,Returning,Storage,External SSD 1TB,Daniel Wong,2,427.5,0.2,684
+ORD-1799,8/2/2026,North,Retail Store,New,Storage,USB Drive 128GB,Aisha Lim,2,63.6,0.03,123.384
+ORD-1800,5/22/2026,Central,Marketplace,Returning,Networking,Network Switch,Hafiz Rahman,3,187.2,0.2,449.28
+ORD-1801,11/1/2026,East,Corporate Sales,Returning,Networking,Mesh Wi-Fi Set,Amir Hassan,8,712.5,0.15,4845
+ORD-1802,12/25/2026,Central,Online,Returning,Storage,Memory Card 256GB,Kevin Yap,3,93.6,0,280.8
+ORD-1803,12/27/2026,South,Retail Store,Returning,Networking,Ethernet Cable,Jason Lee,1,21.2,0.08,19.504
+ORD-1804,8/3/2026,South,Marketplace,Returning,Monitors,24-inch Monitor,Raj Kumar,1,603.2,0.03,585.104
+ORD-1805,11/29/2026,East,Marketplace,Returning,Accessories,Wireless Mouse,Amir Hassan,5,45,0.2,180
+ORD-1806,3/15/2026,Central,Retail Store,Returning,Computers,Laptop Air 13,Chloe Lim,1,2425,0.2,1940
+ORD-1807,3/30/2026,South,Retail Store,New,Storage,Memory Card 256GB,Jason Lee,3,87.3,0.15,222.615
+ORD-1808,10/3/2026,Central,Online,New,Monitors,24-inch Monitor,Kevin Yap,1,591.6,0.08,544.272
+ORD-1809,10/21/2026,West,Retail Store,Returning,Office Supplies,Pen Pack,Sofia Tan,1,12,0,12
+ORD-1810,5/19/2026,Central,Corporate Sales,New,Computers,Desktop Mini,Chloe Lim,1,1872,0,1872
+ORD-1811,8/7/2026,Central,Marketplace,New,Computers,Laptop Air 13,Hafiz Rahman,1,2500,0,2500
+ORD-1812,5/27/2026,Central,Marketplace,Returning,Monitors,Ultrawide Monitor,Kevin Yap,2,1500,0.15,2550
+ORD-1813,1/11/2026,South,Marketplace,New,Networking,Network Switch,Farah Ali,3,180,0.1,486
+ORD-1814,1/26/2026,South,Marketplace,New,Storage,External HDD 2TB,Farah Ali,6,304,0.1,1641.6
+ORD-1815,10/10/2026,Central,Corporate Sales,Returning,Networking,Network Switch,Hafiz Rahman,6,183.6,0.08,1013.472
+ORD-1816,10/13/2026,North,Corporate Sales,New,Networking,Network Switch,Daniel Wong,3,174.6,0.1,471.42
+ORD-1817,11/2/2026,Central,Corporate Sales,Returning,Computers,Laptop Air 13,Chloe Lim,1,2650,0.05,2517.5
+ORD-1818,3/26/2026,West,Corporate Sales,New,Storage,External SSD 1TB,Priya Shah,6,450,0.2,2160
+ORD-1819,11/30/2026,North,Online,Returning,Networking,Wi-Fi Router,Daniel Wong,3,285.6,0.2,685.44
+ORD-1820,10/8/2026,North,Online,Returning,Storage,External HDD 2TB,Daniel Wong,4,332.8,0.2,1064.96
+ORD-1821,9/25/2026,East,Marketplace,Returning,Storage,Memory Card 256GB,Nora Chen,1,91.8,0,91.8
+ORD-1822,7/22/2026,Central,Online,Returning,Networking,Network Switch,Kevin Yap,4,180,0,720
+ORD-1823,3/16/2026,Central,Corporate Sales,New,Computers,Desktop Mini,Kevin Yap,1,1746,0.15,1484.1
+ORD-1824,3/27/2026,West,Retail Store,Returning,Office Supplies,Sticky Notes,Priya Shah,1,8.48,0.1,7.632
+ORD-1825,9/26/2026,West,Corporate Sales,New,Storage,External SSD 1TB,Sofia Tan,11,450,0.1,4455
+ORD-1826,7/26/2026,South,Online,Returning,Storage,External SSD 1TB,Raj Kumar,5,450,0,2250
+ORD-1827,7/12/2026,Central,Online,Returning,Storage,External HDD 2TB,Hafiz Rahman,1,320,0.15,272
+ORD-1828,9/15/2026,North,Retail Store,New,Office Supplies,Desk Organizer,Mei Tan,4,35,0.08,128.8
+ORD-1829,4/7/2026,North,Marketplace,New,Accessories,Webcam,Daniel Wong,3,80,0.05,228
+ORD-1830,8/3/2026,East,Online,Returning,Accessories,USB-C Hub,Grace Ng,7,53.35,0.08,343.574
+ORD-1831,3/7/2026,North,Corporate Sales,Returning,Storage,External HDD 2TB,Daniel Wong,7,326.4,0.1,2056.32
+ORD-1832,8/14/2026,Central,Online,Returning,Computers,All-in-One PC,Chloe Lim,1,3000,0,3000
+ORD-1833,9/14/2026,North,Corporate Sales,Returning,Computers,Desktop Mini,Mei Tan,2,1800,0.03,3492
+ORD-1834,2/8/2026,South,Online,Returning,Accessories,Mouse Pad,Raj Kumar,3,15,0.1,40.5
+ORD-1835,7/23/2026,East,Online,New,Accessories,Wireless Mouse,Nora Chen,2,45,0.08,82.8
+ORD-1836,5/24/2026,West,Corporate Sales,Returning,Networking,Network Switch,Priya Shah,8,190.8,0.05,1450.08
+ORD-1837,7/5/2026,West,Online,Returning,Accessories,Mouse Pad,Priya Shah,4,15.3,0.03,59.364
+ORD-1838,6/15/2026,North,Marketplace,Returning,Monitors,Ultrawide Monitor,Mei Tan,2,1560,0.1,2808
+ORD-1839,4/28/2026,North,Online,Returning,Office Supplies,Notebook Set,Mei Tan,4,24.25,0.15,82.45
+ORD-1840,8/3/2026,West,Retail Store,Returning,Office Supplies,Printer Paper,Priya Shah,2,18,0.05,34.2
+ORD-1841,11/23/2026,North,Online,New,Office Supplies,Notebook Set,Mei Tan,4,26,0.15,88.4
+ORD-1842,12/22/2026,Central,Marketplace,Returning,Monitors,24-inch Monitor,Kevin Yap,4,614.8,0.1,2213.28
+ORD-1843,11/6/2026,North,Marketplace,Returning,Networking,Network Switch,Mei Tan,2,190.8,0.08,351.072
+ORD-1844,5/22/2026,South,Retail Store,Returning,Accessories,Laptop Stand,Jason Lee,2,40.28,0.03,78.1432
+ORD-1845,9/13/2026,North,Online,Returning,Storage,External SSD 1TB,Mei Tan,6,477,0.1,2575.8
+ORD-1846,5/20/2026,East,Online,New,Computers,Laptop Air 13,Amir Hassan,1,2600,0,2600
+ORD-1847,3/17/2026,East,Online,New,Monitors,27-inch Monitor,Amir Hassan,1,850,0.03,824.5
+ORD-1848,5/29/2026,North,Marketplace,New,Computers,Gaming Laptop,Mei Tan,1,4200,0.1,3780
+ORD-1849,5/28/2026,West,Online,New,Accessories,USB-C Hub,Sofia Tan,6,56.1,0,336.6
+ORD-1850,12/31/2026,West,Online,Returning,Monitors,27-inch Monitor,Ben Ho,2,867,0.15,1473.9
+ORD-1851,7/30/2026,West,Marketplace,New,Networking,Wi-Fi Router,Priya Shah,1,280,0.08,257.6
+ORD-1852,4/22/2026,Central,Retail Store,Returning,Accessories,USB-C Hub,Hafiz Rahman,2,55,0,110
+ORD-1853,4/5/2026,West,Online,New,Accessories,Laptop Stand,Ben Ho,3,38,0.03,110.58
+ORD-1854,9/26/2026,North,Corporate Sales,Returning,Computers,All-in-One PC,Mei Tan,1,3000,0.03,2910
+ORD-1855,4/7/2026,Central,Retail Store,Returning,Accessories,Wireless Mouse,Kevin Yap,2,46.8,0.03,90.792
+ORD-1856,12/8/2026,South,Retail Store,Returning,Storage,USB Drive 128GB,Farah Ali,2,58.2,0.05,110.58
+ORD-1857,9/8/2026,South,Online,New,Accessories,Mouse Pad,Jason Lee,1,15.3,0.05,14.535
+ORD-1858,2/6/2026,South,Retail Store,New,Accessories,Mouse Pad,Raj Kumar,4,14.25,0.08,52.44
+ORD-1859,5/24/2026,Central,Corporate Sales,Returning,Monitors,27-inch Monitor,Chloe Lim,1,850,0.05,807.5
+ORD-1860,2/24/2026,East,Online,Returning,Office Supplies,Pen Pack,Nora Chen,4,12,0.15,40.8
+ORD-1861,12/20/2026,South,Corporate Sales,Returning,Computers,Laptop Air 13,Jason Lee,1,2375,0.08,2185
+ORD-1862,4/29/2026,West,Marketplace,Returning,Accessories,Laptop Stand,Ben Ho,3,40.28,0,120.84
+ORD-1863,1/14/2026,East,Marketplace,Returning,Accessories,Laptop Stand,Nora Chen,2,38,0.2,60.8
+ORD-1864,10/23/2026,North,Marketplace,Returning,Monitors,24-inch Monitor,Daniel Wong,1,580,0.08,533.6
+ORD-1865,10/13/2026,East,Online,New,Monitors,24-inch Monitor,Amir Hassan,2,614.8,0.08,1131.232
+ORD-1866,4/8/2026,South,Online,New,Accessories,Webcam,Farah Ali,2,80,0.05,152
+ORD-1867,12/9/2026,Central,Online,Returning,Networking,Mesh Wi-Fi Set,Kevin Yap,1,727.5,0.05,691.125
+ORD-1868,12/11/2026,North,Corporate Sales,Returning,Storage,Memory Card 256GB,Mei Tan,5,90,0,450
+ORD-1869,11/8/2026,West,Online,New,Accessories,Mouse Pad,Priya Shah,4,14.55,0.1,52.38
+ORD-1870,4/21/2026,West,Retail Store,Returning,Computers,Desktop Mini,Ben Ho,1,1800,0.1,1620
+ORD-1871,3/8/2026,West,Retail Store,New,Monitors,Portable Monitor,Sofia Tan,1,700,0.1,630
+ORD-1872,3/16/2026,Central,Online,New,Computers,Laptop Air 13,Chloe Lim,1,2600,0,2600
+ORD-1873,1/8/2026,East,Corporate Sales,Returning,Storage,External HDD 2TB,Nora Chen,8,304,0.05,2310.4
+ORD-1874,2/1/2026,West,Corporate Sales,New,Computers,Laptop Pro 14,Sofia Tan,1,3200,0.08,2944
+ORD-1875,10/1/2026,Central,Online,Returning,Computers,Laptop Pro 14,Hafiz Rahman,1,3200,0.1,2880
+ORD-1876,11/10/2026,South,Online,New,Storage,External SSD 1TB,Farah Ali,5,427.5,0.03,2073.375
+ORD-1877,2/27/2026,South,Online,New,Accessories,USB-C Hub,Jason Lee,2,55,0.03,106.7
+ORD-1878,6/29/2026,West,Marketplace,Returning,Networking,Mesh Wi-Fi Set,Sofia Tan,7,727.5,0.05,4837.875
+ORD-1879,8/4/2026,South,Marketplace,New,Accessories,Keyboard,Raj Kumar,2,65,0.05,123.5
+ORD-1880,9/5/2026,Central,Corporate Sales,Returning,Computers,Laptop Pro 14,Hafiz Rahman,3,3200,0.1,8640
+ORD-1881,11/23/2026,Central,Corporate Sales,Returning,Networking,Mesh Wi-Fi Set,Hafiz Rahman,4,765,0.08,2815.2
+ORD-1882,11/4/2026,East,Marketplace,New,Accessories,Keyboard,Amir Hassan,4,65,0.05,247
+ORD-1883,6/23/2026,Central,Retail Store,Returning,Accessories,Mouse Pad,Kevin Yap,2,15,0.08,27.6
+ORD-1884,7/18/2026,East,Online,New,Storage,External HDD 2TB,Nora Chen,1,310.4,0,310.4
+ORD-1885,5/16/2026,Central,Marketplace,New,Accessories,Keyboard,Kevin Yap,2,65,0.15,110.5
+ORD-1886,12/30/2026,East,Online,New,Storage,External SSD 1TB,Amir Hassan,2,450,0,900
+ORD-1887,5/23/2026,North,Retail Store,Returning,Monitors,27-inch Monitor,Mei Tan,1,807.5,0,807.5
+ORD-1888,2/19/2026,Central,Retail Store,Returning,Monitors,27-inch Monitor,Hafiz Rahman,1,850,0.08,782
+ORD-1889,10/23/2026,North,Online,New,Storage,External HDD 2TB,Daniel Wong,1,320,0.1,288
+ORD-1890,12/15/2026,East,Marketplace,Returning,Monitors,27-inch Monitor,Nora Chen,4,884,0.05,3359.2
+ORD-1891,7/31/2026,North,Online,Returning,Accessories,Keyboard,Aisha Lim,5,63.05,0.05,299.4875
+ORD-1892,9/13/2026,Central,Online,Returning,Storage,External HDD 2TB,Kevin Yap,1,320,0,320
+ORD-1893,10/11/2026,North,Online,Returning,Accessories,Webcam,Daniel Wong,4,76,0.03,294.88
+ORD-1894,3/30/2026,North,Online,Returning,Monitors,Portable Monitor,Aisha Lim,1,665,0,665
+ORD-1895,1/12/2026,West,Marketplace,Returning,Accessories,USB-C Hub,Sofia Tan,7,56.1,0.1,353.43
+ORD-1896,5/29/2026,West,Online,Returning,Accessories,Webcam,Sofia Tan,2,83.2,0.15,141.44
+ORD-1897,4/5/2026,West,Online,Returning,Networking,Mesh Wi-Fi Set,Priya Shah,5,750,0.08,3450
+ORD-1898,3/31/2026,East,Marketplace,Returning,Monitors,Ultrawide Monitor,Amir Hassan,3,1590,0.05,4531.5
+ORD-1899,8/31/2026,East,Marketplace,Returning,Computers,Laptop Air 13,Amir Hassan,3,2425,0.08,6693
+ORD-1900,2/1/2026,North,Marketplace,Returning,Networking,Wi-Fi Router,Aisha Lim,1,296.8,0.05,281.96
+ORD-1901,3/9/2026,East,Online,New,Storage,Memory Card 256GB,Amir Hassan,8,90,0.2,576
+ORD-1902,9/5/2026,Central,Marketplace,Returning,Computers,Desktop Mini,Kevin Yap,1,1872,0.08,1722.24
+ORD-1903,2/12/2026,East,Retail Store,New,Accessories,USB-C Hub,Grace Ng,2,58.3,0.1,104.94
+ORD-1904,1/21/2026,North,Corporate Sales,Returning,Monitors,27-inch Monitor,Aisha Lim,1,824.5,0.03,799.765
+ORD-1905,11/8/2026,South,Retail Store,New,Monitors,Portable Monitor,Farah Ali,1,679,0.1,611.1
+ORD-1906,10/7/2026,South,Online,New,Storage,External HDD 2TB,Jason Lee,1,339.2,0.05,322.24
+ORD-1907,3/16/2026,North,Online,Returning,Networking,Network Switch,Aisha Lim,6,171,0.05,974.7
+ORD-1908,12/7/2026,North,Marketplace,Returning,Storage,USB Drive 128GB,Mei Tan,3,60,0.03,174.6
+ORD-1909,4/3/2026,South,Corporate Sales,Returning,Monitors,Ultrawide Monitor,Farah Ali,3,1500,0,4500
+ORD-1910,5/25/2026,South,Online,Returning,Monitors,27-inch Monitor,Farah Ali,1,884,0.08,813.28
+ORD-1911,11/18/2026,Central,Retail Store,New,Storage,External HDD 2TB,Kevin Yap,3,326.4,0.15,832.32
+ORD-1912,10/24/2026,West,Online,Returning,Networking,Network Switch,Ben Ho,1,183.6,0.2,146.88
+ORD-1913,4/24/2026,North,Retail Store,Returning,Accessories,USB-C Hub,Mei Tan,1,53.35,0.1,48.015
+ORD-1914,6/18/2026,West,Retail Store,New,Accessories,Keyboard,Ben Ho,2,61.75,0.08,113.62
+ORD-1915,11/17/2026,Central,Online,Returning,Networking,Network Switch,Hafiz Rahman,2,187.2,0.15,318.24
+ORD-1916,7/25/2026,South,Marketplace,Returning,Computers,All-in-One PC,Jason Lee,1,3000,0.05,2850
+ORD-1917,9/14/2026,West,Corporate Sales,Returning,Networking,Wi-Fi Router,Priya Shah,10,271.6,0,2716
+ORD-1918,1/30/2026,South,Retail Store,Returning,Networking,Wi-Fi Router,Jason Lee,3,296.8,0.1,801.36
+ORD-1919,4/14/2026,North,Corporate Sales,Returning,Computers,Gaming Laptop,Aisha Lim,1,4074,0.1,3666.6
+ORD-1920,6/27/2026,West,Corporate Sales,Returning,Networking,Mesh Wi-Fi Set,Ben Ho,5,750,0.1,3375
+ORD-1921,11/26/2026,Central,Corporate Sales,New,Networking,Wi-Fi Router,Kevin Yap,2,266,0.15,452.2
+ORD-1922,11/20/2026,South,Online,Returning,Computers,All-in-One PC,Raj Kumar,1,3120,0.1,2808
+ORD-1923,11/19/2026,East,Marketplace,Returning,Storage,Memory Card 256GB,Nora Chen,3,91.8,0.08,253.368
+ORD-1924,9/5/2026,East,Retail Store,Returning,Office Supplies,Desk Organizer,Nora Chen,7,35,0.03,237.65
+ORD-1925,1/1/2026,West,Retail Store,New,Storage,External SSD 1TB,Ben Ho,1,468,0.08,430.56
+ORD-1926,9/25/2026,South,Online,Returning,Accessories,Webcam,Farah Ali,4,80,0.1,288
+ORD-1927,10/22/2026,North,Online,New,Accessories,Webcam,Mei Tan,1,77.6,0.15,65.96
+ORD-1928,2/10/2026,South,Online,New,Office Supplies,Pen Pack,Farah Ali,1,12.48,0.08,11.4816
+ORD-1929,1/31/2026,West,Online,Returning,Office Supplies,Printer Paper,Sofia Tan,1,18,0,18
+ORD-1930,9/21/2026,East,Online,Returning,Networking,Network Switch,Nora Chen,1,171,0.1,153.9
+ORD-1931,3/1/2026,East,Retail Store,Returning,Accessories,Laptop Stand,Nora Chen,6,36.86,0,221.16
+ORD-1932,3/24/2026,West,Online,New,Accessories,Wireless Mouse,Ben Ho,4,45.9,0.05,174.42
+ORD-1933,10/16/2026,East,Marketplace,Returning,Accessories,Keyboard,Grace Ng,7,65,0,455
+ORD-1934,5/26/2026,North,Corporate Sales,Returning,Monitors,Ultrawide Monitor,Aisha Lim,2,1530,0.08,2815.2
+ORD-1935,3/12/2026,South,Retail Store,New,Accessories,Wireless Mouse,Jason Lee,3,45,0.03,130.95
+ORD-1936,12/17/2026,South,Online,New,Computers,Laptop Air 13,Farah Ali,1,2550,0.05,2422.5
+ORD-1937,5/25/2026,South,Online,Returning,Storage,External HDD 2TB,Raj Kumar,3,339.2,0.03,987.072
+ORD-1938,8/13/2026,South,Online,New,Monitors,24-inch Monitor,Farah Ali,2,603.2,0.03,1170.208
+ORD-1939,3/2/2026,Central,Retail Store,Returning,Monitors,24-inch Monitor,Hafiz Rahman,1,614.8,0.03,596.356
+ORD-1940,4/1/2026,South,Corporate Sales,Returning,Networking,Network Switch,Raj Kumar,3,180,0.2,432
+ORD-1941,11/30/2026,East,Online,New,Monitors,Portable Monitor,Amir Hassan,1,700,0.15,595
+ORD-1942,2/25/2026,South,Retail Store,Returning,Storage,Memory Card 256GB,Raj Kumar,5,95.4,0.2,381.6
+ORD-1943,11/20/2026,North,Online,Returning,Accessories,Laptop Stand,Daniel Wong,1,39.52,0.03,38.3344
+ORD-1944,11/12/2026,Central,Retail Store,New,Storage,External SSD 1TB,Chloe Lim,6,450,0,2700
+ORD-1945,12/3/2026,South,Corporate Sales,Returning,Computers,Laptop Air 13,Farah Ali,1,2500,0.03,2425
+ORD-1946,11/25/2026,East,Marketplace,Returning,Storage,External SSD 1TB,Amir Hassan,3,450,0.1,1215
+ORD-1947,5/24/2026,East,Online,Returning,Storage,USB Drive 128GB,Nora Chen,3,60,0.1,162
+ORD-1948,9/3/2026,Central,Online,New,Accessories,USB-C Hub,Kevin Yap,2,55,0.03,106.7
+ORD-1949,10/17/2026,Central,Corporate Sales,New,Monitors,27-inch Monitor,Hafiz Rahman,4,824.5,0.03,3199.06
+ORD-1950,6/15/2026,Central,Retail Store,Returning,Accessories,Laptop Stand,Kevin Yap,1,39.52,0.05,37.544
+ORD-1951,9/5/2026,East,Online,New,Accessories,USB-C Hub,Grace Ng,2,55,0.05,104.5
+ORD-1952,6/9/2026,North,Retail Store,New,Accessories,USB-C Hub,Aisha Lim,3,57.2,0,171.6
+ORD-1953,5/2/2026,West,Corporate Sales,Returning,Computers,Gaming Laptop,Ben Ho,1,4200,0.08,3864
+ORD-1954,7/4/2026,West,Corporate Sales,Returning,Computers,Laptop Pro 14,Priya Shah,1,3040,0.03,2948.8
+ORD-1955,2/8/2026,Central,Corporate Sales,Returning,Monitors,27-inch Monitor,Chloe Lim,1,850,0.03,824.5
+ORD-1956,5/10/2026,West,Online,New,Accessories,Mouse Pad,Priya Shah,4,15.9,0.1,57.24
+ORD-1957,4/11/2026,West,Online,New,Monitors,24-inch Monitor,Ben Ho,1,614.8,0,614.8
+ORD-1958,11/6/2026,West,Marketplace,Returning,Networking,Wi-Fi Router,Sofia Tan,5,296.8,0.08,1365.28
+ORD-1959,11/19/2026,West,Online,New,Monitors,27-inch Monitor,Ben Ho,1,824.5,0.15,700.825
+ORD-1960,6/24/2026,South,Retail Store,Returning,Computers,Gaming Laptop,Farah Ali,2,3990,0.05,7581
+ORD-1961,11/25/2026,West,Marketplace,Returning,Monitors,Ultrawide Monitor,Sofia Tan,1,1425,0.08,1311
+ORD-1962,9/5/2026,South,Online,Returning,Storage,Memory Card 256GB,Farah Ali,1,91.8,0,91.8
+ORD-1963,9/9/2026,Central,Corporate Sales,Returning,Monitors,27-inch Monitor,Hafiz Rahman,4,850,0.05,3230
+ORD-1964,6/14/2026,Central,Online,New,Monitors,Ultrawide Monitor,Hafiz Rahman,1,1455,0.08,1338.6
+ORD-1965,4/1/2026,East,Corporate Sales,Returning,Computers,Desktop Mini,Amir Hassan,1,1800,0.05,1710
+ORD-1966,1/2/2026,North,Marketplace,New,Monitors,24-inch Monitor,Mei Tan,1,603.2,0.15,512.72
+ORD-1967,4/12/2026,Central,Corporate Sales,Returning,Networking,Mesh Wi-Fi Set,Kevin Yap,9,727.5,0.03,6351.075
+ORD-1968,3/19/2026,Central,Online,New,Networking,Mesh Wi-Fi Set,Chloe Lim,2,780,0.15,1326
+ORD-1969,11/30/2026,South,Online,Returning,Storage,USB Drive 128GB,Raj Kumar,4,60,0.05,228
+ORD-1970,6/7/2026,South,Online,Returning,Storage,External HDD 2TB,Raj Kumar,4,332.8,0.15,1131.52
+ORD-1971,2/15/2026,West,Retail Store,Returning,Computers,Desktop Mini,Ben Ho,1,1872,0.2,1497.6
+ORD-1972,1/18/2026,North,Corporate Sales,New,Computers,Desktop Mini,Daniel Wong,1,1800,0.05,1710
+ORD-1973,7/19/2026,Central,Online,Returning,Accessories,Mouse Pad,Kevin Yap,2,14.25,0.1,25.65
+ORD-1974,6/2/2026,North,Online,Returning,Accessories,Webcam,Daniel Wong,5,77.6,0.1,349.2
+ORD-1975,5/2/2026,North,Retail Store,Returning,Storage,External HDD 2TB,Mei Tan,3,320,0.2,768
+ORD-1976,3/22/2026,West,Online,Returning,Storage,External SSD 1TB,Sofia Tan,3,477,0.03,1388.07
+ORD-1977,1/20/2026,Central,Retail Store,New,Accessories,Wireless Mouse,Hafiz Rahman,2,47.7,0.15,81.09
+ORD-1978,6/6/2026,Central,Marketplace,Returning,Office Supplies,Printer Paper,Chloe Lim,2,17.46,0.1,31.428
+ORD-1979,3/24/2026,West,Online,Returning,Monitors,Portable Monitor,Priya Shah,1,742,0.08,682.64
+ORD-1980,7/22/2026,South,Retail Store,Returning,Monitors,Portable Monitor,Jason Lee,1,700,0.05,665
+ORD-1981,6/19/2026,South,Corporate Sales,Returning,Monitors,24-inch Monitor,Jason Lee,4,591.6,0.08,2177.088
+ORD-1982,6/1/2026,Central,Online,Returning,Monitors,Ultrawide Monitor,Chloe Lim,2,1560,0.03,3026.4
+ORD-1983,5/24/2026,East,Retail Store,Returning,Accessories,Mouse Pad,Grace Ng,6,15,0,90
+ORD-1984,7/31/2026,East,Corporate Sales,Returning,Networking,Ethernet Cable,Grace Ng,9,20,0.08,165.6
+ORD-1985,5/20/2026,Central,Online,New,Storage,External HDD 2TB,Kevin Yap,3,310.4,0.05,884.64
+ORD-1986,6/25/2026,North,Corporate Sales,Returning,Office Supplies,Notebook Set,Aisha Lim,9,25,0.08,207
+ORD-1987,12/2/2026,East,Online,Returning,Accessories,Laptop Stand,Grace Ng,6,36.1,0.05,205.77
+ORD-1988,6/5/2026,Central,Retail Store,New,Computers,Gaming Laptop,Hafiz Rahman,1,4200,0.15,3570
+ORD-1989,11/26/2026,Central,Online,New,Networking,Wi-Fi Router,Chloe Lim,1,280,0.03,271.6
+ORD-1990,5/14/2026,East,Marketplace,New,Storage,Memory Card 256GB,Amir Hassan,5,90,0.08,414
+ORD-1991,7/12/2026,East,Retail Store,New,Accessories,USB-C Hub,Nora Chen,5,57.2,0.05,271.7
+ORD-1992,10/10/2026,North,Retail Store,New,Monitors,24-inch Monitor,Aisha Lim,3,580,0.03,1687.8
+ORD-1993,6/12/2026,North,Marketplace,Returning,Accessories,Webcam,Daniel Wong,5,80,0.2,320
+ORD-1994,5/20/2026,North,Corporate Sales,New,Monitors,Ultrawide Monitor,Mei Tan,1,1425,0.05,1353.75
+ORD-1995,5/25/2026,North,Online,Returning,Computers,Laptop Pro 14,Daniel Wong,1,3200,0.1,2880
+ORD-1996,11/23/2026,Central,Marketplace,New,Accessories,USB-C Hub,Chloe Lim,6,53.35,0.08,294.492
+ORD-1997,4/2/2026,North,Retail Store,New,Computers,Gaming Laptop,Mei Tan,2,4200,0.1,7560
+ORD-1998,1/2/2026,North,Corporate Sales,New,Monitors,Portable Monitor,Aisha Lim,2,665,0,1330
+ORD-1999,9/14/2026,West,Retail Store,New,Accessories,Webcam,Sofia Tan,2,81.6,0.03,158.304
+ORD-2000,4/3/2026,East,Online,Returning,Office Supplies,Sticky Notes,Grace Ng,8,7.6,0,60.8
+ORD-2001,4/2/2026,North,Online,New,Accessories,Laptop Stand,Aisha Lim,8,38,0,304
+ORD-2002,6/4/2026,West,Online,Returning,Accessories,Mouse Pad,Ben Ho,6,15.3,0.15,78.03
+ORD-2003,9/12/2026,Central,Online,Returning,Monitors,Ultrawide Monitor,Chloe Lim,2,1530,0.05,2907
+ORD-2004,5/14/2026,West,Retail Store,New,Accessories,Keyboard,Sofia Tan,2,65,0.05,123.5
+ORD-2005,5/27/2026,Central,Online,New,Monitors,Portable Monitor,Hafiz Rahman,1,679,0.1,611.1
+ORD-2006,4/13/2026,South,Marketplace,New,Office Supplies,Printer Paper,Farah Ali,1,19.08,0.05,18.126
+ORD-2007,1/7/2026,South,Corporate Sales,Returning,Storage,External SSD 1TB,Farah Ali,13,459,0.15,5071.95
+ORD-2008,12/30/2026,South,Corporate Sales,New,Accessories,Mouse Pad,Jason Lee,11,15.6,0.15,145.86
+ORD-2009,10/26/2026,North,Retail Store,Returning,Storage,Memory Card 256GB,Daniel Wong,3,93.6,0.05,266.76
+ORD-2010,4/13/2026,East,Marketplace,New,Office Supplies,Desk Organizer,Grace Ng,1,35,0.05,33.25
+ORD-2011,4/19/2026,South,Retail Store,Returning,Storage,External SSD 1TB,Farah Ali,2,436.5,0.08,803.16
+ORD-2012,11/15/2026,East,Retail Store,Returning,Networking,Network Switch,Nora Chen,2,180,0.1,324
+ORD-2013,4/20/2026,East,Marketplace,Returning,Accessories,Laptop Stand,Grace Ng,5,38,0.03,184.3
+ORD-2014,3/28/2026,East,Online,New,Accessories,Mouse Pad,Grace Ng,3,15.9,0,47.7
+ORD-2015,3/31/2026,West,Online,New,Storage,USB Drive 128GB,Sofia Tan,3,57,0.03,165.87
+ORD-2016,7/4/2026,East,Online,New,Computers,Gaming Laptop,Nora Chen,1,4074,0.1,3666.6
+ORD-2017,1/20/2026,Central,Online,Returning,Storage,Memory Card 256GB,Chloe Lim,3,90,0,270
+ORD-2018,4/5/2026,Central,Online,Returning,Office Supplies,Sticky Notes,Kevin Yap,6,8.16,0.05,46.512
+ORD-2019,1/24/2026,North,Corporate Sales,Returning,Networking,Mesh Wi-Fi Set,Daniel Wong,7,780,0.03,5296.2
+ORD-2020,11/20/2026,East,Retail Store,Returning,Computers,All-in-One PC,Amir Hassan,3,3000,0.05,8550
+ORD-2021,3/11/2026,West,Online,New,Storage,Memory Card 256GB,Sofia Tan,1,91.8,0.05,87.21
+ORD-2022,12/21/2026,East,Online,Returning,Accessories,Keyboard,Grace Ng,4,65,0.08,239.2
+ORD-2023,9/20/2026,South,Online,New,Accessories,USB-C Hub,Raj Kumar,3,55,0.05,156.75
+ORD-2024,11/29/2026,East,Online,Returning,Storage,Memory Card 256GB,Amir Hassan,1,87.3,0,87.3
+ORD-2025,1/6/2026,Central,Online,Returning,Networking,Network Switch,Chloe Lim,1,183.6,0.08,168.912
+ORD-2026,9/4/2026,South,Marketplace,New,Storage,External SSD 1TB,Farah Ali,1,427.5,0.15,363.375
+ORD-2027,12/21/2026,East,Marketplace,New,Monitors,27-inch Monitor,Grace Ng,2,850,0.1,1530
+ORD-2028,2/1/2026,East,Online,Returning,Computers,Gaming Laptop,Nora Chen,1,4200,0.08,3864
+ORD-2029,4/16/2026,South,Retail Store,Returning,Monitors,Portable Monitor,Raj Kumar,1,700,0.03,679
+ORD-2030,12/2/2026,Central,Corporate Sales,Returning,Computers,All-in-One PC,Chloe Lim,1,3000,0.1,2700
+ORD-2031,5/6/2026,North,Online,Returning,Office Supplies,Desk Organizer,Mei Tan,8,35,0.1,252
+ORD-2032,9/5/2026,North,Retail Store,Returning,Accessories,Webcam,Mei Tan,7,76,0.05,505.4
+ORD-2033,1/27/2026,Central,Online,New,Networking,Network Switch,Hafiz Rahman,3,190.8,0.1,515.16
+ORD-2034,12/23/2026,West,Marketplace,Returning,Computers,Desktop Mini,Priya Shah,2,1746,0.2,2793.6
+ORD-2035,9/12/2026,Central,Corporate Sales,New,Accessories,Keyboard,Kevin Yap,5,66.3,0.08,304.98
+ORD-2036,9/3/2026,West,Online,Returning,Computers,All-in-One PC,Priya Shah,1,3060,0.05,2907
+ORD-2037,1/21/2026,West,Online,Returning,Office Supplies,Pen Pack,Sofia Tan,2,12,0,24
+ORD-2038,10/10/2026,North,Retail Store,New,Monitors,27-inch Monitor,Daniel Wong,1,807.5,0.05,767.125
+ORD-2039,3/6/2026,North,Corporate Sales,Returning,Storage,External HDD 2TB,Mei Tan,7,326.4,0.1,2056.32
+ORD-2040,11/27/2026,North,Online,Returning,Storage,Memory Card 256GB,Mei Tan,3,91.8,0.05,261.63
+ORD-2041,2/25/2026,West,Retail Store,Returning,Computers,Gaming Laptop,Priya Shah,1,4074,0.2,3259.2
+ORD-2042,2/23/2026,South,Online,Returning,Office Supplies,Printer Paper,Farah Ali,4,18.72,0,74.88
+ORD-2043,7/29/2026,Central,Retail Store,Returning,Computers,Desktop Mini,Hafiz Rahman,1,1872,0.05,1778.4
+ORD-2044,4/2/2026,South,Corporate Sales,New,Office Supplies,Desk Organizer,Raj Kumar,6,37.1,0.08,204.792
+ORD-2045,7/25/2026,West,Marketplace,Returning,Accessories,Webcam,Ben Ho,7,76,0,532
+ORD-2046,2/23/2026,South,Online,Returning,Accessories,Wireless Mouse,Raj Kumar,2,45,0.03,87.3
+ORD-2047,11/13/2026,Central,Online,Returning,Networking,Ethernet Cable,Chloe Lim,1,20.8,0.1,18.72
+ORD-2048,1/1/2026,West,Retail Store,Returning,Office Supplies,Notebook Set,Priya Shah,2,25,0,50
+ORD-2049,10/8/2026,North,Corporate Sales,Returning,Computers,Gaming Laptop,Mei Tan,2,4200,0.15,7140
+ORD-2050,2/17/2026,West,Corporate Sales,Returning,Accessories,Webcam,Ben Ho,3,80,0.08,220.8
+ORD-2051,3/20/2026,Central,Corporate Sales,Returning,Office Supplies,Desk Organizer,Kevin Yap,6,35,0,210
+ORD-2052,8/13/2026,South,Online,Returning,Monitors,Portable Monitor,Raj Kumar,4,700,0.05,2660
+ORD-2053,6/16/2026,West,Marketplace,Returning,Storage,Memory Card 256GB,Sofia Tan,3,90,0,270
+ORD-2054,6/16/2026,East,Corporate Sales,New,Office Supplies,Notebook Set,Amir Hassan,7,24.25,0.05,161.2625
+ORD-2055,8/3/2026,North,Retail Store,Returning,Office Supplies,Sticky Notes,Aisha Lim,1,8,0.05,7.6
+ORD-2056,5/11/2026,Central,Online,Returning,Monitors,24-inch Monitor,Hafiz Rahman,2,580,0.1,1044
+ORD-2057,7/11/2026,Central,Online,Returning,Monitors,24-inch Monitor,Chloe Lim,1,562.6,0,562.6
+ORD-2058,10/6/2026,East,Online,New,Office Supplies,Notebook Set,Grace Ng,6,23.75,0.05,135.375
+ORD-2059,11/16/2026,North,Marketplace,Returning,Accessories,Wireless Mouse,Daniel Wong,8,46.8,0.1,336.96
+ORD-2060,4/11/2026,East,Online,Returning,Accessories,Webcam,Amir Hassan,5,80,0.2,320
+ORD-2061,7/9/2026,East,Online,New,Storage,External HDD 2TB,Nora Chen,3,320,0.1,864
+ORD-2062,5/6/2026,North,Online,Returning,Computers,Laptop Air 13,Aisha Lim,1,2500,0.05,2375
+ORD-2063,2/20/2026,East,Online,New,Monitors,27-inch Monitor,Amir Hassan,2,867,0.15,1473.9
+ORD-2064,4/30/2026,Central,Retail Store,New,Storage,Memory Card 256GB,Chloe Lim,3,90,0.05,256.5
+ORD-2065,2/5/2026,North,Online,New,Monitors,27-inch Monitor,Daniel Wong,1,884,0.08,813.28
+ORD-2066,8/31/2026,Central,Marketplace,Returning,Monitors,27-inch Monitor,Chloe Lim,3,807.5,0.2,1938
+ORD-2067,12/20/2026,North,Online,Returning,Computers,Laptop Pro 14,Daniel Wong,1,3200,0.08,2944
+ORD-2068,6/10/2026,East,Online,Returning,Computers,Gaming Laptop,Amir Hassan,1,4452,0.15,3784.2
+ORD-2069,7/29/2026,East,Online,New,Storage,USB Drive 128GB,Amir Hassan,5,60,0.05,285
+ORD-2070,9/9/2026,West,Retail Store,Returning,Computers,Laptop Pro 14,Ben Ho,2,3264,0.1,5875.2
+ORD-2071,10/7/2026,East,Marketplace,Returning,Accessories,Laptop Stand,Nora Chen,6,38,0.2,182.4
+ORD-2072,6/17/2026,North,Retail Store,New,Office Supplies,Desk Organizer,Aisha Lim,3,33.25,0,99.75
+ORD-2073,9/13/2026,North,Corporate Sales,New,Storage,External SSD 1TB,Aisha Lim,15,477,0.08,6582.6
+ORD-2074,3/24/2026,Central,Corporate Sales,Returning,Accessories,Wireless Mouse,Chloe Lim,9,45,0.03,392.85
+ORD-2075,2/27/2026,Central,Online,Returning,Accessories,Wireless Mouse,Kevin Yap,8,45,0.03,349.2
+ORD-2076,10/11/2026,Central,Marketplace,New,Storage,USB Drive 128GB,Kevin Yap,7,57,0.05,379.05
+ORD-2077,9/3/2026,North,Corporate Sales,New,Computers,Laptop Air 13,Daniel Wong,1,2650,0.08,2438
+ORD-2078,7/6/2026,West,Marketplace,Returning,Accessories,Webcam,Priya Shah,1,81.6,0.08,75.072
+ORD-2079,2/15/2026,North,Marketplace,New,Accessories,Laptop Stand,Mei Tan,4,36.1,0.1,129.96
+ORD-2080,9/15/2026,North,Corporate Sales,New,Office Supplies,Pen Pack,Aisha Lim,5,12,0.05,57
+ORD-2081,3/5/2026,East,Retail Store,Returning,Computers,Laptop Air 13,Amir Hassan,4,2500,0.03,9700
+ORD-2082,4/16/2026,South,Online,Returning,Monitors,27-inch Monitor,Raj Kumar,4,807.5,0.08,2971.6
+ORD-2083,7/7/2026,Central,Retail Store,Returning,Storage,USB Drive 128GB,Kevin Yap,2,60,0.2,96
+ORD-2084,11/26/2026,South,Retail Store,New,Accessories,Laptop Stand,Jason Lee,6,36.1,0.08,199.272
+ORD-2085,3/5/2026,East,Online,Returning,Storage,External SSD 1TB,Nora Chen,4,459,0.08,1689.12
+ORD-2086,3/16/2026,South,Corporate Sales,New,Networking,Ethernet Cable,Raj Kumar,6,20,0.03,116.4
+ORD-2087,6/20/2026,East,Retail Store,Returning,Computers,Laptop Air 13,Amir Hassan,2,2500,0.1,4500
+ORD-2088,9/10/2026,North,Marketplace,New,Networking,Wi-Fi Router,Daniel Wong,2,291.2,0.05,553.28
+ORD-2089,6/1/2026,North,Online,New,Monitors,27-inch Monitor,Mei Tan,1,850,0.05,807.5
+ORD-2090,12/10/2026,Central,Online,New,Computers,Gaming Laptop,Chloe Lim,1,3990,0.05,3790.5
+ORD-2091,4/3/2026,North,Marketplace,Returning,Storage,External HDD 2TB,Mei Tan,1,326.4,0.03,316.608
+ORD-2092,6/22/2026,South,Online,Returning,Computers,Gaming Laptop,Raj Kumar,2,4200,0.03,8148
+ORD-2093,5/30/2026,North,Corporate Sales,Returning,Office Supplies,Printer Paper,Daniel Wong,7,18.72,0.05,124.488
+ORD-2094,10/19/2026,North,Marketplace,New,Accessories,Laptop Stand,Daniel Wong,3,38.76,0,116.28
+ORD-2095,10/30/2026,North,Online,Returning,Accessories,Laptop Stand,Mei Tan,1,39.52,0.05,37.544
+ORD-2096,6/10/2026,South,Corporate Sales,Returning,Computers,Gaming Laptop,Raj Kumar,1,4200,0.1,3780
+ORD-2097,6/3/2026,South,Corporate Sales,Returning,Monitors,24-inch Monitor,Farah Ali,1,580,0.1,522
+ORD-2098,9/1/2026,East,Marketplace,Returning,Office Supplies,Desk Organizer,Grace Ng,2,36.4,0.08,66.976
+ORD-2099,11/30/2026,East,Online,Returning,Computers,All-in-One PC,Amir Hassan,1,3060,0.03,2968.2
+ORD-2100,7/13/2026,Central,Online,New,Networking,Ethernet Cable,Hafiz Rahman,3,20,0.05,57
+ORD-2101,6/15/2026,South,Online,Returning,Computers,All-in-One PC,Farah Ali,1,3060,0.05,2907
+ORD-2102,10/1/2026,East,Online,New,Accessories,Laptop Stand,Amir Hassan,3,38,0.05,108.3
+ORD-2103,10/18/2026,West,Online,New,Accessories,Mouse Pad,Ben Ho,3,15,0.03,43.65
+ORD-2104,5/15/2026,West,Online,Returning,Office Supplies,Sticky Notes,Sofia Tan,1,8.48,0.03,8.2256
+ORD-2105,3/24/2026,West,Marketplace,Returning,Networking,Wi-Fi Router,Ben Ho,6,285.6,0.1,1542.24
+ORD-2106,6/6/2026,Central,Online,Returning,Office Supplies,Printer Paper,Hafiz Rahman,5,17.46,0.1,78.57
+ORD-2107,8/18/2026,Central,Online,Returning,Computers,Gaming Laptop,Kevin Yap,2,4200,0.05,7980
+ORD-2108,9/6/2026,South,Corporate Sales,Returning,Networking,Ethernet Cable,Farah Ali,2,20,0.03,38.8
+ORD-2109,9/9/2026,South,Retail Store,Returning,Computers,Laptop Air 13,Raj Kumar,1,2500,0.03,2425
+ORD-2110,8/24/2026,West,Marketplace,Returning,Storage,USB Drive 128GB,Ben Ho,2,62.4,0.08,114.816
+ORD-2111,5/12/2026,Central,Online,Returning,Monitors,27-inch Monitor,Kevin Yap,1,884,0,884
+ORD-2112,12/21/2026,East,Marketplace,New,Storage,USB Drive 128GB,Grace Ng,2,60,0.05,114
+ORD-2113,6/5/2026,West,Online,New,Computers,Laptop Pro 14,Sofia Tan,1,3200,0.08,2944
+ORD-2114,5/18/2026,North,Retail Store,Returning,Accessories,Keyboard,Mei Tan,8,65,0.08,478.4
+ORD-2115,11/25/2026,West,Corporate Sales,Returning,Monitors,27-inch Monitor,Ben Ho,4,884,0.05,3359.2
+ORD-2116,9/22/2026,Central,Marketplace,Returning,Accessories,Webcam,Hafiz Rahman,1,83.2,0.05,79.04
+ORD-2117,4/30/2026,East,Marketplace,New,Accessories,Webcam,Grace Ng,4,81.6,0.1,293.76
+ORD-2118,11/13/2026,East,Retail Store,Returning,Accessories,Wireless Mouse,Nora Chen,1,45,0.1,40.5
+ORD-2119,8/24/2026,South,Online,Returning,Accessories,Mouse Pad,Raj Kumar,4,15.9,0.2,50.88
+ORD-2120,10/29/2026,Central,Retail Store,Returning,Accessories,Keyboard,Chloe Lim,2,68.9,0.15,117.13
+ORD-2121,6/23/2026,Central,Online,New,Office Supplies,Pen Pack,Hafiz Rahman,2,12.72,0.1,22.896
+ORD-2122,12/26/2026,North,Retail Store,Returning,Office Supplies,Desk Organizer,Mei Tan,1,35,0.1,31.5
+ORD-2123,1/2/2026,West,Retail Store,Returning,Monitors,Portable Monitor,Priya Shah,3,679,0.2,1629.6
+ORD-2124,7/23/2026,West,Corporate Sales,Returning,Accessories,USB-C Hub,Priya Shah,5,52.25,0.05,248.1875
+ORD-2125,10/12/2026,South,Marketplace,Returning,Computers,Laptop Pro 14,Jason Lee,1,3104,0.05,2948.8
+ORD-2126,10/4/2026,West,Online,Returning,Accessories,Keyboard,Priya Shah,1,68.9,0,68.9
+ORD-2127,9/15/2026,Central,Retail Store,New,Computers,Desktop Mini,Hafiz Rahman,1,1908,0.05,1812.6
+ORD-2128,8/20/2026,North,Online,Returning,Accessories,Laptop Stand,Daniel Wong,4,38.76,0.03,150.3888
+ORD-2129,3/21/2026,South,Corporate Sales,Returning,Computers,Laptop Air 13,Farah Ali,1,2500,0.15,2125
+ORD-2130,9/1/2026,Central,Retail Store,New,Accessories,Laptop Stand,Hafiz Rahman,2,39.52,0.15,67.184
+ORD-2131,9/19/2026,Central,Online,Returning,Office Supplies,Printer Paper,Hafiz Rahman,5,18,0.05,85.5
+ORD-2132,11/1/2026,West,Online,New,Accessories,Keyboard,Sofia Tan,3,65,0.1,175.5
+ORD-2133,9/12/2026,East,Retail Store,Returning,Accessories,Mouse Pad,Nora Chen,4,15,0.05,57
+ORD-2134,6/4/2026,Central,Retail Store,New,Networking,Wi-Fi Router,Chloe Lim,2,266,0.08,489.44
+ORD-2135,4/24/2026,North,Marketplace,Returning,Accessories,Mouse Pad,Aisha Lim,1,15.9,0.2,12.72
+ORD-2136,7/3/2026,West,Corporate Sales,Returning,Networking,Mesh Wi-Fi Set,Priya Shah,3,750,0.03,2182.5
+ORD-2137,10/16/2026,East,Retail Store,Returning,Computers,Laptop Pro 14,Amir Hassan,1,3200,0.05,3040
+ORD-2138,3/18/2026,East,Retail Store,New,Accessories,USB-C Hub,Grace Ng,4,53.35,0.05,202.73
+ORD-2139,3/26/2026,West,Corporate Sales,Returning,Computers,Gaming Laptop,Priya Shah,1,4200,0.03,4074
+ORD-2140,7/10/2026,Central,Online,Returning,Accessories,Laptop Stand,Chloe Lim,3,38,0,114
+ORD-2141,7/11/2026,Central,Retail Store,Returning,Accessories,USB-C Hub,Hafiz Rahman,1,55,0.15,46.75
+ORD-2142,9/18/2026,Central,Online,New,Accessories,Laptop Stand,Chloe Lim,2,38,0.05,72.2
+ORD-2143,9/30/2026,East,Retail Store,New,Accessories,USB-C Hub,Nora Chen,5,55,0.05,261.25
+ORD-2144,5/17/2026,Central,Corporate Sales,Returning,Office Supplies,Desk Organizer,Hafiz Rahman,13,35,0.08,418.6
+ORD-2145,5/10/2026,South,Online,Returning,Monitors,Portable Monitor,Farah Ali,2,728,0,1456
+ORD-2146,1/14/2026,South,Marketplace,Returning,Storage,External SSD 1TB,Farah Ali,1,450,0.1,405
+ORD-2147,11/1/2026,South,Corporate Sales,New,Monitors,27-inch Monitor,Farah Ali,2,850,0.08,1564
+ORD-2148,2/8/2026,North,Corporate Sales,Returning,Monitors,24-inch Monitor,Aisha Lim,2,603.2,0.15,1025.44
+ORD-2149,4/20/2026,East,Online,New,Computers,All-in-One PC,Amir Hassan,1,3060,0.03,2968.2
+ORD-2150,2/24/2026,North,Marketplace,Returning,Office Supplies,Pen Pack,Aisha Lim,3,12,0.08,33.12
+ORD-2151,4/19/2026,East,Corporate Sales,Returning,Office Supplies,Notebook Set,Grace Ng,10,25,0,250
+ORD-2152,9/11/2026,Central,Online,Returning,Storage,External HDD 2TB,Hafiz Rahman,2,320,0.03,620.8
+ORD-2153,5/22/2026,Central,Online,Returning,Networking,Mesh Wi-Fi Set,Hafiz Rahman,3,727.5,0.05,2073.375
+ORD-2154,11/27/2026,East,Marketplace,Returning,Accessories,USB-C Hub,Amir Hassan,7,52.25,0.15,310.8875
+ORD-2155,10/16/2026,South,Online,New,Accessories,Wireless Mouse,Raj Kumar,3,43.65,0.08,120.474
+ORD-2156,8/15/2026,East,Marketplace,Returning,Storage,Memory Card 256GB,Grace Ng,2,90,0.15,153
+ORD-2157,3/11/2026,North,Corporate Sales,New,Monitors,Portable Monitor,Daniel Wong,1,665,0.05,631.75
+ORD-2158,11/1/2026,North,Online,New,Office Supplies,Sticky Notes,Mei Tan,3,8.16,0.1,22.032
+ORD-2159,10/19/2026,Central,Marketplace,Returning,Storage,External HDD 2TB,Chloe Lim,1,320,0.03,310.4
+ORD-2160,7/31/2026,Central,Corporate Sales,Returning,Networking,Ethernet Cable,Chloe Lim,12,20.4,0.1,220.32
+ORD-2161,4/14/2026,Central,Online,Returning,Storage,External SSD 1TB,Chloe Lim,5,450,0.15,1912.5
+ORD-2162,11/13/2026,North,Marketplace,Returning,Accessories,Wireless Mouse,Aisha Lim,2,47.7,0.05,90.63
+ORD-2163,8/4/2026,North,Online,Returning,Storage,External SSD 1TB,Aisha Lim,4,450,0,1800
+ORD-2164,10/12/2026,West,Online,New,Networking,Ethernet Cable,Ben Ho,2,21.2,0,42.4
+ORD-2165,1/13/2026,Central,Retail Store,Returning,Computers,Desktop Mini,Hafiz Rahman,1,1746,0.1,1571.4
+ORD-2166,3/23/2026,North,Corporate Sales,Returning,Monitors,Ultrawide Monitor,Mei Tan,1,1530,0.15,1300.5
+ORD-2167,8/5/2026,East,Online,Returning,Accessories,Webcam,Amir Hassan,5,80,0.08,368
+ORD-2168,8/27/2026,North,Online,Returning,Networking,Mesh Wi-Fi Set,Mei Tan,5,765,0,3825
+ORD-2169,1/7/2026,South,Retail Store,Returning,Computers,Desktop Mini,Farah Ali,2,1710,0.05,3249
+ORD-2170,1/28/2026,North,Retail Store,Returning,Office Supplies,Sticky Notes,Mei Tan,1,8,0,8
+ORD-2171,2/3/2026,North,Retail Store,Returning,Office Supplies,Sticky Notes,Daniel Wong,1,8.48,0.08,7.8016
+ORD-2172,1/16/2026,East,Marketplace,New,Storage,USB Drive 128GB,Grace Ng,2,58.2,0.1,104.76
+ORD-2173,3/8/2026,East,Marketplace,New,Storage,External SSD 1TB,Nora Chen,2,468,0.08,861.12
+ORD-2174,3/6/2026,West,Online,Returning,Monitors,Ultrawide Monitor,Sofia Tan,1,1500,0.05,1425
+ORD-2175,8/30/2026,Central,Corporate Sales,Returning,Storage,External HDD 2TB,Chloe Lim,2,320,0.08,588.8
+ORD-2176,3/11/2026,North,Retail Store,Returning,Accessories,Webcam,Daniel Wong,2,83.2,0.03,161.408
+ORD-2177,4/15/2026,North,Online,Returning,Networking,Ethernet Cable,Aisha Lim,2,20,0.1,36
+ORD-2178,10/15/2026,West,Corporate Sales,New,Monitors,24-inch Monitor,Priya Shah,1,591.6,0,591.6
+ORD-2179,2/8/2026,Central,Marketplace,New,Storage,External HDD 2TB,Chloe Lim,2,326.4,0.05,620.16
+ORD-2180,12/17/2026,North,Marketplace,Returning,Monitors,27-inch Monitor,Daniel Wong,2,850,0.05,1615
+ORD-2181,5/20/2026,West,Retail Store,Returning,Accessories,Webcam,Priya Shah,3,81.6,0.08,225.216
+ORD-2182,3/6/2026,North,Online,Returning,Storage,External HDD 2TB,Aisha Lim,5,332.8,0.03,1614.08
+ORD-2183,4/29/2026,East,Retail Store,Returning,Computers,Desktop Mini,Grace Ng,1,1710,0.08,1573.2
+ORD-2184,5/30/2026,West,Retail Store,New,Office Supplies,Pen Pack,Sofia Tan,2,12,0,24
+ORD-2185,6/6/2026,West,Retail Store,New,Office Supplies,Notebook Set,Ben Ho,7,25,0.05,166.25
+ORD-2186,2/24/2026,East,Corporate Sales,New,Computers,Desktop Mini,Amir Hassan,1,1836,0,1836
+ORD-2187,7/25/2026,West,Retail Store,Returning,Computers,Laptop Pro 14,Priya Shah,1,3392,0.15,2883.2
+ORD-2188,5/9/2026,Central,Online,Returning,Accessories,Mouse Pad,Kevin Yap,2,15.9,0,31.8
+ORD-2189,9/26/2026,East,Online,Returning,Accessories,Mouse Pad,Amir Hassan,1,15.3,0.1,13.77
+ORD-2190,11/14/2026,East,Retail Store,Returning,Computers,Desktop Mini,Grace Ng,1,1800,0.05,1710
+ORD-2191,11/12/2026,North,Online,Returning,Accessories,USB-C Hub,Mei Tan,3,55,0.1,148.5
+ORD-2192,12/27/2026,West,Retail Store,Returning,Computers,All-in-One PC,Priya Shah,1,3120,0.03,3026.4
+ORD-2193,12/19/2026,North,Marketplace,New,Storage,Memory Card 256GB,Daniel Wong,4,93.6,0,374.4
+ORD-2194,10/28/2026,East,Marketplace,New,Computers,Gaming Laptop,Grace Ng,1,3990,0.03,3870.3
+ORD-2195,12/4/2026,South,Retail Store,New,Monitors,Ultrawide Monitor,Raj Kumar,3,1530,0.05,4360.5
+ORD-2196,4/26/2026,North,Retail Store,Returning,Computers,Laptop Air 13,Daniel Wong,1,2500,0.15,2125
+ORD-2197,5/13/2026,West,Corporate Sales,New,Monitors,24-inch Monitor,Sofia Tan,1,591.6,0.08,544.272
+ORD-2198,5/10/2026,North,Corporate Sales,Returning,Computers,Gaming Laptop,Daniel Wong,2,4200,0.03,8148
+ORD-2199,7/11/2026,Central,Marketplace,Returning,Networking,Ethernet Cable,Kevin Yap,1,19,0.08,17.48
+ORD-2200,9/18/2026,South,Retail Store,New,Storage,External SSD 1TB,Jason Lee,1,450,0.08,414
+ORD-2201,6/9/2026,North,Online,New,Accessories,USB-C Hub,Aisha Lim,5,53.35,0.1,240.075
+ORD-2202,8/3/2026,South,Online,Returning,Accessories,Keyboard,Jason Lee,1,65,0.03,63.05
+ORD-2203,12/8/2026,Central,Retail Store,Returning,Accessories,Laptop Stand,Hafiz Rahman,7,38,0.15,226.1
+ORD-2204,11/14/2026,East,Marketplace,New,Accessories,Webcam,Amir Hassan,3,83.2,0.15,212.16
+ORD-2205,10/23/2026,Central,Online,Returning,Computers,Desktop Mini,Kevin Yap,1,1800,0.05,1710
+ORD-2206,2/28/2026,Central,Corporate Sales,Returning,Monitors,24-inch Monitor,Kevin Yap,2,614.8,0,1229.6
+ORD-2207,3/12/2026,West,Corporate Sales,Returning,Networking,Network Switch,Priya Shah,7,180,0,1260
+ORD-2208,6/19/2026,East,Marketplace,New,Monitors,24-inch Monitor,Nora Chen,1,591.6,0.1,532.44
+ORD-2209,9/3/2026,Central,Online,New,Office Supplies,Notebook Set,Chloe Lim,2,26.5,0.08,48.76
+ORD-2210,12/7/2026,West,Online,Returning,Computers,Laptop Air 13,Priya Shah,1,2600,0.08,2392
+ORD-2211,8/28/2026,North,Retail Store,Returning,Computers,Laptop Pro 14,Daniel Wong,1,3104,0.05,2948.8
+ORD-2212,3/7/2026,South,Retail Store,Returning,Accessories,Keyboard,Raj Kumar,3,61.75,0.05,175.9875
+ORD-2213,5/4/2026,Central,Retail Store,Returning,Computers,Gaming Laptop,Hafiz Rahman,1,4368,0,4368
+ORD-2214,3/10/2026,South,Corporate Sales,Returning,Monitors,27-inch Monitor,Jason Lee,1,850,0.03,824.5
+ORD-2215,9/11/2026,East,Online,New,Office Supplies,Notebook Set,Nora Chen,4,23.75,0,95
+ORD-2216,12/17/2026,North,Online,New,Office Supplies,Sticky Notes,Mei Tan,5,8.16,0.2,32.64
+ORD-2217,9/16/2026,North,Online,New,Office Supplies,Pen Pack,Daniel Wong,3,12.24,0.1,33.048
+ORD-2218,11/25/2026,North,Online,Returning,Accessories,Wireless Mouse,Aisha Lim,5,43.65,0.05,207.3375
+ORD-2219,2/22/2026,North,Retail Store,Returning,Monitors,27-inch Monitor,Daniel Wong,4,867,0.15,2947.8
+ORD-2220,11/26/2026,East,Online,Returning,Computers,Desktop Mini,Nora Chen,1,1800,0.15,1530
+ORD-2221,10/2/2026,South,Marketplace,Returning,Office Supplies,Sticky Notes,Jason Lee,5,7.76,0,38.8
+ORD-2222,5/17/2026,East,Corporate Sales,Returning,Office Supplies,Pen Pack,Nora Chen,5,12,0.05,57
+ORD-2223,4/21/2026,East,Retail Store,New,Accessories,Wireless Mouse,Amir Hassan,3,45.9,0.05,130.815
+ORD-2224,7/26/2026,West,Corporate Sales,Returning,Monitors,24-inch Monitor,Priya Shah,4,580,0.05,2204
+ORD-2225,10/19/2026,East,Corporate Sales,Returning,Monitors,24-inch Monitor,Grace Ng,1,580,0.05,551
+ORD-2226,1/27/2026,West,Retail Store,Returning,Office Supplies,Sticky Notes,Sofia Tan,4,8.16,0,32.64
+ORD-2227,2/6/2026,Central,Corporate Sales,New,Computers,Laptop Air 13,Kevin Yap,1,2375,0.05,2256.25
+ORD-2228,2/10/2026,North,Online,Returning,Office Supplies,Pen Pack,Aisha Lim,5,12.48,0.05,59.28
+ORD-2229,1/5/2026,East,Retail Store,New,Networking,Ethernet Cable,Amir Hassan,7,20,0.05,133
+ORD-2230,6/1/2026,South,Retail Store,New,Office Supplies,Printer Paper,Farah Ali,3,18,0.1,48.6
+ORD-2231,1/25/2026,East,Corporate Sales,New,Storage,External SSD 1TB,Nora Chen,12,450,0.08,4968
+ORD-2232,7/6/2026,Central,Online,Returning,Networking,Network Switch,Kevin Yap,3,180,0.03,523.8
+ORD-2233,4/25/2026,North,Marketplace,Returning,Networking,Network Switch,Aisha Lim,1,180,0.2,144
+ORD-2234,6/4/2026,North,Marketplace,New,Storage,External SSD 1TB,Daniel Wong,2,450,0.08,828
+ORD-2235,3/20/2026,West,Corporate Sales,Returning,Networking,Mesh Wi-Fi Set,Sofia Tan,2,765,0,1530
+ORD-2236,5/31/2026,South,Online,Returning,Networking,Wi-Fi Router,Jason Lee,2,291.2,0.15,495.04
+ORD-2237,1/6/2026,West,Online,Returning,Accessories,USB-C Hub,Ben Ho,5,53.35,0.08,245.41
+ORD-2238,8/5/2026,East,Online,New,Accessories,Webcam,Amir Hassan,3,76,0,228
+ORD-2239,5/5/2026,Central,Corporate Sales,New,Accessories,Wireless Mouse,Chloe Lim,10,46.8,0,468
+ORD-2240,10/2/2026,East,Online,Returning,Networking,Network Switch,Grace Ng,4,180,0.05,684
+ORD-2241,4/16/2026,East,Online,Returning,Monitors,27-inch Monitor,Nora Chen,2,901,0.05,1711.9
+ORD-2242,4/24/2026,North,Marketplace,Returning,Office Supplies,Desk Organizer,Mei Tan,2,33.25,0.05,63.175
+ORD-2243,6/23/2026,Central,Marketplace,Returning,Accessories,Mouse Pad,Hafiz Rahman,1,15.3,0.08,14.076
+ORD-2244,6/15/2026,East,Retail Store,Returning,Computers,Gaming Laptop,Nora Chen,2,4200,0.05,7980
+ORD-2245,9/19/2026,North,Marketplace,Returning,Storage,Memory Card 256GB,Aisha Lim,2,93.6,0.05,177.84
+ORD-2246,3/4/2026,East,Retail Store,Returning,Networking,Network Switch,Nora Chen,1,171,0.05,162.45
+ORD-2247,9/30/2026,East,Online,Returning,Storage,Memory Card 256GB,Grace Ng,2,90,0.1,162
+ORD-2248,10/21/2026,South,Corporate Sales,New,Monitors,Portable Monitor,Farah Ali,3,700,0.03,2037
+ORD-2249,5/30/2026,West,Retail Store,Returning,Accessories,Wireless Mouse,Sofia Tan,1,43.65,0,43.65
+ORD-2250,5/3/2026,South,Marketplace,New,Accessories,Keyboard,Farah Ali,5,65,0.05,308.75
+ORD-2251,8/27/2026,East,Online,New,Computers,All-in-One PC,Amir Hassan,3,3000,0,9000
+ORD-2252,2/20/2026,South,Retail Store,Returning,Storage,USB Drive 128GB,Raj Kumar,7,60,0.08,386.4
+ORD-2253,12/4/2026,West,Online,Returning,Computers,Laptop Air 13,Ben Ho,1,2375,0.2,1900
+ORD-2254,12/19/2026,East,Retail Store,New,Monitors,Ultrawide Monitor,Nora Chen,5,1530,0.15,6502.5
+ORD-2255,3/20/2026,South,Retail Store,New,Networking,Mesh Wi-Fi Set,Raj Kumar,2,765,0.08,1407.6
+ORD-2256,5/26/2026,East,Retail Store,Returning,Networking,Ethernet Cable,Grace Ng,1,20,0.03,19.4
+ORD-2257,11/1/2026,East,Marketplace,New,Accessories,Laptop Stand,Nora Chen,2,38,0.08,69.92
+ORD-2258,4/25/2026,West,Corporate Sales,New,Accessories,Webcam,Ben Ho,9,76,0,684
+ORD-2259,3/16/2026,South,Online,Returning,Storage,USB Drive 128GB,Farah Ali,5,61.2,0.1,275.4
+ORD-2260,6/11/2026,North,Online,New,Accessories,Laptop Stand,Daniel Wong,1,38,0.08,34.96
+ORD-2261,2/22/2026,Central,Marketplace,Returning,Accessories,Keyboard,Chloe Lim,1,63.05,0.03,61.1585
+ORD-2262,3/26/2026,North,Online,New,Storage,USB Drive 128GB,Aisha Lim,1,58.2,0.05,55.29
+ORD-2263,9/11/2026,Central,Online,New,Storage,External HDD 2TB,Chloe Lim,1,310.4,0.08,285.568
+ORD-2264,1/26/2026,West,Online,Returning,Computers,All-in-One PC,Ben Ho,1,3000,0.03,2910
+ORD-2265,8/6/2026,East,Corporate Sales,Returning,Networking,Network Switch,Nora Chen,7,180,0,1260
+ORD-2266,4/29/2026,East,Marketplace,Returning,Storage,External SSD 1TB,Nora Chen,1,450,0.05,427.5
+ORD-2267,3/21/2026,Central,Online,Returning,Storage,External HDD 2TB,Chloe Lim,2,332.8,0.05,632.32
+ORD-2268,7/21/2026,Central,Corporate Sales,New,Computers,Laptop Pro 14,Chloe Lim,1,3104,0.15,2638.4
+ORD-2269,8/27/2026,East,Corporate Sales,Returning,Monitors,24-inch Monitor,Amir Hassan,2,591.6,0.15,1005.72
+ORD-2270,9/20/2026,West,Online,New,Office Supplies,Printer Paper,Ben Ho,4,18.36,0.05,69.768
+ORD-2271,4/16/2026,South,Marketplace,New,Storage,External SSD 1TB,Farah Ali,2,459,0.15,780.3
+ORD-2272,12/28/2026,Central,Retail Store,Returning,Monitors,27-inch Monitor,Chloe Lim,2,850,0.08,1564
+ORD-2273,11/26/2026,South,Marketplace,Returning,Computers,Laptop Pro 14,Raj Kumar,2,3328,0.1,5990.4
+ORD-2274,3/31/2026,North,Online,Returning,Accessories,Laptop Stand,Aisha Lim,1,38,0.05,36.1
+ORD-2275,11/28/2026,East,Online,Returning,Storage,Memory Card 256GB,Grace Ng,7,93.6,0.03,635.544
+ORD-2276,1/31/2026,North,Marketplace,Returning,Storage,External HDD 2TB,Mei Tan,3,320,0.08,883.2
+ORD-2277,6/1/2026,Central,Retail Store,New,Computers,All-in-One PC,Kevin Yap,1,3120,0.1,2808
+ORD-2278,4/24/2026,South,Corporate Sales,New,Monitors,Portable Monitor,Raj Kumar,1,679,0.05,645.05
+ORD-2279,3/11/2026,West,Marketplace,Returning,Storage,Memory Card 256GB,Ben Ho,3,90,0.08,248.4
+ORD-2280,9/29/2026,North,Online,Returning,Networking,Mesh Wi-Fi Set,Daniel Wong,5,750,0.03,3637.5
+ORD-2281,6/1/2026,South,Marketplace,Returning,Accessories,Laptop Stand,Jason Lee,3,36.86,0.08,101.7336
+ORD-2282,4/15/2026,South,Online,Returning,Storage,USB Drive 128GB,Raj Kumar,2,57,0.03,110.58
+ORD-2283,5/27/2026,West,Retail Store,Returning,Networking,Network Switch,Priya Shah,3,183.6,0.05,523.26
+ORD-2284,3/30/2026,East,Online,Returning,Storage,External HDD 2TB,Grace Ng,1,320,0.05,304
+ORD-2285,11/1/2026,South,Online,New,Accessories,Mouse Pad,Raj Kumar,1,15.6,0.08,14.352
+ORD-2286,6/13/2026,East,Retail Store,Returning,Accessories,Laptop Stand,Amir Hassan,2,40.28,0.1,72.504
+ORD-2287,4/19/2026,North,Marketplace,New,Office Supplies,Sticky Notes,Daniel Wong,2,8.48,0.05,16.112
+ORD-2288,5/1/2026,West,Corporate Sales,Returning,Computers,Laptop Pro 14,Sofia Tan,1,3200,0.1,2880
+ORD-2289,11/2/2026,West,Corporate Sales,Returning,Networking,Mesh Wi-Fi Set,Priya Shah,3,750,0.03,2182.5
+ORD-2290,4/25/2026,South,Online,New,Computers,Laptop Pro 14,Farah Ali,1,3392,0,3392
+ORD-2291,9/13/2026,West,Retail Store,New,Accessories,Keyboard,Sofia Tan,4,63.05,0.1,226.98
+ORD-2292,4/21/2026,West,Online,Returning,Storage,Memory Card 256GB,Sofia Tan,1,85.5,0.1,76.95
+ORD-2293,12/5/2026,East,Online,Returning,Storage,External SSD 1TB,Grace Ng,3,450,0.1,1215
+ORD-2294,6/3/2026,North,Retail Store,New,Monitors,24-inch Monitor,Aisha Lim,2,591.6,0.1,1064.88
+ORD-2295,7/27/2026,North,Online,Returning,Networking,Ethernet Cable,Mei Tan,3,20,0.05,57
+ORD-2296,11/25/2026,East,Online,New,Accessories,Wireless Mouse,Grace Ng,2,45,0.08,82.8
+ORD-2297,9/25/2026,South,Online,New,Office Supplies,Pen Pack,Farah Ali,4,12,0.08,44.16
+ORD-2298,11/22/2026,North,Retail Store,New,Monitors,27-inch Monitor,Mei Tan,1,850,0,850
+ORD-2299,3/6/2026,Central,Online,Returning,Computers,Desktop Mini,Chloe Lim,4,1908,0.08,7021.44
+ORD-2300,12/16/2026,East,Online,Returning,Office Supplies,Pen Pack,Nora Chen,3,11.64,0.15,29.682
+ORD-2301,8/28/2026,North,Online,New,Monitors,27-inch Monitor,Mei Tan,1,824.5,0,824.5
+ORD-2302,12/24/2026,Central,Online,Returning,Accessories,Wireless Mouse,Chloe Lim,2,43.65,0.05,82.935
+ORD-2303,2/21/2026,West,Corporate Sales,New,Networking,Network Switch,Sofia Tan,2,180,0,360
+ORD-2304,6/29/2026,East,Retail Store,New,Storage,Memory Card 256GB,Nora Chen,4,87.3,0.03,338.724
+ORD-2305,6/13/2026,North,Retail Store,Returning,Computers,Laptop Pro 14,Aisha Lim,1,3040,0.2,2432
+ORD-2306,9/24/2026,East,Marketplace,New,Accessories,Keyboard,Grace Ng,4,65,0.15,221
+ORD-2307,1/19/2026,Central,Retail Store,Returning,Monitors,27-inch Monitor,Hafiz Rahman,1,807.5,0,807.5
+ORD-2308,6/16/2026,East,Online,Returning,Storage,External HDD 2TB,Nora Chen,4,326.4,0.05,1240.32
+ORD-2309,8/12/2026,East,Online,New,Office Supplies,Printer Paper,Grace Ng,2,18.72,0.03,36.3168
+ORD-2310,4/5/2026,South,Online,Returning,Storage,External HDD 2TB,Jason Lee,2,304,0.15,516.8
+ORD-2311,3/11/2026,East,Marketplace,New,Office Supplies,Pen Pack,Amir Hassan,5,12,0.05,57
+ORD-2312,11/17/2026,East,Retail Store,Returning,Computers,All-in-One PC,Amir Hassan,2,3000,0.1,5400
+ORD-2313,7/11/2026,West,Corporate Sales,Returning,Monitors,Portable Monitor,Priya Shah,2,700,0.1,1260
+ORD-2314,10/4/2026,North,Corporate Sales,New,Storage,External HDD 2TB,Mei Tan,12,304,0.2,2918.4
+ORD-2315,7/30/2026,North,Marketplace,New,Computers,Laptop Air 13,Mei Tan,3,2425,0.03,7056.75
+ORD-2316,1/4/2026,North,Marketplace,Returning,Accessories,USB-C Hub,Aisha Lim,2,53.35,0.05,101.365
+ORD-2317,1/20/2026,South,Retail Store,New,Monitors,Portable Monitor,Farah Ali,2,665,0.2,1064
+ORD-2318,5/1/2026,South,Retail Store,Returning,Office Supplies,Notebook Set,Farah Ali,4,26,0.08,95.68
+ORD-2319,12/22/2026,East,Online,New,Monitors,24-inch Monitor,Nora Chen,1,614.8,0.03,596.356
+ORD-2320,10/23/2026,West,Online,Returning,Computers,All-in-One PC,Priya Shah,1,3180,0.03,3084.6
+ORD-2321,11/7/2026,East,Online,Returning,Monitors,24-inch Monitor,Amir Hassan,1,614.8,0.05,584.06
+ORD-2322,9/13/2026,Central,Retail Store,Returning,Computers,Laptop Pro 14,Chloe Lim,1,3392,0.05,3222.4
+ORD-2323,1/20/2026,South,Online,New,Office Supplies,Pen Pack,Jason Lee,2,12.72,0,25.44
+ORD-2324,11/29/2026,North,Online,New,Accessories,Mouse Pad,Daniel Wong,1,15.9,0.08,14.628
+ORD-2325,12/4/2026,North,Online,Returning,Networking,Wi-Fi Router,Aisha Lim,3,296.8,0.15,756.84
+ORD-2326,1/17/2026,Central,Online,Returning,Computers,Laptop Pro 14,Chloe Lim,1,3200,0.08,2944
+ORD-2327,1/9/2026,Central,Corporate Sales,Returning,Monitors,27-inch Monitor,Kevin Yap,1,850,0.03,824.5
+ORD-2328,3/7/2026,East,Marketplace,Returning,Accessories,Wireless Mouse,Nora Chen,3,45,0,135
+ORD-2329,4/5/2026,South,Corporate Sales,Returning,Computers,All-in-One PC,Jason Lee,1,2850,0.1,2565
+ORD-2330,7/10/2026,Central,Online,Returning,Office Supplies,Pen Pack,Chloe Lim,3,12,0.05,34.2
+ORD-2331,2/13/2026,East,Retail Store,Returning,Accessories,Mouse Pad,Nora Chen,5,15,0,75
+ORD-2332,6/3/2026,East,Online,Returning,Office Supplies,Desk Organizer,Amir Hassan,5,35,0.08,161
+ORD-2333,1/11/2026,Central,Online,Returning,Networking,Network Switch,Kevin Yap,3,190.8,0.15,486.54
+ORD-2334,12/16/2026,East,Corporate Sales,Returning,Storage,External HDD 2TB,Nora Chen,8,320,0.05,2432
+ORD-2335,6/1/2026,South,Retail Store,Returning,Office Supplies,Notebook Set,Jason Lee,2,25.5,0.05,48.45
+ORD-2336,11/30/2026,South,Marketplace,Returning,Office Supplies,Printer Paper,Jason Lee,2,19.08,0.15,32.436
+ORD-2337,8/18/2026,Central,Retail Store,Returning,Monitors,Portable Monitor,Hafiz Rahman,1,714,0.05,678.3
+ORD-2338,7/20/2026,West,Online,New,Accessories,Laptop Stand,Sofia Tan,2,38,0.15,64.6
+ORD-2339,8/12/2026,Central,Online,New,Storage,USB Drive 128GB,Chloe Lim,3,60,0.08,165.6
+ORD-2340,10/29/2026,Central,Marketplace,Returning,Accessories,Mouse Pad,Chloe Lim,4,15.3,0.08,56.304
+ORD-2341,11/19/2026,East,Online,Returning,Accessories,Keyboard,Amir Hassan,3,65,0.1,175.5
+ORD-2342,3/21/2026,Central,Online,Returning,Storage,Memory Card 256GB,Hafiz Rahman,1,91.8,0.08,84.456
+ORD-2343,2/13/2026,Central,Marketplace,New,Accessories,Laptop Stand,Kevin Yap,2,40.28,0.2,64.448
+ORD-2344,11/17/2026,East,Online,New,Computers,Gaming Laptop,Nora Chen,1,4074,0.08,3748.08
+ORD-2345,3/4/2026,South,Marketplace,New,Office Supplies,Desk Organizer,Raj Kumar,3,33.95,0.05,96.7575
+ORD-2346,12/22/2026,East,Online,Returning,Accessories,Wireless Mouse,Amir Hassan,7,45.9,0.1,289.17
+ORD-2347,6/8/2026,North,Retail Store,Returning,Networking,Ethernet Cable,Aisha Lim,1,20,0.08,18.4
+ORD-2348,10/6/2026,Central,Marketplace,New,Storage,External HDD 2TB,Hafiz Rahman,3,310.4,0.08,856.704
+ORD-2349,11/4/2026,North,Marketplace,New,Monitors,27-inch Monitor,Mei Tan,4,850,0.05,3230
+ORD-2350,4/10/2026,East,Marketplace,Returning,Computers,Laptop Air 13,Amir Hassan,2,2425,0.05,4607.5
+ORD-2351,6/24/2026,Central,Marketplace,Returning,Accessories,Laptop Stand,Kevin Yap,6,38,0.08,209.76
+ORD-2352,5/1/2026,East,Retail Store,Returning,Storage,USB Drive 128GB,Grace Ng,4,60,0.08,220.8
+ORD-2353,9/6/2026,Central,Online,New,Computers,Laptop Air 13,Hafiz Rahman,2,2500,0.03,4850
+ORD-2354,12/22/2026,Central,Online,Returning,Monitors,24-inch Monitor,Chloe Lim,2,603.2,0.05,1146.08
+ORD-2355,7/24/2026,East,Retail Store,Returning,Computers,Desktop Mini,Nora Chen,3,1836,0.03,5342.76
+ORD-2356,3/28/2026,East,Retail Store,Returning,Accessories,Wireless Mouse,Nora Chen,2,46.8,0.1,84.24
+ORD-2357,9/6/2026,North,Corporate Sales,New,Accessories,Laptop Stand,Aisha Lim,4,40.28,0.03,156.2864
+ORD-2358,4/30/2026,North,Retail Store,New,Accessories,Wireless Mouse,Daniel Wong,3,42.75,0.08,117.99
+ORD-2359,3/18/2026,East,Retail Store,New,Accessories,Keyboard,Nora Chen,1,63.05,0,63.05
+ORD-2360,7/25/2026,East,Corporate Sales,Returning,Computers,Laptop Air 13,Nora Chen,2,2500,0.05,4750
+ORD-2361,10/17/2026,Central,Retail Store,Returning,Computers,Laptop Air 13,Chloe Lim,1,2375,0.1,2137.5
+ORD-2362,11/27/2026,South,Corporate Sales,Returning,Monitors,24-inch Monitor,Raj Kumar,1,580,0.1,522
+ORD-2363,1/13/2026,North,Online,Returning,Monitors,Portable Monitor,Daniel Wong,3,728,0.05,2074.8
+ORD-2364,12/12/2026,Central,Retail Store,Returning,Computers,Desktop Mini,Chloe Lim,1,1872,0.15,1591.2
+ORD-2365,11/7/2026,North,Marketplace,Returning,Accessories,USB-C Hub,Aisha Lim,2,57.2,0.08,105.248
+ORD-2366,7/25/2026,North,Retail Store,Returning,Accessories,Webcam,Mei Tan,3,80,0.03,232.8
+ORD-2367,3/29/2026,North,Retail Store,Returning,Monitors,Portable Monitor,Aisha Lim,3,714,0.05,2034.9
+ORD-2368,12/8/2026,Central,Marketplace,Returning,Accessories,Wireless Mouse,Kevin Yap,2,45.9,0.08,84.456
+ORD-2369,11/3/2026,East,Online,Returning,Monitors,Portable Monitor,Grace Ng,1,679,0.05,645.05
+ORD-2370,3/4/2026,North,Corporate Sales,New,Accessories,Keyboard,Daniel Wong,2,66.3,0.05,125.97
+ORD-2371,6/20/2026,South,Online,Returning,Monitors,Portable Monitor,Jason Lee,1,742,0.08,682.64
+ORD-2372,10/24/2026,West,Retail Store,Returning,Accessories,USB-C Hub,Priya Shah,3,56.1,0.05,159.885
+ORD-2373,9/5/2026,North,Marketplace,New,Computers,Gaming Laptop,Mei Tan,1,4200,0.05,3990
+ORD-2374,3/19/2026,North,Corporate Sales,Returning,Monitors,Ultrawide Monitor,Mei Tan,1,1500,0,1500
+ORD-2375,4/16/2026,Central,Online,Returning,Accessories,Mouse Pad,Hafiz Rahman,1,15.9,0.08,14.628
+ORD-2376,8/12/2026,Central,Marketplace,New,Monitors,Ultrawide Monitor,Kevin Yap,2,1530,0.1,2754
+ORD-2377,8/22/2026,South,Retail Store,Returning,Computers,Laptop Pro 14,Jason Lee,1,3328,0.03,3228.16
+ORD-2378,4/24/2026,Central,Online,Returning,Office Supplies,Desk Organizer,Chloe Lim,5,33.95,0.05,161.2625
+ORD-2379,11/8/2026,East,Online,New,Monitors,Ultrawide Monitor,Amir Hassan,2,1560,0.08,2870.4
+ORD-2380,4/8/2026,North,Retail Store,Returning,Accessories,Laptop Stand,Mei Tan,2,36.1,0.1,64.98
+ORD-2381,6/1/2026,South,Online,New,Monitors,Portable Monitor,Raj Kumar,2,728,0.08,1339.52
+ORD-2382,4/20/2026,Central,Online,Returning,Monitors,24-inch Monitor,Chloe Lim,1,562.6,0.1,506.34
+ORD-2383,3/14/2026,East,Online,Returning,Office Supplies,Pen Pack,Nora Chen,1,11.4,0,11.4
+ORD-2384,4/27/2026,South,Corporate Sales,Returning,Computers,All-in-One PC,Farah Ali,1,2910,0.15,2473.5
+ORD-2385,2/19/2026,North,Online,New,Networking,Mesh Wi-Fi Set,Aisha Lim,5,780,0.05,3705
+ORD-2386,8/20/2026,Central,Online,Returning,Accessories,USB-C Hub,Kevin Yap,1,55,0.1,49.5
+ORD-2387,2/20/2026,North,Online,Returning,Computers,Laptop Air 13,Daniel Wong,2,2650,0.05,5035
+ORD-2388,5/21/2026,West,Retail Store,Returning,Computers,Desktop Mini,Priya Shah,1,1836,0.05,1744.2
+ORD-2389,3/3/2026,North,Marketplace,New,Networking,Mesh Wi-Fi Set,Aisha Lim,4,750,0.05,2850
+ORD-2390,9/19/2026,North,Retail Store,Returning,Networking,Ethernet Cable,Aisha Lim,6,20,0.08,110.4
+ORD-2391,3/7/2026,South,Online,Returning,Office Supplies,Printer Paper,Farah Ali,5,18,0.05,85.5
+ORD-2392,10/28/2026,South,Online,New,Networking,Network Switch,Jason Lee,7,183.6,0.08,1182.384
+ORD-2393,3/28/2026,Central,Marketplace,Returning,Monitors,Ultrawide Monitor,Kevin Yap,1,1500,0.03,1455
+ORD-2394,8/31/2026,South,Online,New,Accessories,Wireless Mouse,Farah Ali,4,45.9,0.1,165.24
+ORD-2395,5/4/2026,East,Marketplace,Returning,Accessories,Laptop Stand,Grace Ng,3,38,0.15,96.9
+ORD-2396,8/20/2026,North,Corporate Sales,Returning,Accessories,Mouse Pad,Mei Tan,7,15,0.1,94.5
+ORD-2397,4/1/2026,South,Retail Store,Returning,Monitors,Portable Monitor,Raj Kumar,4,742,0.08,2730.56
+ORD-2398,12/27/2026,East,Retail Store,New,Storage,External SSD 1TB,Amir Hassan,3,450,0.1,1215
+ORD-2399,4/17/2026,North,Online,Returning,Accessories,Wireless Mouse,Aisha Lim,1,46.8,0,46.8
+ORD-2400,7/29/2026,East,Retail Store,Returning,Networking,Ethernet Cable,Grace Ng,3,19,0.08,52.44
+ORD-2401,9/10/2026,West,Marketplace,Returning,Computers,Desktop Mini,Priya Shah,1,1800,0.03,1746
+ORD-2402,6/11/2026,West,Marketplace,New,Accessories,Mouse Pad,Ben Ho,1,15,0.05,14.25
+ORD-2403,6/29/2026,East,Corporate Sales,Returning,Office Supplies,Desk Organizer,Grace Ng,15,35,0.1,472.5
+ORD-2404,1/5/2026,Central,Marketplace,New,Accessories,Laptop Stand,Chloe Lim,1,38,0.05,36.1
+ORD-2405,7/27/2026,West,Retail Store,New,Storage,USB Drive 128GB,Sofia Tan,2,58.2,0,116.4
+ORD-2406,6/7/2026,East,Online,New,Networking,Wi-Fi Router,Grace Ng,1,271.6,0.05,258.02
+ORD-2407,11/18/2026,North,Marketplace,Returning,Computers,Desktop Mini,Daniel Wong,2,1872,0.08,3444.48
+ORD-2408,10/13/2026,North,Online,Returning,Storage,External SSD 1TB,Aisha Lim,5,450,0.15,1912.5
+ORD-2409,8/15/2026,South,Corporate Sales,New,Accessories,USB-C Hub,Jason Lee,2,55,0.05,104.5
+ORD-2410,12/21/2026,South,Corporate Sales,New,Computers,Gaming Laptop,Jason Lee,1,4074,0.03,3951.78
+ORD-2411,8/4/2026,East,Retail Store,Returning,Monitors,Ultrawide Monitor,Grace Ng,2,1455,0,2910
+ORD-2412,5/10/2026,East,Retail Store,New,Accessories,Laptop Stand,Nora Chen,4,38,0.1,136.8
+ORD-2413,4/28/2026,South,Online,Returning,Accessories,Laptop Stand,Farah Ali,2,38,0,76
+ORD-2414,5/23/2026,North,Online,Returning,Monitors,24-inch Monitor,Aisha Lim,1,591.6,0.2,473.28
+ORD-2415,5/4/2026,North,Online,Returning,Accessories,Laptop Stand,Daniel Wong,5,38,0.05,180.5
+ORD-2416,12/3/2026,Central,Retail Store,Returning,Storage,USB Drive 128GB,Chloe Lim,1,60,0.08,55.2
+ORD-2417,5/29/2026,East,Corporate Sales,New,Accessories,Wireless Mouse,Nora Chen,13,43.65,0.08,522.054
+ORD-2418,11/2/2026,East,Online,Returning,Accessories,Webcam,Grace Ng,1,80,0.03,77.6
+ORD-2419,12/23/2026,Central,Retail Store,New,Accessories,Mouse Pad,Kevin Yap,1,15,0.2,12
+ORD-2420,7/14/2026,North,Retail Store,New,Office Supplies,Pen Pack,Mei Tan,3,12.72,0,38.16
+ORD-2421,8/13/2026,North,Retail Store,New,Computers,All-in-One PC,Mei Tan,3,3120,0.03,9079.2
+ORD-2422,8/29/2026,North,Retail Store,Returning,Monitors,24-inch Monitor,Daniel Wong,2,603.2,0.1,1085.76
+ORD-2423,2/6/2026,Central,Retail Store,Returning,Computers,Laptop Pro 14,Kevin Yap,4,3200,0.1,11520
+ORD-2424,1/13/2026,North,Online,Returning,Monitors,27-inch Monitor,Mei Tan,3,824.5,0,2473.5
+ORD-2425,5/15/2026,North,Corporate Sales,Returning,Networking,Ethernet Cable,Aisha Lim,6,20.8,0.08,114.816
+ORD-2426,6/7/2026,Central,Online,Returning,Accessories,Mouse Pad,Hafiz Rahman,2,15,0.2,24
+ORD-2427,1/1/2026,East,Online,Returning,Office Supplies,Printer Paper,Amir Hassan,1,18,0,18
+ORD-2428,3/9/2026,North,Corporate Sales,Returning,Office Supplies,Notebook Set,Aisha Lim,5,26.5,0.1,119.25
+ORD-2429,3/28/2026,South,Retail Store,Returning,Accessories,Keyboard,Raj Kumar,6,68.9,0,413.4
+ORD-2430,9/13/2026,North,Marketplace,Returning,Networking,Wi-Fi Router,Daniel Wong,4,280,0.08,1030.4
+ORD-2431,2/28/2026,West,Corporate Sales,Returning,Accessories,Webcam,Sofia Tan,5,77.6,0.05,368.6
+ORD-2432,10/22/2026,Central,Marketplace,Returning,Networking,Mesh Wi-Fi Set,Chloe Lim,7,795,0,5565
+ORD-2433,5/23/2026,West,Retail Store,New,Monitors,27-inch Monitor,Ben Ho,2,824.5,0.08,1517.08
+ORD-2434,4/26/2026,South,Online,Returning,Office Supplies,Sticky Notes,Raj Kumar,1,8.16,0.05,7.752
+ORD-2435,11/11/2026,North,Online,Returning,Accessories,Laptop Stand,Mei Tan,1,40.28,0.2,32.224
+ORD-2436,9/4/2026,East,Online,Returning,Accessories,USB-C Hub,Nora Chen,3,57.2,0.1,154.44
+ORD-2437,9/18/2026,East,Online,Returning,Accessories,Wireless Mouse,Amir Hassan,2,42.75,0.15,72.675
+ORD-2438,2/9/2026,West,Marketplace,Returning,Accessories,Keyboard,Priya Shah,1,63.05,0.05,59.8975
+ORD-2439,7/21/2026,Central,Online,Returning,Accessories,Keyboard,Chloe Lim,6,61.75,0.05,351.975
+ORD-2440,10/29/2026,South,Online,Returning,Networking,Ethernet Cable,Farah Ali,2,19,0.05,36.1
+ORD-2441,10/18/2026,West,Online,New,Storage,External SSD 1TB,Sofia Tan,1,450,0.1,405
+ORD-2442,10/24/2026,North,Marketplace,New,Accessories,Wireless Mouse,Mei Tan,1,47.7,0.03,46.269
+ORD-2443,10/24/2026,North,Retail Store,Returning,Computers,Gaming Laptop,Mei Tan,1,4200,0.1,3780
+ORD-2444,6/1/2026,North,Online,New,Office Supplies,Printer Paper,Mei Tan,1,17.46,0.03,16.9362
+ORD-2445,3/4/2026,East,Corporate Sales,New,Storage,USB Drive 128GB,Grace Ng,4,63.6,0.2,203.52
+ORD-2446,9/7/2026,Central,Retail Store,Returning,Office Supplies,Desk Organizer,Kevin Yap,2,35.7,0.03,69.258
+ORD-2447,11/27/2026,North,Retail Store,Returning,Monitors,24-inch Monitor,Mei Tan,3,562.6,0.03,1637.166
+ORD-2448,3/23/2026,East,Marketplace,Returning,Computers,All-in-One PC,Nora Chen,1,3000,0.03,2910
+ORD-2449,11/8/2026,Central,Retail Store,Returning,Office Supplies,Pen Pack,Hafiz Rahman,2,11.64,0.08,21.4176
+ORD-2450,4/18/2026,North,Online,Returning,Office Supplies,Pen Pack,Daniel Wong,5,12,0.03,58.2
+ORD-2451,2/5/2026,West,Online,Returning,Monitors,Ultrawide Monitor,Ben Ho,1,1590,0.03,1542.3
+ORD-2452,1/25/2026,North,Online,Returning,Accessories,Mouse Pad,Daniel Wong,1,14.25,0,14.25
+ORD-2453,11/19/2026,North,Corporate Sales,Returning,Office Supplies,Printer Paper,Daniel Wong,2,18.36,0.1,33.048
+ORD-2454,1/5/2026,Central,Online,Returning,Storage,USB Drive 128GB,Chloe Lim,2,60,0,120
+ORD-2455,8/19/2026,East,Online,Returning,Storage,External HDD 2TB,Grace Ng,5,320,0.03,1552
+ORD-2456,10/11/2026,South,Online,Returning,Accessories,Webcam,Raj Kumar,1,76,0.03,73.72
+ORD-2457,5/21/2026,South,Online,Returning,Monitors,Portable Monitor,Raj Kumar,2,728,0.03,1412.32
+ORD-2458,11/17/2026,North,Online,Returning,Computers,Laptop Air 13,Mei Tan,2,2600,0.08,4784
+ORD-2459,8/2/2026,South,Online,Returning,Storage,Memory Card 256GB,Jason Lee,4,91.8,0,367.2
+ORD-2460,10/31/2026,Central,Marketplace,New,Accessories,Laptop Stand,Hafiz Rahman,6,36.1,0.15,184.11
+ORD-2461,11/4/2026,Central,Marketplace,Returning,Accessories,Mouse Pad,Kevin Yap,7,15,0.1,94.5
+ORD-2462,12/16/2026,Central,Online,New,Storage,External HDD 2TB,Kevin Yap,2,310.4,0.05,589.76
+ORD-2463,1/23/2026,South,Corporate Sales,Returning,Monitors,Ultrawide Monitor,Farah Ali,1,1560,0,1560
+ORD-2464,10/5/2026,South,Corporate Sales,Returning,Computers,Desktop Mini,Farah Ali,1,1800,0.15,1530
+ORD-2465,4/21/2026,South,Online,Returning,Storage,External SSD 1TB,Jason Lee,2,450,0.03,873
+ORD-2466,5/18/2026,West,Online,Returning,Networking,Wi-Fi Router,Ben Ho,2,271.6,0.03,526.904
+ORD-2467,11/17/2026,East,Marketplace,Returning,Office Supplies,Pen Pack,Grace Ng,2,11.64,0.08,21.4176
+ORD-2468,7/27/2026,Central,Online,Returning,Monitors,24-inch Monitor,Chloe Lim,1,591.6,0.08,544.272
+ORD-2469,12/10/2026,North,Marketplace,New,Storage,USB Drive 128GB,Aisha Lim,5,60,0.05,285
+ORD-2470,11/4/2026,South,Online,New,Accessories,Wireless Mouse,Raj Kumar,3,47.7,0.1,128.79
+ORD-2471,7/20/2026,Central,Online,New,Storage,Memory Card 256GB,Chloe Lim,1,90,0.05,85.5
+ORD-2472,1/14/2026,Central,Corporate Sales,Returning,Networking,Network Switch,Kevin Yap,15,183.6,0,2754
+ORD-2473,11/25/2026,East,Marketplace,Returning,Accessories,Keyboard,Nora Chen,5,65,0.2,260
+ORD-2474,8/11/2026,West,Online,New,Monitors,24-inch Monitor,Priya Shah,2,580,0.03,1125.2
+ORD-2475,9/9/2026,West,Marketplace,Returning,Networking,Network Switch,Ben Ho,6,171,0.1,923.4
+ORD-2476,5/26/2026,South,Marketplace,New,Storage,External SSD 1TB,Raj Kumar,1,450,0.05,427.5
+ORD-2477,6/16/2026,South,Online,New,Networking,Mesh Wi-Fi Set,Raj Kumar,5,750,0.03,3637.5
+ORD-2478,8/17/2026,North,Online,New,Computers,Laptop Pro 14,Daniel Wong,1,3104,0,3104
+ORD-2479,11/10/2026,North,Retail Store,Returning,Accessories,Laptop Stand,Aisha Lim,4,36.1,0.05,137.18
+ORD-2480,12/14/2026,East,Corporate Sales,New,Storage,External SSD 1TB,Nora Chen,6,450,0.15,2295
+ORD-2481,12/28/2026,Central,Retail Store,New,Computers,All-in-One PC,Hafiz Rahman,2,2910,0.15,4947
+ORD-2482,3/15/2026,North,Marketplace,New,Networking,Mesh Wi-Fi Set,Aisha Lim,6,750,0.05,4275
+ORD-2483,7/6/2026,East,Online,Returning,Monitors,27-inch Monitor,Amir Hassan,5,850,0.1,3825
+ORD-2484,10/2/2026,North,Online,Returning,Storage,Memory Card 256GB,Daniel Wong,2,90,0.03,174.6
+ORD-2485,12/24/2026,Central,Online,New,Accessories,Laptop Stand,Hafiz Rahman,1,36.86,0.1,33.174
+ORD-2486,9/1/2026,East,Online,Returning,Monitors,24-inch Monitor,Nora Chen,1,580,0.03,562.6
+ORD-2487,9/15/2026,Central,Retail Store,New,Office Supplies,Sticky Notes,Hafiz Rahman,4,8.32,0.05,31.616
+ORD-2488,11/22/2026,South,Retail Store,Returning,Storage,Memory Card 256GB,Jason Lee,6,87.3,0.05,497.61
+ORD-2489,10/19/2026,South,Marketplace,New,Accessories,Wireless Mouse,Farah Ali,1,45,0.08,41.4
+ORD-2490,8/26/2026,Central,Online,New,Accessories,Keyboard,Hafiz Rahman,2,65,0,130
+ORD-2491,6/18/2026,Central,Online,Returning,Accessories,Webcam,Hafiz Rahman,1,84.8,0.1,76.32
+ORD-2492,10/29/2026,North,Retail Store,Returning,Computers,Laptop Air 13,Aisha Lim,1,2500,0.08,2300
+ORD-2493,9/29/2026,Central,Online,Returning,Storage,USB Drive 128GB,Kevin Yap,6,57,0.2,273.6
+ORD-2494,2/5/2026,Central,Retail Store,Returning,Accessories,Keyboard,Kevin Yap,3,67.6,0.05,192.66
+ORD-2495,3/22/2026,South,Corporate Sales,Returning,Computers,Gaming Laptop,Jason Lee,3,4074,0.03,11855.34
+ORD-2496,7/14/2026,North,Marketplace,Returning,Storage,USB Drive 128GB,Aisha Lim,8,61.2,0.1,440.64
+ORD-2497,11/25/2026,South,Retail Store,New,Office Supplies,Desk Organizer,Raj Kumar,3,35,0,105
+ORD-2498,11/6/2026,East,Online,New,Office Supplies,Printer Paper,Nora Chen,6,18.72,0.08,103.3344
+ORD-2499,2/25/2026,South,Online,New,Accessories,Webcam,Raj Kumar,5,81.6,0.1,367.2
+ORD-2500,1/3/2026,South,Online,Returning,Accessories,Mouse Pad,Farah Ali,5,14.55,0.03,70.5675
+ORD-2501,6/6/2026,Central,Retail Store,Returning,Networking,Network Switch,Kevin Yap,1,180,0.08,165.6
+ORD-2502,4/1/2026,Central,Retail Store,Returning,Computers,Laptop Pro 14,Hafiz Rahman,2,3392,0.08,6241.28
+ORD-2503,9/20/2026,North,Online,Returning,Storage,Memory Card 256GB,Mei Tan,6,95.4,0.15,486.54
+ORD-2504,8/30/2026,East,Corporate Sales,New,Monitors,Ultrawide Monitor,Amir Hassan,5,1455,0.03,7056.75
+ORD-2505,4/30/2026,North,Marketplace,New,Networking,Mesh Wi-Fi Set,Aisha Lim,6,765,0.05,4360.5
+ORD-2506,7/3/2026,East,Online,Returning,Networking,Wi-Fi Router,Nora Chen,3,271.6,0,814.8
+ORD-2507,3/14/2026,North,Retail Store,Returning,Accessories,USB-C Hub,Aisha Lim,2,56.1,0.03,108.834
+ORD-2508,2/22/2026,East,Online,Returning,Storage,External HDD 2TB,Amir Hassan,1,326.4,0.15,277.44
+ORD-2509,7/27/2026,North,Online,Returning,Accessories,Keyboard,Daniel Wong,5,65,0.05,308.75
+ORD-2510,2/5/2026,Central,Corporate Sales,Returning,Monitors,27-inch Monitor,Chloe Lim,1,824.5,0.03,799.765
+ORD-2511,11/29/2026,Central,Retail Store,New,Storage,USB Drive 128GB,Kevin Yap,1,62.4,0.08,57.408
+ORD-2512,11/26/2026,West,Retail Store,New,Monitors,27-inch Monitor,Sofia Tan,3,850,0.15,2167.5
+ORD-2513,7/11/2026,South,Online,Returning,Monitors,24-inch Monitor,Jason Lee,3,614.8,0.08,1696.848
+ORD-2514,9/13/2026,West,Marketplace,Returning,Storage,Memory Card 256GB,Sofia Tan,1,95.4,0.05,90.63
+ORD-2515,11/1/2026,South,Online,Returning,Accessories,Keyboard,Jason Lee,1,65,0.05,61.75
+ORD-2516,3/13/2026,West,Corporate Sales,New,Computers,Gaming Laptop,Sofia Tan,1,4074,0.05,3870.3
+ORD-2517,10/17/2026,West,Marketplace,New,Storage,USB Drive 128GB,Sofia Tan,7,62.4,0.1,393.12
+ORD-2518,8/18/2026,West,Online,Returning,Storage,USB Drive 128GB,Sofia Tan,7,57,0,399
+ORD-2519,11/26/2026,North,Retail Store,Returning,Storage,Memory Card 256GB,Mei Tan,3,90,0.05,256.5
+ORD-2520,4/20/2026,South,Corporate Sales,Returning,Storage,External SSD 1TB,Jason Lee,5,450,0.08,2070
+ORD-2521,6/26/2026,West,Online,Returning,Accessories,Keyboard,Ben Ho,6,65,0.08,358.8
+ORD-2522,6/18/2026,West,Corporate Sales,New,Monitors,Ultrawide Monitor,Sofia Tan,3,1560,0.2,3744
+ORD-2523,9/22/2026,Central,Retail Store,Returning,Computers,Laptop Air 13,Chloe Lim,1,2600,0.08,2392
+ORD-2524,11/5/2026,South,Retail Store,Returning,Office Supplies,Sticky Notes,Jason Lee,4,8.16,0,32.64
+ORD-2525,3/21/2026,Central,Online,Returning,Office Supplies,Desk Organizer,Kevin Yap,2,36.4,0.08,66.976
+ORD-2526,6/2/2026,North,Online,New,Monitors,Ultrawide Monitor,Daniel Wong,1,1530,0.05,1453.5
+ORD-2527,6/19/2026,South,Online,Returning,Storage,External HDD 2TB,Jason Lee,3,320,0.03,931.2
+ORD-2528,10/28/2026,South,Retail Store,Returning,Office Supplies,Pen Pack,Raj Kumar,2,11.64,0,23.28
+ORD-2529,9/30/2026,South,Retail Store,New,Networking,Network Switch,Raj Kumar,6,180,0.03,1047.6
+ORD-2530,12/6/2026,South,Retail Store,Returning,Computers,All-in-One PC,Jason Lee,1,3060,0.15,2601
+ORD-2531,2/23/2026,South,Online,Returning,Monitors,Ultrawide Monitor,Raj Kumar,4,1560,0.05,5928
+ORD-2532,8/25/2026,East,Corporate Sales,Returning,Computers,Laptop Air 13,Grace Ng,1,2500,0,2500
+ORD-2533,11/27/2026,East,Marketplace,New,Monitors,Portable Monitor,Grace Ng,1,700,0.08,644
+ORD-2534,5/8/2026,South,Online,Returning,Accessories,Laptop Stand,Farah Ali,2,36.86,0.05,70.034
+ORD-2535,11/7/2026,North,Corporate Sales,Returning,Networking,Network Switch,Mei Tan,9,190.8,0.2,1373.76
+ORD-2536,4/14/2026,East,Online,New,Storage,External HDD 2TB,Nora Chen,2,310.4,0.08,571.136
+ORD-2537,1/12/2026,North,Retail Store,Returning,Networking,Network Switch,Aisha Lim,3,171,0.1,461.7
+ORD-2538,1/12/2026,North,Marketplace,Returning,Office Supplies,Desk Organizer,Aisha Lim,1,36.4,0.03,35.308
+ORD-2539,8/30/2026,Central,Retail Store,New,Computers,All-in-One PC,Hafiz Rahman,2,3120,0.05,5928
+ORD-2540,4/28/2026,North,Retail Store,New,Computers,Desktop Mini,Aisha Lim,2,1836,0.03,3561.84
+ORD-2541,11/11/2026,Central,Marketplace,New,Monitors,Ultrawide Monitor,Hafiz Rahman,4,1455,0.15,4947
+ORD-2542,12/1/2026,North,Marketplace,Returning,Accessories,Laptop Stand,Mei Tan,3,38.76,0.1,104.652
+ORD-2543,1/8/2026,North,Marketplace,Returning,Office Supplies,Desk Organizer,Aisha Lim,1,35.7,0,35.7
+ORD-2544,6/17/2026,North,Retail Store,Returning,Accessories,Wireless Mouse,Daniel Wong,2,45,0.15,76.5
+ORD-2545,8/13/2026,East,Marketplace,Returning,Monitors,27-inch Monitor,Amir Hassan,1,884,0.08,813.28
+ORD-2546,9/10/2026,West,Online,New,Computers,All-in-One PC,Sofia Tan,3,3000,0.03,8730
+ORD-2547,7/26/2026,Central,Corporate Sales,Returning,Computers,Laptop Air 13,Kevin Yap,2,2500,0.03,4850
+ORD-2548,3/27/2026,West,Retail Store,Returning,Accessories,Mouse Pad,Ben Ho,6,14.25,0.05,81.225
+ORD-2549,4/6/2026,North,Retail Store,New,Monitors,Portable Monitor,Aisha Lim,2,728,0,1456
+ORD-2550,3/6/2026,Central,Retail Store,New,Office Supplies,Desk Organizer,Kevin Yap,2,35,0.03,67.9
+ORD-2551,12/11/2026,North,Online,Returning,Office Supplies,Printer Paper,Daniel Wong,6,18.72,0.08,103.3344
+ORD-2552,2/2/2026,East,Online,Returning,Accessories,USB-C Hub,Nora Chen,1,55,0.08,50.6
+ORD-2553,6/23/2026,West,Marketplace,Returning,Networking,Wi-Fi Router,Priya Shah,1,285.6,0.03,277.032
+ORD-2554,12/7/2026,West,Marketplace,Returning,Storage,USB Drive 128GB,Priya Shah,3,58.2,0.05,165.87
+ORD-2555,3/29/2026,North,Corporate Sales,Returning,Computers,All-in-One PC,Aisha Lim,1,3000,0.2,2400
+ORD-2556,6/16/2026,West,Retail Store,Returning,Monitors,27-inch Monitor,Priya Shah,1,884,0.2,707.2
+ORD-2557,5/28/2026,South,Marketplace,Returning,Storage,External SSD 1TB,Jason Lee,6,450,0.08,2484
+ORD-2558,6/6/2026,East,Retail Store,New,Computers,All-in-One PC,Grace Ng,2,3180,0.2,5088
+ORD-2559,2/16/2026,West,Marketplace,New,Networking,Mesh Wi-Fi Set,Sofia Tan,1,750,0.15,637.5
+ORD-2560,2/12/2026,South,Corporate Sales,Returning,Monitors,27-inch Monitor,Jason Lee,3,807.5,0.05,2301.375
+ORD-2561,7/26/2026,Central,Marketplace,Returning,Monitors,Portable Monitor,Kevin Yap,2,714,0.1,1285.2
+ORD-2562,9/12/2026,West,Online,New,Monitors,24-inch Monitor,Ben Ho,1,551,0,551
+ORD-2563,4/13/2026,West,Marketplace,Returning,Storage,External SSD 1TB,Sofia Tan,1,477,0.15,405.45
+ORD-2564,12/28/2026,West,Marketplace,Returning,Accessories,Keyboard,Priya Shah,4,65,0.1,234
+ORD-2565,10/22/2026,North,Online,Returning,Storage,External HDD 2TB,Mei Tan,3,304,0.03,884.64
+ORD-2566,8/16/2026,North,Corporate Sales,Returning,Monitors,24-inch Monitor,Daniel Wong,1,580,0.08,533.6
+ORD-2567,3/7/2026,North,Marketplace,Returning,Networking,Network Switch,Mei Tan,4,190.8,0.03,740.304
+ORD-2568,8/24/2026,West,Online,Returning,Accessories,Keyboard,Ben Ho,1,61.75,0.08,56.81
+ORD-2569,2/11/2026,West,Marketplace,Returning,Networking,Mesh Wi-Fi Set,Ben Ho,1,750,0.08,690
+ORD-2570,6/7/2026,East,Corporate Sales,Returning,Networking,Ethernet Cable,Nora Chen,4,19.4,0.15,65.96
+ORD-2571,2/10/2026,North,Retail Store,Returning,Monitors,Ultrawide Monitor,Mei Tan,2,1425,0.03,2764.5
+ORD-2572,3/10/2026,South,Online,Returning,Accessories,Laptop Stand,Raj Kumar,4,38.76,0.1,139.536
+ORD-2573,11/24/2026,West,Marketplace,New,Storage,USB Drive 128GB,Sofia Tan,4,60,0.1,216
+ORD-2574,10/8/2026,Central,Online,New,Computers,Desktop Mini,Chloe Lim,1,1836,0.03,1780.92
+ORD-2575,3/1/2026,South,Online,Returning,Accessories,Keyboard,Farah Ali,6,68.9,0.05,392.73
+ORD-2576,8/16/2026,North,Retail Store,New,Monitors,24-inch Monitor,Aisha Lim,2,614.8,0.15,1045.16
+ORD-2577,6/19/2026,North,Online,New,Accessories,Mouse Pad,Mei Tan,2,14.55,0.05,27.645
+ORD-2578,11/22/2026,West,Online,Returning,Office Supplies,Notebook Set,Ben Ho,1,25,0,25
+ORD-2579,12/13/2026,Central,Retail Store,Returning,Monitors,Portable Monitor,Kevin Yap,2,700,0.08,1288
+ORD-2580,9/12/2026,South,Retail Store,New,Computers,Gaming Laptop,Farah Ali,1,4074,0.1,3666.6
+ORD-2581,6/4/2026,North,Online,New,Storage,External SSD 1TB,Daniel Wong,1,427.5,0.15,363.375
+ORD-2582,10/18/2026,North,Retail Store,New,Networking,Network Switch,Mei Tan,2,180,0,360
+ORD-2583,7/26/2026,West,Online,New,Monitors,24-inch Monitor,Sofia Tan,2,591.6,0.05,1124.04
+ORD-2584,7/14/2026,East,Online,Returning,Accessories,Wireless Mouse,Grace Ng,5,42.75,0.03,207.3375
+ORD-2585,12/16/2026,South,Marketplace,New,Storage,External SSD 1TB,Jason Lee,3,427.5,0.05,1218.375
+ORD-2586,11/22/2026,South,Retail Store,Returning,Computers,Laptop Pro 14,Raj Kumar,1,3200,0,3200
+ORD-2587,12/26/2026,Central,Online,Returning,Office Supplies,Printer Paper,Hafiz Rahman,5,18,0.15,76.5
+ORD-2588,11/3/2026,South,Online,New,Accessories,USB-C Hub,Farah Ali,1,52.25,0.2,41.8
+ORD-2589,6/4/2026,South,Online,Returning,Storage,External SSD 1TB,Farah Ali,2,427.5,0.08,786.6
+ORD-2590,2/9/2026,North,Corporate Sales,New,Computers,All-in-One PC,Daniel Wong,2,2910,0.08,5354.4
+ORD-2591,11/21/2026,West,Retail Store,New,Storage,External SSD 1TB,Priya Shah,4,459,0,1836
+ORD-2592,8/2/2026,Central,Online,Returning,Office Supplies,Printer Paper,Chloe Lim,3,19.08,0.08,52.6608
+ORD-2593,6/15/2026,West,Marketplace,Returning,Monitors,Ultrawide Monitor,Sofia Tan,1,1455,0.08,1338.6
+ORD-2594,3/16/2026,South,Online,Returning,Accessories,Keyboard,Raj Kumar,4,65,0.05,247
+ORD-2595,10/31/2026,East,Retail Store,New,Monitors,24-inch Monitor,Amir Hassan,3,614.8,0,1844.4
+ORD-2596,3/14/2026,Central,Marketplace,New,Accessories,Wireless Mouse,Chloe Lim,5,47.7,0.08,219.42
+ORD-2597,2/14/2026,North,Online,Returning,Accessories,Mouse Pad,Daniel Wong,1,15,0.15,12.75
+ORD-2598,12/26/2026,North,Online,Returning,Storage,Memory Card 256GB,Aisha Lim,6,90,0.03,523.8
+ORD-2599,12/24/2026,Central,Retail Store,Returning,Computers,All-in-One PC,Kevin Yap,2,2850,0.15,4845
+ORD-2600,12/29/2026,South,Retail Store,New,Accessories,Laptop Stand,Jason Lee,3,38,0.08,104.88
+ORD-2601,5/30/2026,North,Online,Returning,Accessories,Wireless Mouse,Mei Tan,2,46.8,0.05,88.92
+ORD-2602,11/6/2026,Central,Retail Store,New,Monitors,24-inch Monitor,Hafiz Rahman,4,562.6,0.08,2070.368
+ORD-2603,9/19/2026,South,Online,Returning,Monitors,27-inch Monitor,Jason Lee,2,901,0.05,1711.9
+ORD-2604,12/16/2026,West,Online,New,Computers,Laptop Pro 14,Priya Shah,3,3200,0.03,9312
+ORD-2605,6/12/2026,East,Retail Store,Returning,Computers,Gaming Laptop,Grace Ng,1,4200,0.15,3570
+ORD-2606,8/11/2026,West,Online,Returning,Monitors,Portable Monitor,Priya Shah,1,700,0,700
+ORD-2607,12/23/2026,West,Marketplace,Returning,Monitors,Ultrawide Monitor,Ben Ho,1,1560,0.08,1435.2
+ORD-2608,3/15/2026,North,Retail Store,New,Accessories,Laptop Stand,Daniel Wong,5,38,0.03,184.3
+ORD-2609,7/1/2026,East,Retail Store,Returning,Computers,All-in-One PC,Grace Ng,1,3120,0.05,2964
+ORD-2610,1/14/2026,North,Online,Returning,Networking,Network Switch,Mei Tan,2,174.6,0.08,321.264
+ORD-2611,2/3/2026,North,Marketplace,Returning,Storage,External HDD 2TB,Daniel Wong,3,326.4,0.2,783.36
+ORD-2612,11/27/2026,Central,Corporate Sales,New,Computers,Gaming Laptop,Chloe Lim,1,3990,0.2,3192
+ORD-2613,12/11/2026,East,Online,New,Office Supplies,Notebook Set,Amir Hassan,2,25,0.2,40
+ORD-2614,7/9/2026,North,Online,New,Accessories,Keyboard,Aisha Lim,2,65,0.08,119.6
+ORD-2615,6/3/2026,East,Corporate Sales,Returning,Networking,Wi-Fi Router,Grace Ng,9,280,0.1,2268
+ORD-2616,10/21/2026,North,Retail Store,Returning,Accessories,USB-C Hub,Aisha Lim,5,58.3,0,291.5
+ORD-2617,2/9/2026,South,Marketplace,New,Accessories,Laptop Stand,Farah Ali,6,38,0.08,209.76
+ORD-2618,7/20/2026,West,Retail Store,Returning,Storage,Memory Card 256GB,Priya Shah,2,95.4,0.05,181.26
+ORD-2619,5/29/2026,Central,Online,Returning,Networking,Wi-Fi Router,Kevin Yap,1,271.6,0,271.6
+ORD-2620,9/2/2026,Central,Corporate Sales,Returning,Computers,Gaming Laptop,Chloe Lim,1,3990,0,3990
+ORD-2621,6/24/2026,North,Marketplace,Returning,Office Supplies,Printer Paper,Daniel Wong,2,18,0.05,34.2
+ORD-2622,9/4/2026,East,Online,Returning,Accessories,USB-C Hub,Grace Ng,1,52.25,0.08,48.07
+ORD-2623,8/26/2026,North,Retail Store,Returning,Accessories,Laptop Stand,Aisha Lim,8,39.52,0.08,290.8672
+ORD-2624,10/24/2026,Central,Retail Store,Returning,Computers,Desktop Mini,Hafiz Rahman,1,1872,0,1872
+ORD-2625,5/28/2026,South,Corporate Sales,New,Networking,Network Switch,Raj Kumar,10,180,0.2,1440
+ORD-2626,10/26/2026,East,Retail Store,New,Office Supplies,Desk Organizer,Grace Ng,5,36.4,0.08,167.44
+ORD-2627,3/14/2026,South,Online,New,Storage,USB Drive 128GB,Jason Lee,6,60,0,360
+ORD-2628,6/28/2026,North,Online,New,Networking,Network Switch,Daniel Wong,7,187.2,0.08,1205.568
+ORD-2629,6/13/2026,North,Online,New,Accessories,Wireless Mouse,Mei Tan,2,45,0.2,72
+ORD-2630,5/28/2026,East,Marketplace,Returning,Monitors,Portable Monitor,Grace Ng,1,665,0.15,565.25
+ORD-2631,1/16/2026,East,Marketplace,Returning,Monitors,27-inch Monitor,Grace Ng,3,850,0.03,2473.5
+ORD-2632,11/12/2026,East,Corporate Sales,New,Office Supplies,Printer Paper,Amir Hassan,15,18,0.08,248.4
+ORD-2633,11/21/2026,Central,Online,Returning,Networking,Wi-Fi Router,Hafiz Rahman,3,280,0.05,798
+ORD-2634,5/14/2026,South,Retail Store,Returning,Office Supplies,Notebook Set,Jason Lee,3,26.5,0.2,63.6
+ORD-2635,3/9/2026,Central,Online,New,Storage,External HDD 2TB,Hafiz Rahman,5,326.4,0.03,1583.04
+ORD-2636,1/22/2026,Central,Online,Returning,Accessories,USB-C Hub,Chloe Lim,4,56.1,0.15,190.74
+ORD-2637,2/7/2026,North,Corporate Sales,Returning,Office Supplies,Sticky Notes,Mei Tan,9,8.48,0.08,70.2144
+ORD-2638,6/29/2026,West,Corporate Sales,New,Computers,Laptop Air 13,Priya Shah,1,2650,0.05,2517.5
+ORD-2639,7/22/2026,North,Online,Returning,Storage,External SSD 1TB,Mei Tan,3,436.5,0.05,1244.025
+ORD-2640,11/9/2026,South,Retail Store,New,Storage,External HDD 2TB,Raj Kumar,4,326.4,0.08,1201.152
+ORD-2641,4/29/2026,North,Marketplace,Returning,Accessories,Mouse Pad,Aisha Lim,3,14.55,0.1,39.285
+ORD-2642,6/17/2026,South,Marketplace,Returning,Accessories,Keyboard,Farah Ali,2,65,0.2,104
+ORD-2643,4/14/2026,North,Retail Store,Returning,Office Supplies,Notebook Set,Daniel Wong,3,26.5,0.03,77.115
+ORD-2644,10/4/2026,North,Corporate Sales,Returning,Office Supplies,Desk Organizer,Daniel Wong,8,35,0.03,271.6
+ORD-2645,6/17/2026,East,Online,Returning,Computers,All-in-One PC,Nora Chen,4,3120,0.08,11481.6
+ORD-2646,11/25/2026,West,Online,Returning,Computers,All-in-One PC,Ben Ho,2,3000,0.03,5820
+ORD-2647,9/9/2026,South,Online,New,Storage,Memory Card 256GB,Raj Kumar,1,90,0,90
+ORD-2648,11/21/2026,North,Retail Store,Returning,Computers,Laptop Pro 14,Daniel Wong,4,3200,0.2,10240
+ORD-2649,7/1/2026,South,Marketplace,Returning,Monitors,27-inch Monitor,Raj Kumar,2,807.5,0.08,1485.8
+ORD-2650,3/4/2026,North,Online,New,Accessories,Wireless Mouse,Aisha Lim,1,42.75,0.05,40.6125
+ORD-2651,6/4/2026,North,Online,Returning,Monitors,Portable Monitor,Aisha Lim,1,728,0.08,669.76
+ORD-2652,3/13/2026,Central,Online,Returning,Accessories,Webcam,Kevin Yap,6,80,0.08,441.6
+ORD-2653,12/19/2026,East,Online,Returning,Computers,All-in-One PC,Grace Ng,1,3000,0.05,2850
+ORD-2654,5/22/2026,Central,Online,New,Storage,External SSD 1TB,Chloe Lim,5,477,0.03,2313.45
+ORD-2655,1/27/2026,Central,Marketplace,Returning,Storage,Memory Card 256GB,Chloe Lim,2,87.3,0.15,148.41
+ORD-2656,6/29/2026,West,Retail Store,New,Accessories,Mouse Pad,Sofia Tan,6,15.6,0.05,88.92
+ORD-2657,9/23/2026,Central,Marketplace,New,Accessories,USB-C Hub,Kevin Yap,1,56.1,0.08,51.612
+ORD-2658,4/20/2026,East,Retail Store,New,Office Supplies,Pen Pack,Grace Ng,2,12.48,0,24.96
+ORD-2659,3/18/2026,West,Retail Store,Returning,Computers,Gaming Laptop,Priya Shah,1,3990,0.05,3790.5
+ORD-2660,7/29/2026,West,Online,Returning,Storage,Memory Card 256GB,Priya Shah,2,87.3,0.05,165.87
+ORD-2661,6/12/2026,East,Online,Returning,Computers,All-in-One PC,Nora Chen,1,3000,0.2,2400
+ORD-2662,6/23/2026,West,Online,Returning,Storage,External HDD 2TB,Priya Shah,1,332.8,0.2,266.24
+ORD-2663,11/25/2026,Central,Marketplace,Returning,Accessories,Wireless Mouse,Chloe Lim,2,47.7,0.08,87.768
+ORD-2664,6/15/2026,South,Online,Returning,Monitors,Portable Monitor,Jason Lee,3,700,0.03,2037
+ORD-2665,11/21/2026,East,Online,Returning,Monitors,27-inch Monitor,Grace Ng,1,884,0.03,857.48
+ORD-2666,12/11/2026,East,Online,New,Storage,USB Drive 128GB,Grace Ng,2,61.2,0.03,118.728
+ORD-2667,5/10/2026,South,Marketplace,New,Computers,All-in-One PC,Raj Kumar,1,3000,0.08,2760
+ORD-2668,11/12/2026,East,Online,Returning,Networking,Wi-Fi Router,Grace Ng,3,271.6,0.05,774.06
+ORD-2669,11/14/2026,South,Online,New,Office Supplies,Desk Organizer,Jason Lee,8,37.1,0.08,273.056
+ORD-2670,8/29/2026,West,Corporate Sales,New,Computers,All-in-One PC,Ben Ho,1,3000,0.05,2850
+ORD-2671,4/5/2026,Central,Online,Returning,Monitors,Ultrawide Monitor,Hafiz Rahman,1,1425,0,1425
+ORD-2672,12/21/2026,West,Marketplace,New,Storage,External SSD 1TB,Sofia Tan,5,450,0.15,1912.5
+ORD-2673,12/22/2026,North,Online,New,Office Supplies,Desk Organizer,Aisha Lim,7,35,0.15,208.25
+ORD-2674,1/19/2026,North,Online,Returning,Office Supplies,Sticky Notes,Aisha Lim,4,8.16,0,32.64
+ORD-2675,4/23/2026,Central,Corporate Sales,Returning,Monitors,Ultrawide Monitor,Kevin Yap,2,1530,0.03,2968.2
+ORD-2676,3/19/2026,East,Retail Store,Returning,Accessories,USB-C Hub,Amir Hassan,1,56.1,0.03,54.417
+ORD-2677,10/14/2026,Central,Online,Returning,Storage,External HDD 2TB,Kevin Yap,1,339.2,0.03,329.024
+ORD-2678,2/25/2026,West,Online,New,Accessories,Laptop Stand,Ben Ho,1,39.52,0,39.52
+ORD-2679,11/7/2026,Central,Corporate Sales,Returning,Monitors,27-inch Monitor,Kevin Yap,3,867,0.03,2522.97
+ORD-2680,1/28/2026,South,Retail Store,New,Monitors,27-inch Monitor,Farah Ali,5,850,0.2,3400
+ORD-2681,12/17/2026,North,Online,New,Office Supplies,Printer Paper,Mei Tan,2,18,0.03,34.92
+ORD-2682,5/2/2026,East,Retail Store,New,Accessories,Laptop Stand,Amir Hassan,3,40.28,0.03,117.2148
+ORD-2683,12/6/2026,North,Online,Returning,Monitors,Ultrawide Monitor,Daniel Wong,1,1530,0.08,1407.6
+ORD-2684,5/1/2026,West,Retail Store,Returning,Accessories,Wireless Mouse,Ben Ho,2,43.65,0.05,82.935
+ORD-2685,2/22/2026,North,Online,New,Networking,Network Switch,Daniel Wong,4,171,0,684
+ORD-2686,1/23/2026,West,Marketplace,New,Office Supplies,Desk Organizer,Sofia Tan,4,33.95,0.2,108.64
+ORD-2687,9/6/2026,East,Online,Returning,Monitors,24-inch Monitor,Grace Ng,1,551,0.05,523.45
+ORD-2688,12/3/2026,South,Online,Returning,Networking,Ethernet Cable,Farah Ali,2,20,0.15,34
+ORD-2689,1/10/2026,North,Marketplace,New,Computers,Laptop Air 13,Aisha Lim,1,2500,0.08,2300
+ORD-2690,9/19/2026,West,Corporate Sales,Returning,Storage,External SSD 1TB,Priya Shah,2,427.5,0.05,812.25
+ORD-2691,8/10/2026,West,Online,Returning,Monitors,24-inch Monitor,Sofia Tan,1,580,0.15,493
+ORD-2692,6/17/2026,East,Marketplace,New,Accessories,Laptop Stand,Amir Hassan,7,36.86,0.2,206.416
+ORD-2693,11/20/2026,Central,Marketplace,New,Storage,External HDD 2TB,Chloe Lim,4,326.4,0.05,1240.32
+ORD-2694,5/3/2026,North,Retail Store,Returning,Networking,Wi-Fi Router,Daniel Wong,2,266,0.05,505.4
+ORD-2695,1/18/2026,South,Retail Store,New,Office Supplies,Pen Pack,Raj Kumar,3,12.72,0.08,35.1072
+ORD-2696,9/7/2026,West,Retail Store,New,Monitors,Ultrawide Monitor,Ben Ho,1,1500,0.03,1455
+ORD-2697,5/28/2026,Central,Online,New,Accessories,Laptop Stand,Hafiz Rahman,1,36.1,0,36.1
+ORD-2698,5/5/2026,Central,Online,New,Monitors,27-inch Monitor,Kevin Yap,2,807.5,0.08,1485.8
+ORD-2699,9/5/2026,North,Online,New,Accessories,Wireless Mouse,Aisha Lim,3,42.75,0.05,121.8375
+ORD-2700,11/2/2026,South,Online,Returning,Monitors,Portable Monitor,Raj Kumar,1,700,0.03,679
+ORD-2701,2/13/2026,East,Corporate Sales,Returning,Accessories,Mouse Pad,Amir Hassan,13,15.3,0.15,169.065
+ORD-2702,5/29/2026,Central,Retail Store,Returning,Monitors,27-inch Monitor,Hafiz Rahman,1,824.5,0.1,742.05
+ORD-2703,5/13/2026,North,Marketplace,New,Storage,External HDD 2TB,Aisha Lim,6,304,0.03,1769.28
+ORD-2704,5/6/2026,North,Retail Store,Returning,Accessories,Webcam,Mei Tan,1,80,0.05,76
+ORD-2705,11/27/2026,North,Corporate Sales,Returning,Computers,Gaming Laptop,Daniel Wong,1,4200,0.15,3570
+ORD-2706,9/3/2026,South,Marketplace,Returning,Monitors,Portable Monitor,Farah Ali,2,665,0.08,1223.6
+ORD-2707,2/4/2026,East,Online,Returning,Monitors,24-inch Monitor,Amir Hassan,2,591.6,0.05,1124.04
+ORD-2708,3/23/2026,North,Retail Store,New,Accessories,Laptop Stand,Daniel Wong,2,38,0.08,69.92
+ORD-2709,8/7/2026,North,Marketplace,Returning,Accessories,Webcam,Aisha Lim,6,84.8,0.15,432.48
+ORD-2710,5/29/2026,South,Online,New,Monitors,27-inch Monitor,Jason Lee,1,901,0,901
+ORD-2711,3/10/2026,East,Retail Store,Returning,Computers,Laptop Air 13,Amir Hassan,1,2375,0.03,2303.75
+ORD-2712,12/21/2026,North,Online,Returning,Monitors,24-inch Monitor,Aisha Lim,1,562.6,0.2,450.08
+ORD-2713,8/23/2026,North,Online,New,Storage,External SSD 1TB,Mei Tan,1,450,0,450
+ORD-2714,4/23/2026,West,Online,New,Storage,Memory Card 256GB,Sofia Tan,5,91.8,0,459
+ORD-2715,4/23/2026,North,Marketplace,Returning,Monitors,Portable Monitor,Aisha Lim,3,714,0.05,2034.9
+ORD-2716,3/22/2026,Central,Online,Returning,Monitors,Portable Monitor,Kevin Yap,1,742,0.05,704.9
+ORD-2717,2/18/2026,North,Corporate Sales,Returning,Storage,External SSD 1TB,Daniel Wong,9,468,0.15,3580.2
+ORD-2718,1/10/2026,South,Retail Store,Returning,Accessories,Mouse Pad,Farah Ali,1,15,0.1,13.5
+ORD-2719,4/24/2026,East,Online,Returning,Computers,Laptop Air 13,Nora Chen,2,2425,0.03,4704.5
+ORD-2720,6/1/2026,East,Online,Returning,Computers,Gaming Laptop,Nora Chen,1,4368,0.15,3712.8
+ORD-2721,6/23/2026,South,Online,Returning,Office Supplies,Desk Organizer,Farah Ali,1,35.7,0.1,32.13
+ORD-2722,4/2/2026,East,Retail Store,Returning,Storage,External HDD 2TB,Amir Hassan,3,320,0.05,912
+ORD-2723,9/13/2026,North,Online,Returning,Computers,Gaming Laptop,Aisha Lim,1,4074,0.2,3259.2
+ORD-2724,3/14/2026,West,Marketplace,Returning,Networking,Ethernet Cable,Priya Shah,4,20,0,80
+ORD-2725,11/21/2026,Central,Online,Returning,Networking,Wi-Fi Router,Hafiz Rahman,1,291.2,0.05,276.64
+ORD-2726,12/23/2026,North,Retail Store,Returning,Computers,Laptop Air 13,Daniel Wong,2,2550,0.15,4335
+ORD-2727,12/10/2026,Central,Marketplace,New,Computers,Laptop Pro 14,Hafiz Rahman,1,3264,0.05,3100.8
+ORD-2728,12/31/2026,Central,Marketplace,New,Accessories,Laptop Stand,Kevin Yap,2,40.28,0.08,74.1152
+ORD-2729,4/28/2026,East,Corporate Sales,Returning,Monitors,Ultrawide Monitor,Grace Ng,1,1590,0.05,1510.5
+ORD-2730,9/24/2026,Central,Online,Returning,Networking,Ethernet Cable,Hafiz Rahman,2,20,0.03,38.8
+ORD-2731,8/28/2026,South,Retail Store,Returning,Office Supplies,Printer Paper,Raj Kumar,2,17.46,0.15,29.682
+ORD-2732,2/11/2026,South,Online,Returning,Accessories,Laptop Stand,Raj Kumar,3,38,0.1,102.6
+ORD-2733,10/20/2026,North,Corporate Sales,Returning,Monitors,Ultrawide Monitor,Mei Tan,1,1590,0.15,1351.5
+ORD-2734,1/28/2026,Central,Online,Returning,Storage,External SSD 1TB,Hafiz Rahman,1,450,0,450
+ORD-2735,1/22/2026,Central,Corporate Sales,Returning,Computers,Laptop Air 13,Hafiz Rahman,2,2600,0.05,4940
+ORD-2736,11/7/2026,West,Online,Returning,Accessories,USB-C Hub,Sofia Tan,1,55,0.2,44
+ORD-2737,1/21/2026,West,Online,Returning,Office Supplies,Pen Pack,Priya Shah,6,12,0,72
+ORD-2738,7/3/2026,Central,Retail Store,New,Accessories,Mouse Pad,Kevin Yap,4,15,0,60
+ORD-2739,11/9/2026,South,Corporate Sales,Returning,Monitors,24-inch Monitor,Jason Lee,1,614.8,0.2,491.84
+ORD-2740,12/22/2026,North,Retail Store,Returning,Office Supplies,Pen Pack,Mei Tan,6,12,0.08,66.24
+ORD-2741,8/13/2026,West,Retail Store,New,Accessories,Laptop Stand,Priya Shah,3,36.1,0,108.3
+ORD-2742,9/27/2026,North,Retail Store,Returning,Accessories,Laptop Stand,Mei Tan,3,38.76,0.08,106.9776
+ORD-2743,1/30/2026,North,Marketplace,New,Accessories,Laptop Stand,Mei Tan,2,38,0.1,68.4
+ORD-2744,2/1/2026,East,Online,Returning,Storage,External HDD 2TB,Nora Chen,3,332.8,0.08,918.528
+ORD-2745,7/6/2026,Central,Online,New,Storage,USB Drive 128GB,Kevin Yap,3,60,0.03,174.6
+ORD-2746,1/21/2026,North,Corporate Sales,Returning,Office Supplies,Desk Organizer,Aisha Lim,9,35,0.2,252
+ORD-2747,11/28/2026,West,Online,New,Accessories,Mouse Pad,Priya Shah,1,15.9,0.1,14.31
+ORD-2748,8/6/2026,North,Online,Returning,Storage,External HDD 2TB,Aisha Lim,1,326.4,0.03,316.608
+ORD-2749,2/12/2026,Central,Retail Store,New,Accessories,USB-C Hub,Hafiz Rahman,3,52.25,0.03,152.0475
+ORD-2750,10/4/2026,West,Marketplace,Returning,Accessories,Wireless Mouse,Ben Ho,1,43.65,0.03,42.3405
+ORD-2751,2/21/2026,Central,Marketplace,Returning,Office Supplies,Sticky Notes,Hafiz Rahman,4,8,0.2,25.6
+ORD-2752,9/27/2026,West,Marketplace,Returning,Monitors,Ultrawide Monitor,Ben Ho,1,1560,0.05,1482
+ORD-2753,2/7/2026,Central,Marketplace,Returning,Networking,Mesh Wi-Fi Set,Kevin Yap,6,750,0.08,4140
+ORD-2754,2/20/2026,South,Marketplace,New,Networking,Mesh Wi-Fi Set,Farah Ali,1,750,0.2,600
+ORD-2755,1/6/2026,Central,Retail Store,Returning,Accessories,Mouse Pad,Kevin Yap,6,14.25,0.03,82.935
+ORD-2756,10/16/2026,Central,Online,Returning,Accessories,Wireless Mouse,Hafiz Rahman,2,45,0.1,81
+ORD-2757,2/8/2026,North,Corporate Sales,New,Monitors,Ultrawide Monitor,Mei Tan,2,1455,0.05,2764.5
+ORD-2758,11/3/2026,North,Retail Store,Returning,Accessories,Laptop Stand,Aisha Lim,1,39.52,0.15,33.592
+ORD-2759,9/13/2026,North,Corporate Sales,Returning,Accessories,Laptop Stand,Daniel Wong,7,38,0.1,239.4
+ORD-2760,9/12/2026,North,Marketplace,New,Accessories,Mouse Pad,Daniel Wong,2,15.3,0.05,29.07
+ORD-2761,12/3/2026,East,Online,Returning,Monitors,Portable Monitor,Amir Hassan,1,742,0.05,704.9
+ORD-2762,11/26/2026,North,Online,Returning,Accessories,Wireless Mouse,Mei Tan,3,43.65,0.1,117.855
+ORD-2763,2/22/2026,North,Online,Returning,Monitors,Portable Monitor,Aisha Lim,1,728,0.05,691.6
+ORD-2764,6/19/2026,Central,Retail Store,New,Monitors,Portable Monitor,Chloe Lim,1,700,0.1,630
+ORD-2765,2/21/2026,South,Corporate Sales,Returning,Computers,All-in-One PC,Raj Kumar,1,3180,0.05,3021
+ORD-2766,11/30/2026,North,Retail Store,Returning,Office Supplies,Desk Organizer,Aisha Lim,1,35,0.03,33.95
+ORD-2767,5/7/2026,North,Retail Store,Returning,Monitors,Ultrawide Monitor,Mei Tan,1,1500,0,1500
+ORD-2768,2/3/2026,South,Online,New,Office Supplies,Desk Organizer,Farah Ali,3,35,0.05,99.75
+ORD-2769,6/23/2026,North,Online,Returning,Monitors,Ultrawide Monitor,Aisha Lim,2,1500,0.15,2550
+ORD-2770,6/19/2026,East,Retail Store,New,Networking,Network Switch,Grace Ng,2,180,0.05,342
+ORD-2771,12/9/2026,Central,Online,Returning,Computers,Laptop Air 13,Hafiz Rahman,1,2650,0.1,2385
+ORD-2772,12/19/2026,East,Online,Returning,Accessories,Mouse Pad,Nora Chen,1,15.3,0.1,13.77
+ORD-2773,5/2/2026,West,Retail Store,Returning,Accessories,Laptop Stand,Ben Ho,1,36.86,0,36.86
+ORD-2774,9/14/2026,South,Marketplace,Returning,Storage,USB Drive 128GB,Jason Lee,2,62.4,0.05,118.56
+ORD-2775,6/10/2026,Central,Corporate Sales,Returning,Networking,Ethernet Cable,Chloe Lim,5,20,0.05,95
+ORD-2776,10/10/2026,East,Retail Store,Returning,Monitors,27-inch Monitor,Nora Chen,1,850,0.05,807.5
+ORD-2777,8/9/2026,Central,Online,Returning,Storage,External HDD 2TB,Kevin Yap,1,320,0.08,294.4
+ORD-2778,6/20/2026,West,Corporate Sales,New,Monitors,Ultrawide Monitor,Sofia Tan,1,1455,0.03,1411.35
+ORD-2779,12/25/2026,East,Online,Returning,Accessories,USB-C Hub,Grace Ng,2,52.25,0.05,99.275
+ORD-2780,5/10/2026,West,Corporate Sales,Returning,Monitors,27-inch Monitor,Ben Ho,1,850,0,850
+ORD-2781,4/14/2026,Central,Retail Store,New,Office Supplies,Pen Pack,Kevin Yap,5,11.4,0,57
+ORD-2782,11/4/2026,North,Online,Returning,Monitors,Portable Monitor,Mei Tan,2,714,0.1,1285.2
+ORD-2783,5/11/2026,West,Marketplace,Returning,Monitors,Portable Monitor,Sofia Tan,4,679,0.08,2498.72
+ORD-2784,4/12/2026,East,Online,Returning,Computers,Laptop Air 13,Grace Ng,1,2425,0.15,2061.25
+ORD-2785,5/29/2026,North,Marketplace,New,Computers,Laptop Air 13,Aisha Lim,2,2375,0.03,4607.5
+ORD-2786,4/9/2026,South,Corporate Sales,New,Computers,Gaming Laptop,Jason Lee,1,4368,0.1,3931.2
+ORD-2787,6/27/2026,East,Online,Returning,Networking,Ethernet Cable,Grace Ng,3,20,0.05,57
+ORD-2788,12/5/2026,Central,Corporate Sales,Returning,Networking,Network Switch,Chloe Lim,3,180,0.05,513
+ORD-2789,4/27/2026,South,Online,Returning,Storage,USB Drive 128GB,Jason Lee,1,57,0.1,51.3
+ORD-2790,12/14/2026,South,Online,Returning,Storage,External HDD 2TB,Raj Kumar,1,320,0.08,294.4
+ORD-2791,8/8/2026,North,Online,New,Monitors,24-inch Monitor,Mei Tan,1,580,0,580
+ORD-2792,3/9/2026,South,Retail Store,Returning,Accessories,USB-C Hub,Farah Ali,2,58.3,0.1,104.94
+ORD-2793,11/5/2026,West,Retail Store,New,Office Supplies,Pen Pack,Sofia Tan,1,11.4,0.1,10.26
+ORD-2794,1/31/2026,Central,Marketplace,Returning,Monitors,Ultrawide Monitor,Hafiz Rahman,1,1590,0,1590
+ORD-2795,9/26/2026,North,Online,New,Accessories,Webcam,Mei Tan,1,76,0.08,69.92
+ORD-2796,9/5/2026,South,Marketplace,New,Office Supplies,Printer Paper,Jason Lee,3,18,0.08,49.68
+ORD-2797,10/4/2026,Central,Retail Store,Returning,Monitors,Ultrawide Monitor,Kevin Yap,1,1560,0.1,1404
+ORD-2798,12/6/2026,Central,Online,New,Monitors,Portable Monitor,Chloe Lim,3,700,0.08,1932
+ORD-2799,5/28/2026,Central,Online,New,Accessories,Webcam,Hafiz Rahman,2,81.6,0.08,150.144
+ORD-2800,9/30/2026,East,Corporate Sales,Returning,Monitors,27-inch Monitor,Nora Chen,2,901,0.2,1441.6
+ORD-2801,2/3/2026,North,Online,Returning,Networking,Wi-Fi Router,Daniel Wong,4,280,0.2,896
+ORD-2802,6/30/2026,West,Online,Returning,Networking,Wi-Fi Router,Ben Ho,5,296.8,0.15,1261.4
+ORD-2803,4/2/2026,Central,Marketplace,Returning,Computers,All-in-One PC,Hafiz Rahman,1,3000,0.03,2910
+ORD-2804,10/29/2026,West,Retail Store,New,Accessories,USB-C Hub,Priya Shah,4,57.2,0,228.8
+ORD-2805,6/6/2026,North,Marketplace,New,Accessories,Keyboard,Aisha Lim,4,67.6,0.1,243.36
+ORD-2806,8/21/2026,South,Marketplace,Returning,Storage,External SSD 1TB,Farah Ali,1,450,0.05,427.5
+ORD-2807,6/29/2026,Central,Online,Returning,Monitors,Ultrawide Monitor,Chloe Lim,1,1425,0,1425
+ORD-2808,1/12/2026,East,Online,Returning,Computers,All-in-One PC,Amir Hassan,1,3060,0.08,2815.2
+ORD-2809,4/23/2026,Central,Retail Store,Returning,Accessories,Webcam,Hafiz Rahman,2,81.6,0.03,158.304
+ORD-2810,12/16/2026,South,Online,Returning,Monitors,24-inch Monitor,Jason Lee,1,603.2,0.08,554.944
+ORD-2811,2/26/2026,East,Online,Returning,Storage,External HDD 2TB,Amir Hassan,3,320,0,960
+ORD-2812,12/31/2026,Central,Retail Store,New,Monitors,Ultrawide Monitor,Kevin Yap,1,1560,0.05,1482
+ORD-2813,9/5/2026,West,Online,Returning,Accessories,Keyboard,Priya Shah,2,61.75,0,123.5
+ORD-2814,4/17/2026,North,Corporate Sales,New,Computers,Laptop Pro 14,Mei Tan,1,3200,0.1,2880
+ORD-2815,1/19/2026,East,Marketplace,Returning,Accessories,Mouse Pad,Nora Chen,1,14.55,0.03,14.1135
+ORD-2816,10/12/2026,West,Retail Store,Returning,Accessories,Laptop Stand,Priya Shah,5,38,0.05,180.5
+ORD-2817,7/13/2026,South,Online,Returning,Accessories,Laptop Stand,Farah Ali,3,38,0,114
+ORD-2818,12/25/2026,North,Marketplace,New,Office Supplies,Pen Pack,Mei Tan,2,12.72,0.08,23.4048
+ORD-2819,11/17/2026,South,Corporate Sales,Returning,Monitors,Portable Monitor,Farah Ali,2,700,0.03,1358
+ORD-2820,10/7/2026,South,Online,Returning,Storage,Memory Card 256GB,Raj Kumar,1,90,0.03,87.3
+ORD-2821,5/3/2026,North,Online,New,Accessories,Wireless Mouse,Daniel Wong,4,45,0.15,153
+ORD-2822,10/23/2026,Central,Online,Returning,Monitors,Portable Monitor,Kevin Yap,2,700,0.05,1330
+ORD-2823,3/23/2026,North,Corporate Sales,New,Computers,Gaming Laptop,Daniel Wong,1,4368,0.1,3931.2
+ORD-2824,3/1/2026,North,Online,New,Accessories,Laptop Stand,Mei Tan,3,38,0,114
+ORD-2825,1/21/2026,North,Marketplace,New,Office Supplies,Pen Pack,Mei Tan,6,11.4,0.08,62.928
+ORD-2826,12/27/2026,Central,Online,Returning,Storage,External SSD 1TB,Hafiz Rahman,2,427.5,0.08,786.6
+ORD-2827,3/15/2026,West,Marketplace,Returning,Accessories,Webcam,Ben Ho,6,80,0.08,441.6
+ORD-2828,9/29/2026,Central,Online,Returning,Networking,Wi-Fi Router,Kevin Yap,3,285.6,0.15,728.28
+ORD-2829,12/25/2026,Central,Retail Store,Returning,Accessories,USB-C Hub,Chloe Lim,7,55,0.03,373.45
+ORD-2830,3/22/2026,East,Online,Returning,Storage,External HDD 2TB,Grace Ng,4,310.4,0.1,1117.44
+ORD-2831,12/12/2026,Central,Retail Store,Returning,Office Supplies,Sticky Notes,Kevin Yap,2,8.48,0.2,13.568
+ORD-2832,12/1/2026,South,Marketplace,Returning,Accessories,Wireless Mouse,Jason Lee,4,46.8,0.1,168.48
+ORD-2833,3/21/2026,Central,Retail Store,New,Storage,USB Drive 128GB,Hafiz Rahman,4,60,0.05,228
+ORD-2834,8/31/2026,South,Retail Store,Returning,Accessories,Webcam,Raj Kumar,3,83.2,0.05,237.12
+ORD-2835,7/10/2026,South,Retail Store,Returning,Accessories,Mouse Pad,Jason Lee,4,15,0.05,57
+ORD-2836,12/13/2026,East,Corporate Sales,Returning,Computers,Laptop Pro 14,Grace Ng,1,3200,0.05,3040
+ORD-2837,7/19/2026,Central,Online,New,Storage,Memory Card 256GB,Chloe Lim,4,85.5,0.08,314.64
+ORD-2838,8/20/2026,North,Online,Returning,Storage,Memory Card 256GB,Mei Tan,3,93.6,0.2,224.64
+ORD-2839,10/19/2026,East,Retail Store,Returning,Monitors,Portable Monitor,Grace Ng,2,700,0.05,1330
+ORD-2840,5/20/2026,Central,Online,New,Networking,Mesh Wi-Fi Set,Hafiz Rahman,1,750,0.05,712.5
+ORD-2841,11/17/2026,Central,Online,Returning,Monitors,24-inch Monitor,Chloe Lim,1,603.2,0.1,542.88
+ORD-2842,4/11/2026,North,Retail Store,Returning,Monitors,Portable Monitor,Mei Tan,1,665,0,665
+ORD-2843,3/5/2026,Central,Online,Returning,Monitors,24-inch Monitor,Kevin Yap,3,551,0,1653
+ORD-2844,11/12/2026,East,Corporate Sales,New,Networking,Mesh Wi-Fi Set,Grace Ng,5,712.5,0.05,3384.375
+ORD-2845,7/20/2026,East,Retail Store,Returning,Office Supplies,Notebook Set,Nora Chen,2,25.5,0.15,43.35
+ORD-2846,3/31/2026,East,Online,New,Accessories,Wireless Mouse,Amir Hassan,4,45.9,0.08,168.912
+ORD-2847,2/28/2026,West,Online,New,Networking,Ethernet Cable,Priya Shah,2,20.8,0.05,39.52
+ORD-2848,3/15/2026,Central,Corporate Sales,Returning,Computers,Gaming Laptop,Kevin Yap,1,3990,0.08,3670.8
+ORD-2849,12/21/2026,North,Retail Store,Returning,Storage,External SSD 1TB,Aisha Lim,1,427.5,0.15,363.375
+ORD-2850,5/23/2026,North,Online,Returning,Computers,Desktop Mini,Aisha Lim,1,1800,0.15,1530
+ORD-2851,7/22/2026,South,Retail Store,Returning,Computers,Desktop Mini,Raj Kumar,1,1800,0,1800
+ORD-2852,10/5/2026,North,Marketplace,Returning,Computers,Gaming Laptop,Mei Tan,1,4200,0.05,3990
+ORD-2853,3/28/2026,North,Retail Store,New,Accessories,Mouse Pad,Aisha Lim,2,15,0,30
+ORD-2854,5/29/2026,South,Retail Store,Returning,Computers,All-in-One PC,Raj Kumar,1,3000,0.03,2910
+ORD-2855,11/27/2026,North,Online,New,Office Supplies,Pen Pack,Mei Tan,2,12,0.05,22.8
+ORD-2856,3/27/2026,Central,Retail Store,New,Computers,Laptop Air 13,Chloe Lim,3,2500,0.15,6375
+ORD-2857,12/25/2026,East,Marketplace,Returning,Storage,Memory Card 256GB,Grace Ng,1,95.4,0.15,81.09
+ORD-2858,9/24/2026,South,Online,New,Storage,USB Drive 128GB,Raj Kumar,1,60,0.08,55.2
+ORD-2859,9/12/2026,North,Marketplace,New,Accessories,Webcam,Aisha Lim,2,81.6,0.08,150.144
+ORD-2860,1/11/2026,Central,Retail Store,Returning,Computers,All-in-One PC,Hafiz Rahman,1,2910,0.05,2764.5
+ORD-2861,6/25/2026,South,Online,Returning,Accessories,Webcam,Farah Ali,1,80,0.15,68
+ORD-2862,2/19/2026,South,Marketplace,Returning,Accessories,Laptop Stand,Jason Lee,1,38,0.03,36.86
+ORD-2863,7/8/2026,North,Retail Store,Returning,Office Supplies,Notebook Set,Daniel Wong,1,25,0.08,23
+ORD-2864,12/14/2026,Central,Retail Store,Returning,Office Supplies,Sticky Notes,Kevin Yap,2,7.76,0.03,15.0544
+ORD-2865,6/1/2026,South,Retail Store,New,Storage,USB Drive 128GB,Farah Ali,1,60,0.1,54
+ORD-2866,5/22/2026,North,Online,New,Office Supplies,Sticky Notes,Mei Tan,1,7.6,0.05,7.22
+ORD-2867,5/22/2026,East,Online,Returning,Monitors,Portable Monitor,Grace Ng,2,742,0.15,1261.4
+ORD-2868,11/19/2026,Central,Marketplace,New,Office Supplies,Pen Pack,Hafiz Rahman,6,12,0.1,64.8
+ORD-2869,4/29/2026,South,Retail Store,Returning,Office Supplies,Notebook Set,Farah Ali,1,24.25,0.08,22.31
+ORD-2870,6/19/2026,North,Marketplace,Returning,Storage,USB Drive 128GB,Daniel Wong,1,60,0.03,58.2
+ORD-2871,6/17/2026,South,Online,Returning,Computers,All-in-One PC,Jason Lee,1,3000,0.2,2400
+ORD-2872,8/15/2026,East,Retail Store,Returning,Office Supplies,Printer Paper,Grace Ng,3,18.36,0.08,50.6736
+ORD-2873,2/17/2026,West,Marketplace,New,Accessories,USB-C Hub,Priya Shah,4,58.3,0.08,214.544
+ORD-2874,11/27/2026,North,Online,Returning,Accessories,Webcam,Aisha Lim,6,84.8,0.08,468.096
+ORD-2875,10/17/2026,South,Marketplace,Returning,Office Supplies,Desk Organizer,Raj Kumar,2,35,0.1,63
+ORD-2876,7/13/2026,Central,Online,New,Accessories,Wireless Mouse,Hafiz Rahman,3,45,0.03,130.95
+ORD-2877,11/4/2026,West,Retail Store,Returning,Networking,Wi-Fi Router,Sofia Tan,7,280,0.05,1862
+ORD-2878,11/1/2026,West,Retail Store,Returning,Networking,Mesh Wi-Fi Set,Ben Ho,2,727.5,0.1,1309.5
+ORD-2879,5/18/2026,Central,Marketplace,Returning,Accessories,Laptop Stand,Kevin Yap,3,36.86,0.1,99.522
+ORD-2880,7/25/2026,North,Corporate Sales,Returning,Accessories,Mouse Pad,Mei Tan,4,15.3,0.1,55.08
+ORD-2881,10/4/2026,North,Online,Returning,Accessories,Webcam,Aisha Lim,5,80,0.2,320
+ORD-2882,2/28/2026,South,Online,Returning,Accessories,Wireless Mouse,Jason Lee,5,45.9,0.1,206.55
+ORD-2883,9/2/2026,South,Online,New,Accessories,USB-C Hub,Jason Lee,2,55,0.15,93.5
+ORD-2884,10/17/2026,East,Online,Returning,Networking,Wi-Fi Router,Grace Ng,4,280,0.05,1064
+ORD-2885,6/8/2026,North,Online,Returning,Storage,USB Drive 128GB,Aisha Lim,7,61.2,0.2,342.72
+ORD-2886,2/21/2026,Central,Retail Store,New,Storage,Memory Card 256GB,Chloe Lim,1,93.6,0.05,88.92
+ORD-2887,5/26/2026,Central,Online,New,Computers,All-in-One PC,Chloe Lim,1,2850,0.1,2565
+ORD-2888,6/6/2026,East,Marketplace,Returning,Computers,Gaming Laptop,Amir Hassan,1,4368,0.2,3494.4
+ORD-2889,3/3/2026,South,Online,New,Storage,Memory Card 256GB,Jason Lee,1,87.3,0,87.3
+ORD-2890,6/11/2026,West,Online,Returning,Office Supplies,Desk Organizer,Ben Ho,5,36.4,0,182
+ORD-2891,12/2/2026,North,Retail Store,New,Monitors,27-inch Monitor,Mei Tan,1,807.5,0.08,742.9
+ORD-2892,6/30/2026,Central,Marketplace,New,Accessories,Laptop Stand,Chloe Lim,1,40.28,0.15,34.238
+ORD-2893,8/26/2026,North,Online,Returning,Storage,Memory Card 256GB,Daniel Wong,2,95.4,0.08,175.536
+ORD-2894,11/21/2026,Central,Marketplace,Returning,Accessories,Webcam,Hafiz Rahman,6,80,0.08,441.6
+ORD-2895,11/25/2026,Central,Online,Returning,Office Supplies,Desk Organizer,Hafiz Rahman,1,37.1,0.08,34.132
+ORD-2896,4/7/2026,North,Marketplace,Returning,Networking,Wi-Fi Router,Aisha Lim,4,271.6,0.15,923.44
+ORD-2897,10/25/2026,Central,Online,Returning,Monitors,24-inch Monitor,Kevin Yap,1,614.8,0.05,584.06
+ORD-2898,10/31/2026,East,Corporate Sales,New,Computers,Gaming Laptop,Nora Chen,1,4452,0.05,4229.4
+ORD-2899,9/20/2026,North,Marketplace,Returning,Accessories,Webcam,Mei Tan,7,83.2,0.03,564.928
+ORD-2900,6/12/2026,South,Online,New,Accessories,Mouse Pad,Raj Kumar,5,15,0.05,71.25
+ORD-2901,8/24/2026,West,Retail Store,New,Computers,Desktop Mini,Ben Ho,1,1746,0.08,1606.32
+ORD-2902,9/27/2026,West,Online,New,Accessories,Keyboard,Priya Shah,1,63.05,0.05,59.8975
+ORD-2903,5/31/2026,West,Online,Returning,Monitors,Portable Monitor,Ben Ho,2,665,0.1,1197
+ORD-2904,3/13/2026,Central,Marketplace,Returning,Accessories,Keyboard,Hafiz Rahman,1,66.3,0.08,60.996
+ORD-2905,10/6/2026,South,Online,Returning,Storage,External HDD 2TB,Jason Lee,2,320,0,640
+ORD-2906,1/7/2026,South,Retail Store,New,Computers,Laptop Pro 14,Farah Ali,1,3392,0.05,3222.4
+ORD-2907,9/6/2026,North,Marketplace,Returning,Accessories,Laptop Stand,Daniel Wong,2,38,0.15,64.6
+ORD-2908,2/19/2026,South,Retail Store,Returning,Accessories,Laptop Stand,Raj Kumar,2,40.28,0.03,78.1432
+ORD-2909,2/8/2026,North,Marketplace,Returning,Accessories,USB-C Hub,Mei Tan,3,55,0,165
+ORD-2910,9/6/2026,North,Online,Returning,Computers,Laptop Pro 14,Aisha Lim,2,3392,0.08,6241.28
+ORD-2911,3/4/2026,North,Marketplace,New,Networking,Ethernet Cable,Mei Tan,5,20.8,0.2,83.2
+ORD-2912,8/18/2026,Central,Marketplace,Returning,Accessories,Laptop Stand,Chloe Lim,1,38,0,38
+ORD-2913,11/25/2026,South,Marketplace,Returning,Accessories,Laptop Stand,Raj Kumar,1,38,0.08,34.96
+ORD-2914,5/7/2026,Central,Online,New,Networking,Wi-Fi Router,Hafiz Rahman,2,280,0.1,504
+ORD-2915,11/13/2026,East,Online,New,Storage,USB Drive 128GB,Amir Hassan,1,61.2,0.2,48.96
+ORD-2916,6/21/2026,East,Marketplace,Returning,Accessories,Mouse Pad,Grace Ng,2,15,0.05,28.5
+ORD-2917,5/18/2026,South,Retail Store,New,Accessories,Mouse Pad,Jason Lee,2,14.55,0.15,24.735
+ORD-2918,12/3/2026,North,Retail Store,Returning,Networking,Ethernet Cable,Daniel Wong,2,20.8,0.08,38.272
+ORD-2919,9/5/2026,North,Online,New,Accessories,Webcam,Daniel Wong,2,80,0,160
+ORD-2920,10/15/2026,Central,Retail Store,New,Monitors,24-inch Monitor,Chloe Lim,1,614.8,0.1,553.32
+ORD-2921,2/10/2026,North,Retail Store,Returning,Office Supplies,Pen Pack,Mei Tan,3,12.48,0.1,33.696
+ORD-2922,11/26/2026,South,Online,Returning,Monitors,Ultrawide Monitor,Raj Kumar,4,1590,0,6360
+ORD-2923,2/19/2026,Central,Retail Store,New,Accessories,Mouse Pad,Chloe Lim,1,14.25,0.2,11.4
+ORD-2924,10/16/2026,West,Corporate Sales,Returning,Computers,Desktop Mini,Sofia Tan,2,1710,0.1,3078
+ORD-2925,1/1/2026,East,Online,Returning,Storage,Memory Card 256GB,Nora Chen,1,95.4,0,95.4
+ORD-2926,1/17/2026,East,Corporate Sales,Returning,Computers,Laptop Pro 14,Nora Chen,2,3328,0,6656
+ORD-2927,6/25/2026,West,Online,New,Storage,External HDD 2TB,Priya Shah,4,339.2,0.1,1221.12
+ORD-2928,12/19/2026,West,Corporate Sales,Returning,Monitors,Ultrawide Monitor,Sofia Tan,2,1500,0.15,2550
+ORD-2929,12/28/2026,Central,Retail Store,Returning,Computers,Laptop Pro 14,Kevin Yap,1,3040,0.1,2736
+ORD-2930,7/22/2026,North,Retail Store,Returning,Office Supplies,Pen Pack,Mei Tan,1,12.72,0,12.72
+ORD-2931,5/22/2026,East,Corporate Sales,Returning,Computers,Laptop Air 13,Grace Ng,1,2500,0,2500
+ORD-2932,4/28/2026,West,Online,New,Storage,USB Drive 128GB,Ben Ho,2,62.4,0.05,118.56
+ORD-2933,12/20/2026,East,Online,Returning,Accessories,USB-C Hub,Nora Chen,2,57.2,0.1,102.96
+ORD-2934,1/5/2026,South,Corporate Sales,New,Computers,All-in-One PC,Raj Kumar,1,2910,0.03,2822.7
+ORD-2935,9/17/2026,East,Marketplace,New,Accessories,USB-C Hub,Nora Chen,1,55,0.05,52.25
+ORD-2936,7/23/2026,South,Online,New,Networking,Mesh Wi-Fi Set,Raj Kumar,2,780,0.15,1326
+ORD-2937,5/15/2026,North,Online,New,Accessories,Webcam,Daniel Wong,3,80,0.03,232.8
+ORD-2938,2/14/2026,Central,Retail Store,Returning,Networking,Ethernet Cable,Hafiz Rahman,2,19,0.15,32.3
+ORD-2939,2/2/2026,North,Retail Store,New,Computers,Gaming Laptop,Mei Tan,1,3990,0,3990
+ORD-2940,7/15/2026,North,Online,Returning,Networking,Mesh Wi-Fi Set,Daniel Wong,3,750,0.2,1800
+ORD-2941,6/12/2026,North,Online,Returning,Networking,Ethernet Cable,Aisha Lim,3,19,0.08,52.44
+ORD-2942,3/27/2026,West,Corporate Sales,Returning,Computers,Gaming Laptop,Sofia Tan,4,3990,0.05,15162
+ORD-2943,11/15/2026,South,Online,Returning,Computers,Laptop Pro 14,Raj Kumar,1,3104,0.05,2948.8
+ORD-2944,5/24/2026,West,Retail Store,New,Office Supplies,Printer Paper,Ben Ho,2,18,0.03,34.92
+ORD-2945,2/14/2026,East,Online,New,Accessories,Mouse Pad,Nora Chen,5,15,0.08,69
+ORD-2946,6/1/2026,East,Marketplace,Returning,Computers,Desktop Mini,Amir Hassan,3,1872,0.15,4773.6
+ORD-2947,12/31/2026,Central,Marketplace,Returning,Computers,All-in-One PC,Kevin Yap,1,3180,0.15,2703
+ORD-2948,4/15/2026,Central,Corporate Sales,Returning,Storage,USB Drive 128GB,Chloe Lim,2,57,0.2,91.2
+ORD-2949,11/10/2026,East,Retail Store,New,Accessories,Keyboard,Amir Hassan,5,66.3,0.15,281.775
+ORD-2950,1/24/2026,South,Corporate Sales,Returning,Computers,Laptop Pro 14,Farah Ali,1,3200,0.1,2880
+ORD-2951,11/20/2026,West,Online,New,Monitors,27-inch Monitor,Ben Ho,4,807.5,0.1,2907
+ORD-2952,11/21/2026,Central,Corporate Sales,New,Storage,Memory Card 256GB,Chloe Lim,7,90,0.03,611.1
+ORD-2953,6/1/2026,Central,Retail Store,New,Computers,All-in-One PC,Chloe Lim,1,3000,0.15,2550
+ORD-2954,10/17/2026,East,Retail Store,Returning,Accessories,USB-C Hub,Amir Hassan,2,57.2,0.1,102.96
+ORD-2955,11/27/2026,North,Online,New,Office Supplies,Desk Organizer,Mei Tan,1,35,0.15,29.75
+ORD-2956,11/6/2026,South,Online,Returning,Accessories,Webcam,Farah Ali,1,83.2,0.2,66.56
+ORD-2957,3/23/2026,West,Marketplace,Returning,Networking,Mesh Wi-Fi Set,Sofia Tan,1,750,0.1,675
+ORD-2958,8/18/2026,Central,Retail Store,Returning,Accessories,Wireless Mouse,Hafiz Rahman,1,45,0,45
+ORD-2959,12/16/2026,Central,Online,Returning,Monitors,24-inch Monitor,Chloe Lim,2,614.8,0.08,1131.232
+ORD-2960,10/4/2026,Central,Corporate Sales,Returning,Computers,Desktop Mini,Kevin Yap,2,1710,0.05,3249
+ORD-2961,9/28/2026,Central,Retail Store,Returning,Office Supplies,Notebook Set,Hafiz Rahman,1,24.25,0.2,19.4
+ORD-2962,3/17/2026,North,Online,Returning,Accessories,Webcam,Mei Tan,3,84.8,0,254.4
+ORD-2963,10/20/2026,West,Corporate Sales,Returning,Networking,Wi-Fi Router,Sofia Tan,2,291.2,0.1,524.16
+ORD-2964,10/16/2026,Central,Online,Returning,Storage,Memory Card 256GB,Kevin Yap,2,90,0.1,162
+ORD-2965,3/11/2026,Central,Online,Returning,Monitors,24-inch Monitor,Chloe Lim,1,551,0.03,534.47
+ORD-2966,9/23/2026,East,Corporate Sales,Returning,Networking,Wi-Fi Router,Amir Hassan,4,266,0.05,1010.8
+ORD-2967,3/25/2026,North,Marketplace,Returning,Accessories,Wireless Mouse,Aisha Lim,3,46.8,0.1,126.36
+ORD-2968,8/25/2026,South,Online,Returning,Computers,Gaming Laptop,Jason Lee,1,3990,0.05,3790.5
+ORD-2969,5/14/2026,East,Online,Returning,Networking,Ethernet Cable,Nora Chen,1,20,0,20
+ORD-2970,11/29/2026,South,Online,New,Monitors,24-inch Monitor,Jason Lee,1,580,0,580
+ORD-2971,7/9/2026,Central,Online,Returning,Storage,External SSD 1TB,Hafiz Rahman,3,450,0.03,1309.5
+ORD-2972,7/8/2026,North,Online,New,Computers,Laptop Pro 14,Mei Tan,1,3040,0,3040
+ORD-2973,2/3/2026,South,Corporate Sales,Returning,Storage,Memory Card 256GB,Raj Kumar,6,90,0.1,486
+ORD-2974,9/30/2026,East,Online,New,Accessories,Wireless Mouse,Amir Hassan,1,45.9,0,45.9
+ORD-2975,12/14/2026,South,Marketplace,Returning,Office Supplies,Sticky Notes,Farah Ali,5,8.32,0.03,40.352
+ORD-2976,4/11/2026,South,Corporate Sales,Returning,Computers,Laptop Pro 14,Raj Kumar,3,3392,0.05,9667.2
+ORD-2977,2/19/2026,South,Retail Store,Returning,Computers,Desktop Mini,Raj Kumar,1,1800,0.15,1530
+ORD-2978,10/26/2026,East,Online,Returning,Accessories,Laptop Stand,Amir Hassan,2,38,0.1,68.4
+ORD-2979,10/14/2026,West,Retail Store,New,Accessories,Wireless Mouse,Priya Shah,2,42.75,0,85.5
+ORD-2980,6/12/2026,South,Online,Returning,Monitors,27-inch Monitor,Raj Kumar,2,901,0,1802
+ORD-2981,7/10/2026,Central,Retail Store,Returning,Office Supplies,Desk Organizer,Hafiz Rahman,5,33.95,0.05,161.2625
+ORD-2982,9/22/2026,North,Online,Returning,Computers,Gaming Laptop,Mei Tan,4,4368,0.15,14851.2
+ORD-2983,7/27/2026,South,Online,Returning,Accessories,Wireless Mouse,Raj Kumar,3,47.7,0.05,135.945
+ORD-2984,3/31/2026,North,Marketplace,New,Accessories,Mouse Pad,Aisha Lim,2,15.6,0.1,28.08
+ORD-2985,8/7/2026,Central,Retail Store,Returning,Monitors,24-inch Monitor,Hafiz Rahman,3,603.2,0.08,1664.832
+ORD-2986,7/30/2026,East,Retail Store,Returning,Accessories,Mouse Pad,Amir Hassan,4,15.3,0.1,55.08
+ORD-2987,1/26/2026,North,Retail Store,Returning,Office Supplies,Printer Paper,Aisha Lim,3,18,0.1,48.6
+ORD-2988,8/15/2026,East,Online,New,Accessories,Mouse Pad,Amir Hassan,2,15.3,0,30.6
+ORD-2989,7/29/2026,East,Corporate Sales,New,Computers,Laptop Pro 14,Amir Hassan,1,3040,0.1,2736
+ORD-2990,3/6/2026,East,Marketplace,Returning,Accessories,Mouse Pad,Nora Chen,1,15,0.1,13.5
+ORD-2991,12/5/2026,East,Online,New,Monitors,Ultrawide Monitor,Amir Hassan,1,1590,0.03,1542.3
+ORD-2992,2/6/2026,North,Online,Returning,Monitors,24-inch Monitor,Daniel Wong,1,580,0.05,551
+ORD-2993,7/2/2026,South,Marketplace,Returning,Networking,Wi-Fi Router,Raj Kumar,3,280,0.15,714
+ORD-2994,1/6/2026,West,Marketplace,Returning,Office Supplies,Notebook Set,Sofia Tan,8,24.25,0.15,164.9
+ORD-2995,9/9/2026,East,Online,Returning,Accessories,Wireless Mouse,Nora Chen,2,47.7,0.15,81.09
+ORD-2996,12/26/2026,Central,Retail Store,New,Office Supplies,Notebook Set,Hafiz Rahman,4,25.5,0.2,81.6
+ORD-2997,8/7/2026,North,Marketplace,New,Office Supplies,Printer Paper,Aisha Lim,5,18,0.15,76.5
+ORD-2998,3/9/2026,Central,Retail Store,New,Monitors,27-inch Monitor,Hafiz Rahman,2,807.5,0.08,1485.8
+ORD-2999,4/6/2026,Central,Retail Store,Returning,Networking,Ethernet Cable,Kevin Yap,4,19.4,0.03,75.272
+ORD-3000,3/15/2026,West,Marketplace,Returning,Monitors,24-inch Monitor,Ben Ho,3,580,0,1740
